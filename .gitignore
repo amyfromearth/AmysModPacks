@@ -1,0 +1,9 @@
+Backups/
+CraftTweaker_Dumps/
+CRASHES/
+TestServer/
+*.log
+*.mrpack
+java_args.txt
+MasterCredits.txt
+packwiz
