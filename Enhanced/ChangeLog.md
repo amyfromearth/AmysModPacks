@@ -1,16 +1,21 @@
 # Changelog
 
-All notable changes to Amy's Enhanced Vanilla Modpack will be documented in this file.
+All notable changes to Amy's Enhanced Vanilla Modpack will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
 
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
+## [UNRELEASED]
 
-### [UNRELEASED]
+### Changed
 
-## Changed
-
+  - Updated and renamed ChangeLog.txt to ChangeLog.md
+  - Updated Credits.txt to be consistent with my other modpacks
   - Monsters should not spawn in Skylands biomes
   - Changed configs
     * MobFilter
+
+### Added
+
+  - Added LICENSE.md
+  - Added ReadMe.md
 
 ## [0.3.0] - 2023-11-10
 
@@ -179,4 +184,4 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.0.0/)
  
 ## [0.1.0] - 2023-10-10
 
-  - Initial limited release to Discord
+  - Initial limited release to Discord for testing

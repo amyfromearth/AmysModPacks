@@ -1,16 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
-file = "ChangeLog.txt"
-hash = "e68c4f176bffe151d99373e0f5b7d4fa40ea8730595126ef2b0b4de73c46923e"
+file = "ChangeLog.md"
+hash = "3e839f3f101643b47497e22ca53b58e9f30bc105016d8afdf5749e1064f43711"
 
 [[files]]
 file = "Credits.txt"
-hash = "1f68d897f55cd9a6e69ed9094c62d83ae0acfc2f4c3074b05ac0159285faf462"
+hash = "abb2a40571b4a89aff4fa18aa0a42db71824db922d31360841a3312358ba891c"
+
+[[files]]
+file = "LICENSE.md"
+hash = "b17a51eac18b5b63a943ee387557b1013c9e51178467e2245c789b29a4bab089"
 
 [[files]]
 file = "ModrinthDescription.txt"
-hash = "02527f2ccab80f0447740c147f7af43e3b9180e67b22f6b3dde758ad45281907"
+hash = "916f3a2f4b602af9bb3b670cf158f5bd3c1bfb3c0520b8b0ad237723a91c4a81"
+
+[[files]]
+file = "ReadMe.md"
+hash = "b0b9e22a5ab5b3d1185f5599f3c584eca97196b7212e9edb7b9c219f9b68595c"
 
 [[files]]
 file = "config/EssentialCommands.properties"
@@ -162,7 +170,7 @@ hash = "4fb871397dae7e5b8012a680e5820f7fb5fc53930c71e0661d40bf60880ea6f6"
 
 [[files]]
 file = "config/mobfilter.yaml"
-hash = "d64542fe11acbef5cdc9f0c22552756bd67a24c4b8b604e8d588ae2eb410f522"
+hash = "4d25f2158414a312db8118dacdf6db1a68c729fd7836e7b134f1d8d137157792"
 
 [[files]]
 file = "config/modmenu.json"

@@ -443,7 +443,7 @@ LICENSE
   MIT https://spdx.org/licenses/MIT.html
   MPL-2.0 https://www.mozilla.org/en-US/MPL/2.0/
   NaiNonTheN00b1 ToU Class II https://nainonth.github.io/docs/terms-of-use#class-ii
-  Stardust Labs License https://github.com/Stardust-Labs-MC/license/blob/main/license.txt **Must attribute
+  Stardust Labs License https://github.com/Stardust-Labs-MC/license/blob/main/license.txt
   tr7zw Protective License https://github.com/tr7zw/EntityCulling/blob/1.18/LICENSE-EntityCulling
   Unlicense https://spdx.org/licenses/Unlicense.html
-  Vanilla Tweaks https://vanillatweaks.net/terms/ **Must attribute
+  Vanilla Tweaks https://vanillatweaks.net/terms/
