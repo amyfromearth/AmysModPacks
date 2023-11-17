@@ -13,6 +13,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ### Changed
 
+  - Updated and renamed ChangeLog.txt to ChangeLog.md
+  - Updated Credits.txt to be consistent with my other modpacks
   - Monsters should no longer spawn in Skylands biomes
   - Updated configs
     * MobFilter
@@ -42,6 +44,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ### Added
 
+  - Added LICENSE.md
+  - Added ReadMe.md
   - Added configs
     * Naturalist
   - Added mods
@@ -133,7 +137,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [0.1.0] - 2023-11-03
 
-Initial limited alpha realease
+Initial limited alpha realease to Discord for testing
 
 ### Added
 

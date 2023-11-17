@@ -1,4 +1,4 @@
-Amy's Awesome Vanilla Plus Server
+Amy's Awesome Vanilla Plus Server ModPack is intended to ONLY be distributed via Modrinth.com but includes files from several sources.  All diligence was done to assure at the time of publication I had permission to redistribute these files:
 
 The following mods are included:
 
