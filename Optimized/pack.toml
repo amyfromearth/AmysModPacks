@@ -1,0 +1,13 @@
+name = "Amy's Optimized Vanilla Modpack"
+author = "AmyFromEarth"
+version = "0.1.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "d142ca2f7ab78e4fd5540f2753728a39d0eaa556ee39cc747c1ce89ffbe841a5"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.21.0"

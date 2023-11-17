@@ -1,0 +1,101 @@
+# LambDynamicLights configuration.
+# The dynamic lights mode
+mode = "fancy"
+
+# Light sources settings.
+[light_sources]
+	# Enable entities light source.
+	entities = true
+	# Enable first-person player light source.
+	self = true
+	# Enable block entities light source.
+	block_entities = true
+	# Enables water-sensitive light sources check. This means that water-sensitive items will not light up when submerged in water.
+	water_sensitive_check = true
+	# Creeper lighting mode. May be off, simple or fancy.
+	creeper = "fancy"
+	# TNT lighting mode. May be off, simple or fancy.
+	tnt = "fancy"
+
+	[light_sources.settings]
+
+		[light_sources.settings.entities]
+
+			[light_sources.settings.entities.minecraft]
+				glow_item_frame = false
+				player = true
+				drowned = true
+				item = true
+				cow = true
+				pig = true
+				squid = true
+				salmon = true
+				bat = true
+				cod = true
+				creeper = true
+				zombie = true
+				skeleton = true
+				spider = true
+				enderman = true
+				glow_squid = true
+				witch = true
+				bee = true
+				zombie_villager = true
+				chicken = true
+				slime = true
+				sheep = true
+				cave_spider = true
+				axolotl = true
+				chest_minecart = true
+				villager = true
+				armor_stand = true
+				painting = true
+				dolphin = true
+				tnt_minecart = true
+				pillager = true
+				vindicator = true
+				goat = true
+				stray = true
+				rabbit = true
+				elder_guardian = true
+				guardian = true
+				wolf = true
+				lightning_bolt = true
+				fox = true
+				phantom = true
+				item_frame = true
+				wither_skeleton = true
+				piglin = true
+				blaze = true
+				zombified_piglin = true
+				magma_cube = true
+				vex = true
+				ghast = true
+				strider = true
+				hoglin = true
+				ender_dragon = true
+				ender_pearl = true
+				shulker = true
+				donkey = true
+				horse = true
+				evoker = true
+				allay = true
+				area_effect_cloud = true
+				arrow = true
+				block_display = true
+				boat = true
+				camel = true
+				cat = true
+				chest_boat = true
+				command_block_minecart = true
+				dragon_fireball = true
+				egg = true
+				end_crystal = true
+				endermite = true
+				evoker_fangs = true
+				experience_bottle = true
+				experience_orb = true
+				eye_of_ender = true
+				falling_block = true
+				firework_rocket = true
+

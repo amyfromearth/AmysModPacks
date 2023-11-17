@@ -1,0 +1,17 @@
+{
+	"$schema": "file:///home/amy/.var/app/org.prismlauncher.PrismLauncher/data/PrismLauncher/instances/Amy's%20Performance%20UI%20UX%20Visuals%20SoundScape%20WorldGen%20Functional%20Modpack/.minecraft/config/boring_default_game_rules/config.schema.json",
+	"default_game_rules": {
+		"canEnderDragonDestroyBlocks": false,
+		"canEndermenPickBlocks": false,
+		"canEndermenPlaceBlocks": false,
+		"chargedCreeperExplosions": "DESTROY",
+		"companion:alwaysTeleportHorses": true,
+		"companion:petFriendlyFire": false,
+		"creeperExplosions": "DAMAGE_ONLY",
+		"ghastFireballExplosions": "DAMAGE_ONLY",
+		"lavaSourceConversion": true,
+		"playersSleepingPercentage": 10,
+		"witherSkullExplosions": "DAMAGE_ONLY"
+	},
+	"generate_json_schema": true
+}

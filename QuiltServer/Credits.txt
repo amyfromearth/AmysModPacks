@@ -1,0 +1,435 @@
+Amy's Awesome Vanilla Plus Server
+
+The following mods are included:
+
+PERFORMANCE
+  Carpet-Fixes {MIT}
+    Bug Fixes (Client or Server) https://modrinth.com/mod/carpet-fixes
+  Clumps {MIT}
+    XP orb optimization (Client and Server) https://modrinth.com/mod/clumps
+  Concurrent Chunk Management Engine (Fabric) {MIT}
+    Chunk optimization (Client or Server) https://modrinth.com/mod/c2me-fabric
+  FerriteCore {MIT}
+    Memory usage optimization (Client or Server) https://modrinth.com/mod/ferrite-core    
+  Krypton {LGPL-3.0-only}
+    Network optimization (Client or Server) https://modrinth.com/mod/krypton
+  Lithium {LGPL-3.0-only}
+    Multiple optimizations (Client or Server) https://modrinth.com/mod/lithium
+  Memory Leak Fix {LGPL-2.1-only}
+    Memory fixes (Client or Server) https://modrinth.com/mod/memoryleakfix
+  MixinTrace {MIT}
+    Improves crash reports (Client or Server) https://modrinth.com/mod/mixintrace
+  ModernFix {LGPL-3.0-only}
+    Multiple fixes and optimizations (Client or Server) https://modrinth.com/mod/modernfix
+  Not Enough Crashes {MIT}
+    Improved crash handling (Client or Server) https://modrinth.com/mod/notenoughcrashes
+  Starlight (Fabric) {LGPL-3.0-only}
+    Light engine optimizations (Client or Server) https://modrinth.com/mod/starlight
+  ServerCore {MIT}
+    Server optimization [Client or Server] https://modrinth.com/mod/servercore
+  spark {GPL-3.0-only}
+    Performance profiler for Minecraft clients, servers and proxies [Client or Server] https://modrinth.com/mod/spark
+
+UI/UX
+  AppleSkin {Unlicense}
+    Food/hunger related HUD improvements (Client and Server) https://modrinth.com/mod/appleskin
+  Compact Help Command {All rights reserved unless explicitly stated.}
+    Improved help command (Server) https://modrinth.com/mod/compact-help-command
+  Jade 🔍 {CC-BY-NC-SA-4.0}
+    Adds information to your HUD about what you're looking at (Client or Server) https://modrinth.com/mod/jade
+  Mod Menu {MIT}
+    Adds a mod menu to Minecraft (Client) https://modrinth.com/mod/modmenu
+  Paper Doll {MPL-2.0}
+    Adds small player model to HUD for certain actions (Client and Server) https://modrinth.com/mod/paper-doll
+  Refined Advancements {Splatus License}
+    Adds advancements (Server) https://modrinth.com/datapack/refined-advancements
+
+VISUAL
+  NPC Variety {All rights reserved unless explicitly stated.}
+    Additional skin tones and eye colors (Client and Server) https://modrinth.com/mod/npc-variety
+  Nyf's Spiders {LGPL-2.1-only}
+    Spider animations (Client and Server) https://modrinth.com/mod/nyfs-spiders
+
+WORLDGEN
+  ChoiceTheorem's Overhauled Village {CC-BY-NC-ND-4.0}
+    New and improved villages and pillager outposts. (Server) https://modrinth.com/mod/ct-overhaul-village
+  Hopo Better Ruined Portals {All rights reserved unless explicitly stated.}
+    Improve how the portals look [Client and Server] https://modrinth.com/datapack/hopo-better-ruined-portals
+  Hopo Better Underwater Ruins {All rights reserved unless explicitly stated.}
+    Explore new ocean ruins [Client and Server] https://modrinth.com/datapack/better-underwater-ruins
+  Incendium {Stardust Labs License}
+    Full Nether overhaul (Server) https://modrinth.com/mod/incendium
+  Not Just Biomes {MIT}
+    Improved biomes and structures (Server) https://modrinth.com/mod/not-just-biomes
+  Nullscape {Stardust Labs License}
+    Full End dimension overhaul (Server) https://modrinth.com/mod/nullscape
+  Structory {Stardust Labs License}
+    Adds structures with light lore and worldbuilding (Server) https://github.com/Stardust-Labs-MC/Structory
+  Structory: Towers {Stardust Labs License}
+    Adds immersive biome themed towers (Server) https://github.com/Stardust-Labs-MC/Structory-Towers
+  Tectonic {MIT}
+    WorldGen Overhaul (Server) https://modrinth.com/datapack/tectonic
+  Terralith {Stardust Labs License}
+    Adds biomes and structures (Server) https://modrinth.com/mod/terralith
+  Towers of the Wild: Additions {CC-BY-SA-4.0}
+    Adds towers to Nether and End dimensions (Server) https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-additions
+  Towers of the Wild: Reworked (Datapack) {MIT}
+    Adds towers to Overworld [Data Pack] https://modrinth.com/datapack/towers-of-the-wild-reworked
+  Village Nullifier {All rights reserved unless explicitly stated.}
+    Prevents vanilla villages from generating (Server) https://modrinth.com/datapack/village-nullifier
+  YUNGNICKYOUNG'S Structure Mods: Complete revamps of vanilla structures and additional structures
+    YUNG's Better Desert Temples {LGPL-3.0-only} (Server) https://modrinth.com/mod/yungs-better-desert-temples
+    YUNG's Better Dungeons {LGPL-3.0-only} (Server) https://modrinth.com/mod/yungs-better-dungeons
+    YUNG's Better End Island {LGPL-3.0-only} (Server) https://modrinth.com/mod/yungs-better-end-island
+    YUNG's Better Jungle Temples {LGPL-3.0-only} (Server) https://modrinth.com/mod/yungs-better-jungle-temples
+    YUNG's Better Mineshafts {LGPL-3.0-only} (Server) https://modrinth.com/mod/yungs-better-mineshafts
+    YUNG's Better Nether Fortresses {LGPL-3.0-only} (Server) https://modrinth.com/mod/yungs-better-nether-fortresses
+    YUNG's Better Ocean Monuments {LGPL-3.0-only} (Server) https://modrinth.com/mod/yungs-better-ocean-monuments
+    YUNG's Better Strongholds {LGPL-3.0-only} (Server) https://modrinth.com/mod/yungs-better-strongholds
+    YUNG's Better Witch Huts {LGPL-3.0-only} (Server) https://modrinth.com/mod/yungs-better-witch-huts
+    YUNG's Bridges {LGPL-3.0-only} (Server) https://modrinth.com/mod/yungs-bridges
+    YUNG's Extras {LGPL-3.0-only} (Server) https://modrinth.com/mod/yungs-extras
+
+GAMEPLAY & MECHANICS
+  Apathy {LGPL-3.0-only}
+    Adjust hostile mob aggression (Server) https://modrinth.com/mod/apathy
+  Bedspreads {LGPL-3.0-or-later}
+    Use banners as bedspreads (Client and Server) https://modrinth.com/mod/bedspreads
+  Better Beacon Placement {All rights reserved unless explicitly stated.}
+    Enhances beacon usability (Server) https://modrinth.com/mod/better-beacon-placement
+  Better Conduit Placement {All rights reserved unless explicitly stated.}
+    Enhances conduit usage (Server) https://modrinth.com/mod/better-conduit-placement
+  BetterTrims {MIT}
+    Adds effects to armor trims (Client and Server) https://modrinth.com/mod/bettertrims
+  Block Runner {MPL-2.0}
+    Increases speed on paths (Client and Server) https://modrinth.com/mod/block-runner
+  Carry On {LGPL-3.0-only}
+    Carry entities (Client and Server) https://modrinth.com/mod/carry-on
+  Cauldron Dyeing {LGPL-3.0-only}
+    Parity with Bedrock cauldrons (Client and Server) https://modrinth.com/mod/cauldron-dyeing
+  Charm of Undying {LGPL-3.0-or-later}
+    Totem use from trinket slot (Client and Server) https://modrinth.com/mod/charm-of-undying
+  Companion 🐕 {All rights reserved unless explicitly stated.}
+    Improved pet mechanics (Server) https://modrinth.com/mod/companion
+  Conduits Prevent Drowned {All rights reserved unless explicitly stated.}
+    Improved conduit ability (Server) https://modrinth.com/mod/conduits-prevent-drowned
+  Cycle Paintings {All rights reserved unless explicitly stated.}
+    Improves placing paintings (Server) https://modrinth.com/mod/cycle-paintings
+  Damage Incorporated {MIT}
+    Adds game rules involving mob damage (Server) https://modrinth.com/mod/damage-incorporated
+  Double Doors {All rights reserved unless explicitly stated.}
+    Doors, trap doors, and fence gates open simultaneously (Server) https://modrinth.com/mod/double-doors
+  Easy Anvils {MPL-2.0}
+    Improvements to anvils (Client and Server) https://modrinth.com/mod/easy-anvils
+  Easy Magic {MPL-2.0}
+    Improvements to enchanting table (Client and Server) https://modrinth.com/mod/easy-magic
+  Easy Shulker Boxes {MPL-2.0}
+    Improvements to shulker boxes (Client and Server) https://modrinth.com/mod/easy-shulker-boxes
+  Elytra Trims {LGPL-3.0-only}
+    Allows trims to be used on elytra (Client or Server) https://modrinth.com/mod/elytra-trims
+  Elytra Trinket {MIT}
+    Adds inventory slot for elytra (Client and Server) https://modrinth.com/mod/elytra_trinket
+  Essential Commands {MIT}
+    Quality of life commands (Server) https://modrinth.com/mod/essential-commands
+  Fabric Seasons {MPL-2.0}
+    Adds seasons to Minecraft (Client or Server) https://modrinth.com/mod/fabric-seasons
+  Fire Spread Tweaks {All rights reserved unless explicitly stated.}
+    More lenient fire mechanics (Server) https://modrinth.com/mod/fire-spread-tweaks
+  Forgotten Graves {MIT}
+    Stores items on death (Client and Server) https://modrinth.com/mod/forgotten-graves
+  GoProne (Fabric) {You may use this mod in modpacks and/or videos without asking permission. --Author statement on CF description as of 10/20/2023}
+    Adds key bind to crawl (Client and Server) https://www.curseforge.com/minecraft/mc-mods/goprone-fabric
+  Guard Villagers (Fabric/Quilt) {MIT}
+    Nitwits can use a sword (Client and Server) https://modrinth.com/mod/guard-villagers-(fabricquilt)
+  Healing Campfire {All rights reserved unless explicitly stated.}
+    Added functionality for campfires (Server) https://modrinth.com/mod/healing-campfire
+  Horse Buff {CC-BY-NC-SA-4.0}
+    Improved horse functionality (Client or Server) https://modrinth.com/mod/horsebuff
+  HT's TreeChop {MIT}
+    Improved tree chopping mechanic (Client and Server) https://modrinth.com/mod/treechop
+  Liberty's Villagers {CC0-1.0}
+    Multiple improvements for villagers (Server) https://modrinth.com/mod/libertyvillagers
+  Lootr {MIT}
+    Instanced loot chests (Client and Server) https://modrinth.com/mod/lootr
+  More Banner Features {All rights reserved unless explicitly stated.}
+    Additional uses for banners (Client and Server) https://modrinth.com/mod/more-banner-features
+  Nether Portal Spread {All rights reserved unless explicitly stated.}
+    Immersive nether portals (Server) https://modrinth.com/mod/nether-portal-spread
+  No Hostiles Around Campfire {All rights reserved unless explicitly stated.}
+    Adds functionality to campfire (Server) https://modrinth.com/mod/no-hostiles-around-campfire
+  Passable Leaves {MIT}
+    Leaves are no longer solid blocks (Client and Server) https://modrinth.com/mod/passable-leaves
+  Passive Shield {All rights reserved unless explicitly stated.}
+    Added functionality for shield (Client and Server) https://modrinth.com/mod/passive-shield
+  Realistic Bees {All rights reserved unless explicitly stated.}
+    Bees have improved visual and functionality (Client and Server) https://modrinth.com/mod/realistic-bees
+  Realistic Sleep {LGPL-2.1-only}
+    Improved sleep mechanic (Server) https://modrinth.com/mod/realisticsleep
+  Refined Advancements {Splatus License}
+    Clearer progression advancements (Server) https://modrinth.com/datapack/refined-advancements
+  Replanting Crops {All rights reserved unless explicitly stated.}
+    Improved farming (Server) https://modrinth.com/mod/replanting-crops
+  Scaffolding Drops Nearby {All rights reserved unless explicitly stated.}
+    Improved scaffolding functionality (Server) https://modrinth.com/mod/scaffolding-drops-nearby
+  Shearable Vines {MIT}
+    Quality of life improvement for vines (Client and Server) https://modrinth.com/mod/shearable-vines
+  Shiny Horses {CC0-1.0}
+    Enchantable horse armor (Client) https://modrinth.com/mod/shiny-horses
+  Smart Villagers Follow Emeralds {MIT}
+    Greedy Villagers (Server) https://modrinth.com/mod/smart-villagers-follow-emeralds
+  Snowballs Freeze Mobs {All rights reserved unless explicitly stated.}
+    Snowballs are actually useful (Server) https://modrinth.com/mod/snowballs-freeze-mobs
+  Starter Kit {All rights reserved unless explicitly stated.}
+    New players start with items (Server) https://modrinth.com/mod/starter-kit
+  Trinkets {MIT}
+    Additional inventory slots (Client and Server) https://modrinth.com/mod/trinkets
+  Wool Tweaks {All rights reserved unless explicitly stated.}
+    Changes to wool (Server) https://modrinth.com/mod/wool-tweaks
+
+CONTENT ADDITIIONS
+  Additional Blocks: Vertical Edition {All rights reserved unless explicitly stated.}
+    Adds vertical slabs and stairs (Client and Server) https://modrinth.com/mod/additional-blocks-vertical-edition
+  Animal Feeding Trough {MIT}
+    Automatic mob breeding (Client and Server) https://modrinth.com/mod/animal_feeding_trough
+  Archers (RPG Series) {All rights reserved unless explicitly stated.}
+    🏹 Draw, Release, Conquer - Master the art of Archery (Client and Server) https://modrinth.com/mod/archers
+  Aurora's Decorations {LGPL-3.0-only}
+    Decorations and useful items (Client and Server) https://modrinth.com/mod/aurorasdecorations
+  Automatic Path {MIT}
+    Immersive paths (Client and Server) https://modrinth.com/mod/autopath
+  Bartering Station {MPL-2.0}
+    Easier piglin bartering (Client and Server) https://modrinth.com/mod/bartering-station
+  Beacon Overhaul {Apache-2.0}
+    Additional beacon levels and effects (Client and Server) https://modrinth.com/mod/beaconoverhaul
+  Beautify: Refabricated {MIT} 
+    Decorative items (Client or Server) https://modrinth.com/mod/beautify-refabricated
+  Better Archeology {MIT}
+    Expanded archeology system (Client and Server) https://modrinth.com/mod/better-archeology
+  BetterPaths {LGPL-3.0-only}
+    More options for creating paths and decorating landscapes (Client and Server) https://modrinth.com/mod/betterpaths
+  Better Tridents {MPL-2.0}
+    Craftable tridents (Client and Server) https://modrinth.com/mod/better-tridents
+  Bountiful {LGPL-3.0-only}
+    Small quests from Villagers (Client and Server) https://modrinth.com/mod/bountiful
+  Bundle Jumble {MIT}
+    Dyeable bundles (Client and Server) https://modrinth.com/mod/bundle-jumble
+  Chalk (Fabric) {MIT}
+    Marking tool (Client and Server) https://modrinth.com/mod/chalk
+  Chalk: Colorful Addon {MIT}
+    Colorful marking tools (Client and Server) https://modrinth.com/mod/chalk-colorful-addon
+  Chef's Delight {MIT}
+    Addon for Farmer's Delight (Client and Server) https://modrinth.com/mod/chefs-delight
+  Chipped {All rights reserved unless explicitly stated.}
+    Decorative blocks and workstations (Client and Server) https://modrinth.com/mod/chipped
+  Consistency+ {LGPL-3.0-only}
+    Adds new blocks to make block types consistent (Client and Server) https://modrinth.com/mod/consistencyplus
+  Create Fabric Sodium Fix {MIT} 
+    Technology (Client and Server) https://modrinth.com/mod/create-fabric-sodium-fix
+  Create: Steam 'n' Rails {MIT}
+    Adds depth to Create's railways (Client and Server) https://modrinth.com/mod/create-steam-n-rails
+  Create: Structures {All rights reserved unless explicitly stated.}
+    implements naturally generating structures containing early-game Create contraptions and items [Server]
+  Delightful Creators [Fabric] {CC0-1.0}
+    Automation between Farmer's Delight and Create (Client and Server) https://modrinth.com/mod/delightful-creators-fabric
+  Earth2Java {MIT}
+    Adds mobs from Minecraft Earth (Client and Server) https://modrinth.com/mod/earth2java
+  Expanded Delight {MIT}
+    Addon for Farmer's Delight (Client and Server) https://modrinth.com/mod/expanded-delight
+  Extended Drawers {Apache-2.0}
+    Storage improvemetns (Client and Server) https://modrinth.com/mod/extended-drawers
+  Fabric Seasons: Extras {MPL-2.0}
+    Custom blocks and items for Fabric Seasons (Client and Server) https://modrinth.com/mod/fabric-seasons-extras
+  Farmer's Delight [Fabric] {MIT}
+    Additional food and game mechanics (Client and Server) https://modrinth.com/mod/farmers-delight-fabric
+  Friends&Foes (Fabric) {CC-BY-NC-ND-4.0}
+    Mob vote losers (Client and Server) https://modrinth.com/mod/friends-and-foes
+  Gazebos (RPG Series) {All rights reserved unless explicitly stated.}
+    ⛲️ Village structures hosting small spell libraries (Server) https://modrinth.com/mod/gazebos
+  Handcrafted {Terrarium Licence}
+    Decorative blocks (Client and Server) https://modrinth.com/mod/handcrafted
+  Hopo Better Ruined Portals {All rights reserved unless explicitly stated.}
+    Improves how the portals look (Client and Server) https://modrinth.com/datapack/hopo-better-ruined-portals
+  Hopo Better Underwater Ruins {All rights reserved unless explicitly stated.}
+    New ocean ruins (Client and Server) https://modrinth.com/datapack/better-underwater-ruins
+  Hybrid Aquatic {All rights reserved unless explicitly stated.}
+    enhanced underwater Minecraft experience (Client and Server)
+  Immersive Armors {GPL-3.0-only}
+    Additional vanilla style armors (Client and Server) https://modrinth.com/mod/immersive-armors
+  Just Mob Heads {All rights reserved unless explicitly stated.}
+    Adds mob heads with a chance to drop (Server) https://modrinth.com/mod/just-mob-heads
+  Just More Cakes {All rights reserved unless explicitly stated.}
+    Adds cakes and baking mechanics (Client and Server) https://modrinth.com/mod/just-more-cakes
+  Just Player Heads {All rights reserved unless explicitly stated.}
+    Adds player heads with a chance to drop (Server) https://modrinth.com/mod/just-player-heads
+  Lovely Snails {LGPL-3.0-only}
+    Snails! (Client and Server) https://modrinth.com/mod/lovely_snails
+  Map Atlases {LGPL-3.0-only}
+    Keep all your maps in a book (Client and Server) https://modrinth.com/mod/map-atlases
+  More Chests Variants (MCV) {MIT}
+    Variant chests for vanilla wood types (Client and Server) https://modrinth.com/mod/more-chest-variants-lieonlion
+  Naturalist {Starfish Studios License}
+    New immersive wildlife with realistic behavior (Client and Server) https://modrinth.com/mod/naturalist
+  Paladins & Priests (RPG Series) {All rights reserved unless explicitly stated.}
+    Magic RGP elements (Client and Server) https://modrinth.com/mod/paladins-and-priests
+  Plushie-Mod {MIT}
+    Plushies! (Client) https://modrinth.com/mod/plushie
+  Qu Enchantments {Apache-2.0}
+    Adds Vanilla inspired enchantments (Client and Server) https://modrinth.com/mod/qu-enchantments
+  Runes {All rights reserved unless explicitly stated.}
+    Adds rune item used for spells (Client and Server) https://modrinth.com/mod/runes
+  Simple Hats {Simple Hats License}
+    Adds fun hats! (Client and Server) https://modrinth.com/mod/simple-hats
+  Spice of Fabric {MIT}
+    Immersive hunger mechanics encouraging a diverse diet (Server) https://modrinth.com/mod/spice-of-fabric
+  This Rocks! {MIT}
+    Immersive decoration items (Client and Server) https://modrinth.com/mod/this-rocks
+  Tiny Skeletons {MPL-2.0}
+    Baby skeletons (Client and Server) https://modrinth.com/mod/tiny-skeletons
+  Trading Post {MPL-2.0}
+    Easily trade with nearby villagers (Client and Server) https://modrinth.com/mod/trading-post
+  UMU Backpack {MIT}
+    Backpack mod that isn't overpowered (Client and Server) https://modrinth.com/mod/umu-backpack
+  Universal Ores {LGPL-3.0-only}
+    Adds ore variants for more mineable blocks (Client and Server) https://modrinth.com/mod/universal_ores
+  Utility Belt {MIT}
+    Keep your tools off the hotbar and in your belt (Client and Server) https://modrinth.com/mod/utility-belt
+  VillagersPlus {GPL-3.0-only}
+    Additional villager proffesions (Client and Server) https://modrinth.com/mod/villagersplus
+  Waystones {twelveiterations}
+    Fast travel (Client and Server) https://modrinth.com/mod/waystones
+  Wildlife [Fabric] {All rights reserved unless explicitly stated.}
+    Adds lots of animals (Client and Server) https://modrinth.com/mod/wildlife-fabric
+  Windchimes {Unlicense}
+    Relaxing wind chimes (Client and Server) https://modrinth.com/mod/windchimes
+  Wizards (RPG Series) {All rights reserved unless explicitly stated.}
+    Magic! (Client and Server) https://modrinth.com/mod/wizards
+
+UTILITY
+  Areas {All rights reserved unless explicitly stated.}
+    Allows creation of named areas required for Random Village Names (Client) https://modrinth.com/mod/areas
+  Argonauts {MIT}
+    Guild and party functionality (Server) https://modrinth.com/mod/argonauts
+  Athena {Terrarium License}
+    Connected Texture support required for Chipped (Client) https://modrinth.com/mod/athena-ctm
+  Biome Replacer {MIT}
+    Allows customizing world generation (Server) https://modrinth.com/mod/biome-replacer
+  Boring Default Game Rules {MIT}
+    Allows setting global game rules (Server) https://modrinth.com/mod/boring-default-game-rules
+  Cadmus {MIT}
+    Land claiming (Server) https://modrinth.com/mod/cadmus
+  Carpet {MIT}
+   Additional commands and settings (Server) https://modrinth.com/mod/carpet
+  Carpet Extra {LGPL-3.0-only}
+    Addon to Carpet (Server) https://modrinth.com/mod/carpet-extra
+  CraftTweaker {MIT}
+    Change recipes, script events, add new commands and change item properties (Client and Server) https://modrinth.com/mod/crafttweaker
+  Create Slice & Dice {SliceAndDice License}
+    Farmers Delight and Create Compat (Client and Server) https://modrinth.com/mod/slice-and-dice
+  CTOV Compats: Adds compatibility between CTOV and additional mods
+    CTOV - Beautify Compat {CC-BY-NC-SA-4.0} (Server) https://modrinth.com/datapack/ctov-beautify-compat
+    CTOV - Chef's delight Compat {CC-BY-NC-SA-4.0} (Server) https://modrinth.com/datapack/ctov-chefs-delight-compat
+    CTOV - Create: Structures {CC-BY-NC-ND-4.0} (Server) https://modrinth.com/datapack/ctov-create-structures
+    CTOV - Farmer Delight Compat {CC-BY-NC-SA-4.0} (Server) https://modrinth.com/datapack/ctov-farmers-delight-compat
+    CTOV - Friends and Foes Compat {CC-BY-NC-4.0} (Server) https://modrinth.com/datapack/ctov-friends-and-foes-compat
+    CTOV - Gazebo compat {All rights reserved unless explicitly stated.} (Server) https://modrinth.com/datapack/ctov-gazebo-compat
+    CTOV - Paladins & Priests compat {All rights reserved unless explicitly stated.} [Server] https://modrinth.com/datapack/ctov-paladins-n-priests-compat
+    CTOV - Villagers Plus Compat {All rights reserved unless explicitly stated.} [Server] https://modrinth.com/datapack/ctov-villagers-plus-compat
+    CTOV - Wizards Compat {CC-BY-NC-ND-4.0} [Server] https://modrinth.com/datapack/ctov-wizards-compat
+  Fabric Seasons Compats: Compatibility between Fabric Seasons and other mods
+    Fabric Seasons: Delight Compat {MPL-2.0} (Server) https://modrinth.com/mod/fabric-seasons-delight-compat
+    Fabric Seasons: Terralith Compat {MPL-2.0} (Client) https://modrinth.com/mod/fabric-seasons-terralith-compat
+  Faux Custom Entity Data {LGPL-2.1-only}
+    API provides the framework and necessary patches for storing custom and persistent data onto entities (Client and Server) https://modrinth.com/mod/faux-custom-entity-data
+  Global Packs {All rights reserved unless explicitly stated.}
+    Datapack and Resourcepack loader (Client or Server) https://modrinth.com/mod/globalpacks
+  Jade Addons (Fabric) {All rights reserved unless explicitly stated.}
+    Adds compat for Create (Client and Server) https://modrinth.com/mod/jade-addons-fabric
+  Litemoretica {MIT}
+    Additions for litematica (Client) https://modrinth.com/mod/litemoretica
+  Mob Filter {Apache-2.0}
+    Customize mob spawning rules (Server) https://modrinth.com/mod/mobfilter
+  NetherPortalFix {twelveiterations}
+    Ensures players return through the correct portal (Server) https://modrinth.com/mod/netherportalfix
+  Patchouli {CC-BY-NC-SA-3.0}
+    Documentation system (Client and Server) https://modrinth.com/mod/patchouli
+  Pet Names {All rights reserved unless explicitly stated.}
+    Gives baby tameable animals names (Server) https://modrinth.com/mod/pet-names
+  Plasmo Voice {LGPL-3.0-only}
+    Proximity voice chat mod with audio positioning and lots of features (Client or Server) https://modrinth.com/plugin/plasmo-voice
+  PlasmoVoice Addons
+    pv-addon-groups {MIT} (Server) https://modrinth.com/plugin/pv-addon-groups
+  Projectile Damage Attribute {GPL-3.0-only}
+    🏹 Range weapon damage becomes configurable (Client and Server) https://modrinth.com/mod/projectile-damage-attribute
+  Prometheus {MIT}
+    Player permission handling (Server) https://modrinth.com/mod/prometheus
+  Random Village Names {All rights reserved unless explicitly stated.}
+    Gives villages names (Client and Server) https://modrinth.com/mod/random-village-names
+  Spell Engine {GPL-3.0-only}
+    Adds spells (Client and Server) https://modrinth.com/mod/spell-engine
+  Spell Power Attributes {LGPL-3.0-only}
+    Adds spell attributes (Client and Server) https://modrinth.com/mod/spell-power
+  Structure Pool API {MIT}
+    📚 API to inject structures into structure pools (Server) https://modrinth.com/mod/structure-pool-api
+  TimeOutOut {MIT}
+    Configure connection timeouts [Server] https://modrinth.com/mod/timeoutout
+  Villager Names {All rights reserved unless explicitly stated.}
+    Gives villagers random names (Server) https://modrinth.com/mod/villager-names-serilum
+
+LIBRARY
+  Architectury API {LGPL-3.0-only}
+    Multiplatform intermediary API (Client or Server) https://modrinth.com/mod/architectury-api
+  AzureLib Armor {MIT}
+    Striped down Azurelib just for Armor (Client and Server) https://modrinth.com/mod/azurelib-armor
+  Balm {twelveiterations}
+    Library for BlayTheNinth's mods (Client and Server) https://modrinth.com/mod/balm
+  Cardinal Components API {MIT}
+    Components API for Quilt and Fabric (Server) https://modrinth.com/mod/cardinal-components-api
+  Cloth Config API {LGPL-3.0-only}
+    Config screens (Client or Server) https://modrinth.com/mod/cloth-config
+  Collective {All rights reserved unless explicitly stated.}
+    Library for Serilium's mods (Client or Server) https://modrinth.com/mod/collective
+  Dawn API {LGPL-3.0-only}
+    Library mod for Dawn Team (Client and Server) https://modrinth.com/mod/dawn
+  Forge Config API Port {MPL-2.0}
+    Implementation of Forge loader config api for Fabric (Client and Server) https://modrinth.com/mod/forge-config-api-port
+  Geckolib {MIT}
+    Animation library (Client and Server) https://modrinth.com/mod/geckolib
+  JamLib {MIT}
+    Library for JamCoreModding's mods (Client and Server) https://modrinth.com/mod/jamlib
+  Kambrik {MIT}
+    Kotlin library (Client and Server) https://modrinth.com/mod/kambrik
+  oωo (owo-lib) {MIT}
+    General utility library (Client or Server) https://modrinth.com/mod/owo-lib
+  Puzzles Lib {MPL-2.0}
+    Library for Fuzs' mods (Client and Server) https://modrinth.com/mod/puzzles-lib
+  Quilted Fabric API (QFAPI) and Quilt Standard Libraries (QSL) {Apache-2.0}
+    Essential standard libraries for Quilt (Client or Server) https://modrinth.com/mod/qsl
+  Quilt Kotlin Libraries (QKL) {Apache-2.0}
+    Kotlin wrappers for Minecraft and QSL (Client or Server) https://modrinth.com/mod/qkl
+  Resourceful Lib {MIT}
+    General purpose library (Client and Server) https://modrinth.com/mod/resourceful-lib
+  YetAnotherConfigLib {LGPL-3.0-or-later}
+    Client side only config library (Client) https://modrinth.com/mod/yacl
+  YUNG's API {LGPL-3.0-only}
+    Library for YUNGNICKYOUNG's mods (Server) https://modrinth.com/mod/yungs-api
+
+LICENSE
+  Apache-2.0 https://www.apache.org/licenses/LICENSE-2.0
+  twelveiterations https://mods.twelveiterations.com/permissions/
+  CC0-1.0 https://creativecommons.org/publicdomain/zero/1.0/
+  CC-BY-NC-ND-4.0 https://creativecommons.org/licenses/by-nc-nd/4.0/
+  CC-BY-NC-SA-4.0 https://creativecommons.org/licenses/by-nc-sa/4.0/
+  CC-BY-SA-4.0 https://creativecommons.org/licenses/by-sa/4.0/
+  GPL-3.0-only https://spdx.org/licenses/GPL-3.0-only.html
+  LGPL-2.1-only https://spdx.org/licenses/LGPL-2.1-only.html
+  LGPL-3.0-only https://spdx.org/licenses/LGPL-3.0-only.html
+  LGPL-3.0-or-later https://spdx.org/licenses/LGPL-3.0-or-later.html
+  MIT https://spdx.org/licenses/MIT.html
+  MPL-2.0 https://www.mozilla.org/en-US/MPL/2.0/
+  Simple Hats License https://github.com/fonnymunkey/SimpleHats/blob/Forge-1.18.2/LICENSE
+  SliceAndDice License https://github.com/PssbleTrngle/SliceAndDice/blob/1.19.x/LICENSE.txt
+  Splatus License https://github.com/SpluoSplatus/Spellbound-Weapons/wiki/License
+  Stardust Labs License https://github.com/Stardust-Labs-MC/license/blob/main/license.txt
+  Starfish Studios License https://github.com/starfish-studios/Naturalist/blob/1.19.2-archive/LICENSE
+  Terrarium License https://github.com/terrarium-earth/Athena/blob/1.19.4/LICENSE
+  Unlicense https://spdx.org/licenses/Unlicense.html

@@ -1,0 +1,13 @@
+name = "Charm of Undying"
+filename = "charmofundying-quilt-6.4.5+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/b5GyyYkp/versions/VmfN2d6k/charmofundying-quilt-6.4.5%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "930549463915a95f028b43d2711671c50aaebac8"
+
+[update]
+[update.modrinth]
+mod-id = "b5GyyYkp"
+version = "VmfN2d6k"

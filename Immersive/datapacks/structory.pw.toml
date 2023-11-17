@@ -1,0 +1,8 @@
+name = "Structory"
+filename = "Structory_1.20.2_v1.3.3.zip"
+side = "server"
+
+[download]
+url = "https://github.com/Stardust-Labs-MC/Structory/releases/download/v1.3.3/Structory_1.20.2_v1.3.3.zip"
+hash-format = "sha256"
+hash = "6a365c080936f8675b3818ab0b29efb26a33f74c5ad2c7c77ee26b3276cb4e9d"

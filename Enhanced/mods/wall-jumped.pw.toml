@@ -1,0 +1,13 @@
+name = "Wall Jumped"
+filename = "walljump-fabric-1.20.1-1.4.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ulUgV6dN/versions/M7igtwKG/walljump-fabric-1.20.1-1.4.2.jar"
+hash-format = "sha1"
+hash = "9629c63019cfb73db07243001f07c1d0ea599cb1"
+
+[update]
+[update.modrinth]
+mod-id = "ulUgV6dN"
+version = "M7igtwKG"

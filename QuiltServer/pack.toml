@@ -1,0 +1,16 @@
+name = "Amy's Awesome Vanilla Plus Server Modpack"
+author = "AmyFromEarth"
+version = "0.3.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "c2e36bdafbdf7a266e64b2dd0fab6105cacacb2e81c5ffafeb3aa5f6abdf1d9d"
+
+[versions]
+minecraft = "1.20.1"
+quilt = "0.21.2"
+
+[options]
+datapack-folder = "/datapacks"

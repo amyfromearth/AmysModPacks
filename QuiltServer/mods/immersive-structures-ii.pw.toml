@@ -1,0 +1,13 @@
+name = "Immersive Structures II: Nether edition"
+filename = "imst_n-1.1.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/fECIioDQ/versions/tMnaV87R/imst_n-1.1.0.jar"
+hash-format = "sha1"
+hash = "7b7f6c4859c04f4f7280686ee549d01fbedb82eb"
+
+[update]
+[update.modrinth]
+mod-id = "fECIioDQ"
+version = "tMnaV87R"

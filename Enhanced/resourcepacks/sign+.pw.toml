@@ -1,0 +1,13 @@
+name = "Sign+ [For EBE]"
+filename = "[EBE] Sign+ V1.1.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/HTzrg26p/versions/Yl4wjoIh/%5BEBE%5D%20Sign%2B%20V1.1.zip"
+hash-format = "sha1"
+hash = "acbb8eb5b7697bca45a4f03e41e648bacbe203c7"
+
+[update]
+[update.modrinth]
+mod-id = "HTzrg26p"
+version = "Yl4wjoIh"

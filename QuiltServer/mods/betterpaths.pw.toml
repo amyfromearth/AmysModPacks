@@ -1,0 +1,13 @@
+name = "BetterPaths"
+filename = "betterpaths-0.1-1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/OPDpONZQ/versions/vjNnKIGu/betterpaths-0.1-1.20.1.jar"
+hash-format = "sha1"
+hash = "96d77785b48d1ae1ac0e6b7990d636e5bf4e8f2a"
+
+[update]
+[update.modrinth]
+mod-id = "OPDpONZQ"
+version = "vjNnKIGu"

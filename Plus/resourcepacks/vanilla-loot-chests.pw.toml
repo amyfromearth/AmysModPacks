@@ -1,0 +1,13 @@
+name = "Vanilla Loot Chests"
+filename = "VanillaLootChests.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/uonOJKhA/versions/QKwrDO6o/VanillaLootChests.zip"
+hash-format = "sha1"
+hash = "a8eeb7e179872ff42326af7dbeb297cce160a660"
+
+[update]
+[update.modrinth]
+mod-id = "uonOJKhA"
+version = "QKwrDO6o"

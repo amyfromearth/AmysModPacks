@@ -1,0 +1,8 @@
+name = "Structory: Towers"
+filename = "Structory_Towers_1.20.2_v1.0.5.zip"
+side = "server"
+
+[download]
+url = "https://github.com/Stardust-Labs-MC/Structory-Towers/releases/download/v1.0.5/Structory_Towers_1.20.2_v1.0.5.zip"
+hash-format = "sha256"
+hash = "cc2856045e44a2eebb393b4568bd2684fdcced06ee26cf594300f3be5c04dc97"

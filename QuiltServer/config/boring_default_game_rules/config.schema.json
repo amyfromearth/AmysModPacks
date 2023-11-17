@@ -1,0 +1,691 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "Boring Default Game Rules Configuration File",
+  "gameRulesHash": "eb824cc1b398025d1ff4738b39e555264610eb61f2f755c4b8275cf704c64609",
+  "description": "The config file for the \"Boring Default Game Rules\" mod.",
+  "type": "object",
+  "properties": {
+    "$schema": {
+      "type": "string",
+      "title": "$schema",
+      "description": "The standard method of assigning a JSON schema to a JSON file. If the value is set as \"GENERATE_ME\", Boring Default Game Rules will regenerate the path to the schema."
+    },
+    "default_game_rules": {
+      "type": "object",
+      "title": "Default Game Rules",
+      "description": "Defines the default game rules, whose values will override the original default values. This mod provides game rule suggestions by generating a JSON schema.",
+      "properties": {
+        "announceAdvancements": {
+          "type": "boolean",
+          "title": "announceAdvancements",
+          "description": "Announce advancements",
+          "default": true
+        },
+        "blazeFireballFireSpread": {
+          "type": "boolean",
+          "title": "blazeFireballFireSpread",
+          "description": "gamerule.blazeFireballFireSpread",
+          "default": true
+        },
+        "blockExplosionDropDecay": {
+          "type": "boolean",
+          "title": "blockExplosionDropDecay",
+          "description": "In block interaction explosions, some blocks won\u0027t drop their loot",
+          "default": true
+        },
+        "canAllaysPickUpItems": {
+          "type": "boolean",
+          "title": "canAllaysPickUpItems",
+          "description": "gamerule.canAllaysPickUpItems",
+          "default": true
+        },
+        "canBurningMobsBreakPowderSnow": {
+          "type": "string",
+          "title": "canBurningMobsBreakPowderSnow",
+          "description": "gamerule.canBurningMobsBreakPowderSnow",
+          "default": "ALL",
+          "enum": [
+            "ALL",
+            "PLAYER_ONLY",
+            "MOB_ONLY",
+            "OFF"
+          ]
+        },
+        "canBurningProjectilesModifyBlocks": {
+          "type": "string",
+          "title": "canBurningProjectilesModifyBlocks",
+          "description": "gamerule.canBurningProjectilesModifyBlocks",
+          "default": "ALL",
+          "enum": [
+            "ALL",
+            "PLAYER_ONLY",
+            "MOB_ONLY",
+            "OFF"
+          ]
+        },
+        "canEnderDragonDestroyBlocks": {
+          "type": "boolean",
+          "title": "canEnderDragonDestroyBlocks",
+          "description": "gamerule.canEnderDragonDestroyBlocks",
+          "default": true
+        },
+        "canEndermenPickBlocks": {
+          "type": "boolean",
+          "title": "canEndermenPickBlocks",
+          "description": "gamerule.canEndermenPickBlocks",
+          "default": true
+        },
+        "canEndermenPlaceBlocks": {
+          "type": "boolean",
+          "title": "canEndermenPlaceBlocks",
+          "description": "gamerule.canEndermenPlaceBlocks",
+          "default": true
+        },
+        "canEvokersWololo": {
+          "type": "boolean",
+          "title": "canEvokersWololo",
+          "description": "gamerule.canEvokersWololo",
+          "default": true
+        },
+        "canFarmerVillagersFarm": {
+          "type": "boolean",
+          "title": "canFarmerVillagersFarm",
+          "description": "gamerule.canFarmerVillagersFarm",
+          "default": true
+        },
+        "canFoxesPickBerries": {
+          "type": "boolean",
+          "title": "canFoxesPickBerries",
+          "description": "gamerule.canFoxesPickBerries",
+          "default": true
+        },
+        "canMobsBreakDoors": {
+          "type": "boolean",
+          "title": "canMobsBreakDoors",
+          "description": "gamerule.canMobsBreakDoors",
+          "default": true
+        },
+        "canMobsPickUpLoot": {
+          "type": "boolean",
+          "title": "canMobsPickUpLoot",
+          "description": "gamerule.canMobsPickUpLoot",
+          "default": true
+        },
+        "canPickupClaimedItems": {
+          "type": "boolean",
+          "title": "canPickupClaimedItems",
+          "description": "gamerule.canPickupClaimedItems",
+          "default": false
+        },
+        "canPiglinsPickUpItems": {
+          "type": "boolean",
+          "title": "canPiglinsPickUpItems",
+          "description": "gamerule.canPiglinsPickUpItems",
+          "default": true
+        },
+        "canRabbitsEatCarrotCrops": {
+          "type": "boolean",
+          "title": "canRabbitsEatCarrotCrops",
+          "description": "gamerule.canRabbitsEatCarrotCrops",
+          "default": true
+        },
+        "canRavagersBreakCrops": {
+          "type": "boolean",
+          "title": "canRavagersBreakCrops",
+          "description": "gamerule.canRavagersBreakCrops",
+          "default": true
+        },
+        "canRavagersBreakLeaves": {
+          "type": "boolean",
+          "title": "canRavagersBreakLeaves",
+          "description": "gamerule.canRavagersBreakLeaves",
+          "default": true
+        },
+        "canRavagersBreakPitcherCrops": {
+          "type": "boolean",
+          "title": "canRavagersBreakPitcherCrops",
+          "description": "gamerule.canRavagersBreakPitcherCrops",
+          "default": true
+        },
+        "canSheepBreakGrass": {
+          "type": "boolean",
+          "title": "canSheepBreakGrass",
+          "description": "gamerule.canSheepBreakGrass",
+          "default": true
+        },
+        "canSheepTurnGrassBlocksIntoDirt": {
+          "type": "boolean",
+          "title": "canSheepTurnGrassBlocksIntoDirt",
+          "description": "gamerule.canSheepTurnGrassBlocksIntoDirt",
+          "default": true
+        },
+        "canSilverfishInfestBlocks": {
+          "type": "boolean",
+          "title": "canSilverfishInfestBlocks",
+          "description": "gamerule.canSilverfishInfestBlocks",
+          "default": true
+        },
+        "canTurtleEggsBeStompedByDrowneds": {
+          "type": "boolean",
+          "title": "canTurtleEggsBeStompedByDrowneds",
+          "description": "gamerule.canTurtleEggsBeStompedByDrowneds",
+          "default": true
+        },
+        "canTurtleEggsBeStompedByHusks": {
+          "type": "boolean",
+          "title": "canTurtleEggsBeStompedByHusks",
+          "description": "gamerule.canTurtleEggsBeStompedByHusks",
+          "default": true
+        },
+        "canTurtleEggsBeStompedByZombieVillagers": {
+          "type": "boolean",
+          "title": "canTurtleEggsBeStompedByZombieVillagers",
+          "description": "gamerule.canTurtleEggsBeStompedByZombieVillagers",
+          "default": true
+        },
+        "canTurtleEggsBeStompedByZombies": {
+          "type": "boolean",
+          "title": "canTurtleEggsBeStompedByZombies",
+          "description": "gamerule.canTurtleEggsBeStompedByZombies",
+          "default": true
+        },
+        "canTurtleEggsBeStompedByZombifiedPiglins": {
+          "type": "boolean",
+          "title": "canTurtleEggsBeStompedByZombifiedPiglins",
+          "description": "gamerule.canTurtleEggsBeStompedByZombifiedPiglins",
+          "default": true
+        },
+        "canWitherBreakBlocks": {
+          "type": "boolean",
+          "title": "canWitherBreakBlocks",
+          "description": "gamerule.canWitherBreakBlocks",
+          "default": true
+        },
+        "canWitherRoseBePlanted": {
+          "type": "boolean",
+          "title": "canWitherRoseBePlanted",
+          "description": "gamerule.canWitherRoseBePlanted",
+          "default": true
+        },
+        "chargedCreeperExplosionDropDecay": {
+          "type": "string",
+          "title": "chargedCreeperExplosionDropDecay",
+          "description": "gamerule.chargedCreeperExplosionDropDecay",
+          "default": "INHERIT_FROM_PARENT",
+          "enum": [
+            "FALSE",
+            "TRUE",
+            "INHERIT_FROM_PARENT"
+          ]
+        },
+        "chargedCreeperExplosions": {
+          "type": "string",
+          "title": "chargedCreeperExplosions",
+          "description": "gamerule.chargedCreeperExplosions",
+          "default": "INHERIT_FROM_PARENT",
+          "enum": [
+            "NONE",
+            "DAMAGE_ONLY",
+            "DESTROY",
+            "INHERIT_FROM_PARENT"
+          ]
+        },
+        "claimedMobGriefing": {
+          "type": "boolean",
+          "title": "claimedMobGriefing",
+          "description": "gamerule.claimedMobGriefing",
+          "default": false
+        },
+        "commandBlockOutput": {
+          "type": "boolean",
+          "title": "commandBlockOutput",
+          "description": "Broadcast command block output",
+          "default": true
+        },
+        "commandModificationBlockLimit": {
+          "type": "integer",
+          "title": "commandModificationBlockLimit",
+          "description": "Command Modification Block Limit",
+          "default": 32768
+        },
+        "companion:alwaysTeleportHorses": {
+          "type": "boolean",
+          "title": "companion:alwaysTeleportHorses",
+          "description": "gamerule.companion:alwaysTeleportHorses",
+          "default": false
+        },
+        "companion:petFriendlyFire": {
+          "type": "boolean",
+          "title": "companion:petFriendlyFire",
+          "description": "gamerule.companion:petFriendlyFire",
+          "default": true
+        },
+        "creeperExplosionDropDecay": {
+          "type": "boolean",
+          "title": "creeperExplosionDropDecay",
+          "description": "gamerule.creeperExplosionDropDecay",
+          "default": true
+        },
+        "creeperExplosions": {
+          "type": "string",
+          "title": "creeperExplosions",
+          "description": "gamerule.creeperExplosions",
+          "default": "DESTROY",
+          "enum": [
+            "NONE",
+            "DAMAGE_ONLY",
+            "DESTROY"
+          ]
+        },
+        "disableElytraMovementCheck": {
+          "type": "boolean",
+          "title": "disableElytraMovementCheck",
+          "description": "Disable elytra movement check",
+          "default": false
+        },
+        "disableRaids": {
+          "type": "boolean",
+          "title": "disableRaids",
+          "description": "Disable raids",
+          "default": false
+        },
+        "doClaimedBlockBreaking": {
+          "type": "boolean",
+          "title": "doClaimedBlockBreaking",
+          "description": "gamerule.doClaimedBlockBreaking",
+          "default": false
+        },
+        "doClaimedBlockExplosions": {
+          "type": "boolean",
+          "title": "doClaimedBlockExplosions",
+          "description": "gamerule.doClaimedBlockExplosions",
+          "default": false
+        },
+        "doClaimedBlockInteractions": {
+          "type": "boolean",
+          "title": "doClaimedBlockInteractions",
+          "description": "gamerule.doClaimedBlockInteractions",
+          "default": false
+        },
+        "doClaimedBlockPlacing": {
+          "type": "boolean",
+          "title": "doClaimedBlockPlacing",
+          "description": "gamerule.doClaimedBlockPlacing",
+          "default": false
+        },
+        "doClaimedDamageEntities": {
+          "type": "boolean",
+          "title": "doClaimedDamageEntities",
+          "description": "gamerule.doClaimedDamageEntities",
+          "default": false
+        },
+        "doClaimedEntityInteractions": {
+          "type": "boolean",
+          "title": "doClaimedEntityInteractions",
+          "description": "gamerule.doClaimedEntityInteractions",
+          "default": false
+        },
+        "doCombinedClaimLimit": {
+          "type": "boolean",
+          "title": "doCombinedClaimLimit",
+          "description": "gamerule.doCombinedClaimLimit",
+          "default": false
+        },
+        "doDaylightCycle": {
+          "type": "boolean",
+          "title": "doDaylightCycle",
+          "description": "Advance time of day",
+          "default": true
+        },
+        "doEntityDrops": {
+          "type": "boolean",
+          "title": "doEntityDrops",
+          "description": "Drop entity equipment",
+          "default": true
+        },
+        "doFireTick": {
+          "type": "boolean",
+          "title": "doFireTick",
+          "description": "Update fire",
+          "default": true
+        },
+        "doImmediateRespawn": {
+          "type": "boolean",
+          "title": "doImmediateRespawn",
+          "description": "Respawn immediately",
+          "default": false
+        },
+        "doInsomnia": {
+          "type": "boolean",
+          "title": "doInsomnia",
+          "description": "Spawn phantoms",
+          "default": true
+        },
+        "doLimitedCrafting": {
+          "type": "boolean",
+          "title": "doLimitedCrafting",
+          "description": "Require recipe for crafting",
+          "default": false
+        },
+        "doMobLoot": {
+          "type": "boolean",
+          "title": "doMobLoot",
+          "description": "Drop mob loot",
+          "default": true
+        },
+        "doMobSpawning": {
+          "type": "boolean",
+          "title": "doMobSpawning",
+          "description": "Spawn mobs",
+          "default": true
+        },
+        "doPatrolSpawning": {
+          "type": "boolean",
+          "title": "doPatrolSpawning",
+          "description": "Spawn pillager patrols",
+          "default": true
+        },
+        "doTileDrops": {
+          "type": "boolean",
+          "title": "doTileDrops",
+          "description": "Drop blocks",
+          "default": true
+        },
+        "doTraderSpawning": {
+          "type": "boolean",
+          "title": "doTraderSpawning",
+          "description": "Spawn Wandering Traders",
+          "default": true
+        },
+        "doVinesSpread": {
+          "type": "boolean",
+          "title": "doVinesSpread",
+          "description": "Vines spread",
+          "default": true
+        },
+        "doWardenSpawning": {
+          "type": "boolean",
+          "title": "doWardenSpawning",
+          "description": "Spawn Wardens",
+          "default": true
+        },
+        "doWeatherCycle": {
+          "type": "boolean",
+          "title": "doWeatherCycle",
+          "description": "Update weather",
+          "default": true
+        },
+        "drowningDamage": {
+          "type": "boolean",
+          "title": "drowningDamage",
+          "description": "Deal drowning damage",
+          "default": true
+        },
+        "fallDamage": {
+          "type": "boolean",
+          "title": "fallDamage",
+          "description": "Deal fall damage",
+          "default": true
+        },
+        "farmlandTrampling": {
+          "type": "string",
+          "title": "farmlandTrampling",
+          "description": "gamerule.farmlandTrampling",
+          "default": "ALL",
+          "enum": [
+            "ALL",
+            "PLAYER_ONLY",
+            "MOB_ONLY",
+            "OFF"
+          ]
+        },
+        "fireDamage": {
+          "type": "boolean",
+          "title": "fireDamage",
+          "description": "Deal fire damage",
+          "default": true
+        },
+        "forgiveDeadPlayers": {
+          "type": "boolean",
+          "title": "forgiveDeadPlayers",
+          "description": "Forgive dead players",
+          "default": true
+        },
+        "freezeDamage": {
+          "type": "boolean",
+          "title": "freezeDamage",
+          "description": "Deal freeze damage",
+          "default": true
+        },
+        "ghastFireballExplosionDropDecay": {
+          "type": "boolean",
+          "title": "ghastFireballExplosionDropDecay",
+          "description": "gamerule.ghastFireballExplosionDropDecay",
+          "default": true
+        },
+        "ghastFireballExplosionFireSpread": {
+          "type": "boolean",
+          "title": "ghastFireballExplosionFireSpread",
+          "description": "gamerule.ghastFireballExplosionFireSpread",
+          "default": true
+        },
+        "ghastFireballExplosions": {
+          "type": "string",
+          "title": "ghastFireballExplosions",
+          "description": "gamerule.ghastFireballExplosions",
+          "default": "DESTROY",
+          "enum": [
+            "NONE",
+            "DAMAGE_ONLY",
+            "DESTROY"
+          ]
+        },
+        "globalSoundEvents": {
+          "type": "boolean",
+          "title": "globalSoundEvents",
+          "description": "Global sound events",
+          "default": true
+        },
+        "keepInventory": {
+          "type": "boolean",
+          "title": "keepInventory",
+          "description": "Keep inventory after death",
+          "default": false
+        },
+        "lavaSourceConversion": {
+          "type": "boolean",
+          "title": "lavaSourceConversion",
+          "description": "Lava converts to source",
+          "default": false
+        },
+        "logAdminCommands": {
+          "type": "boolean",
+          "title": "logAdminCommands",
+          "description": "Broadcast admin commands",
+          "default": true
+        },
+        "longReachIncrement": {
+          "type": "integer",
+          "title": "longReachIncrement",
+          "description": "gamerule.longReachIncrement",
+          "default": 2
+        },
+        "maxChunkLoaded": {
+          "type": "integer",
+          "title": "maxChunkLoaded",
+          "description": "gamerule.maxChunkLoaded",
+          "default": 64
+        },
+        "maxClaimedChunks": {
+          "type": "integer",
+          "title": "maxClaimedChunks",
+          "description": "gamerule.maxClaimedChunks",
+          "default": 1089
+        },
+        "maxCommandChainLength": {
+          "type": "integer",
+          "title": "maxCommandChainLength",
+          "description": "Command chain size limit",
+          "default": 65536
+        },
+        "maxEntityCramming": {
+          "type": "integer",
+          "title": "maxEntityCramming",
+          "description": "Entity cramming threshold",
+          "default": 24
+        },
+        "mobExplosionDropDecay": {
+          "type": "boolean",
+          "title": "mobExplosionDropDecay",
+          "description": "In mob explosions, some blocks won\u0027t drop their loot",
+          "default": true
+        },
+        "mobGriefing": {
+          "type": "boolean",
+          "title": "mobGriefing",
+          "description": "Allow destructive mob actions",
+          "default": true
+        },
+        "naturalRegeneration": {
+          "type": "boolean",
+          "title": "naturalRegeneration",
+          "description": "Regenerate health",
+          "default": true
+        },
+        "permanentInfestedBlockDamage": {
+          "type": "boolean",
+          "title": "permanentInfestedBlockDamage",
+          "description": "gamerule.permanentInfestedBlockDamage",
+          "default": true
+        },
+        "playersSleepingPercentage": {
+          "type": "integer",
+          "title": "playersSleepingPercentage",
+          "description": "Sleep percentage",
+          "default": 100
+        },
+        "randomTickSpeed": {
+          "type": "integer",
+          "title": "randomTickSpeed",
+          "description": "Random tick speed rate",
+          "default": 3
+        },
+        "reducedDebugInfo": {
+          "type": "boolean",
+          "title": "reducedDebugInfo",
+          "description": "Reduce debug info",
+          "default": false
+        },
+        "sendCommandFeedback": {
+          "type": "boolean",
+          "title": "sendCommandFeedback",
+          "description": "Send command feedback",
+          "default": true
+        },
+        "showDeathMessages": {
+          "type": "boolean",
+          "title": "showDeathMessages",
+          "description": "Show death messages",
+          "default": true
+        },
+        "snowAccumulationHeight": {
+          "type": "integer",
+          "title": "snowAccumulationHeight",
+          "description": "Snow accumulation height",
+          "default": 1
+        },
+        "snowGolemTrail": {
+          "type": "boolean",
+          "title": "snowGolemTrail",
+          "description": "gamerule.snowGolemTrail",
+          "default": true
+        },
+        "spawnRadius": {
+          "type": "integer",
+          "title": "spawnRadius",
+          "description": "Respawn location radius",
+          "default": 10
+        },
+        "spectatorsGenerateChunks": {
+          "type": "boolean",
+          "title": "spectatorsGenerateChunks",
+          "description": "Allow spectators to generate terrain",
+          "default": true
+        },
+        "tntExplosionDropDecay": {
+          "type": "boolean",
+          "title": "tntExplosionDropDecay",
+          "description": "In TNT explosions, some blocks won\u0027t drop their loot",
+          "default": false
+        },
+        "turtleEggTrampling": {
+          "type": "string",
+          "title": "turtleEggTrampling",
+          "description": "gamerule.turtleEggTrampling",
+          "default": "ALL",
+          "enum": [
+            "ALL",
+            "PLAYER_ONLY",
+            "MOB_ONLY",
+            "OFF"
+          ]
+        },
+        "universalAnger": {
+          "type": "boolean",
+          "title": "universalAnger",
+          "description": "Universal anger",
+          "default": false
+        },
+        "waterSourceConversion": {
+          "type": "boolean",
+          "title": "waterSourceConversion",
+          "description": "Water converts to source",
+          "default": true
+        },
+        "witherSkullExplosionDropDecay": {
+          "type": "boolean",
+          "title": "witherSkullExplosionDropDecay",
+          "description": "gamerule.witherSkullExplosionDropDecay",
+          "default": false
+        },
+        "witherSkullExplosions": {
+          "type": "string",
+          "title": "witherSkullExplosions",
+          "description": "gamerule.witherSkullExplosions",
+          "default": "DESTROY",
+          "enum": [
+            "NONE",
+            "DAMAGE_ONLY",
+            "DESTROY"
+          ]
+        },
+        "witherSpawnExplosionDropDecay": {
+          "type": "boolean",
+          "title": "witherSpawnExplosionDropDecay",
+          "description": "gamerule.witherSpawnExplosionDropDecay",
+          "default": false
+        },
+        "witherSpawnExplosions": {
+          "type": "string",
+          "title": "witherSpawnExplosions",
+          "description": "gamerule.witherSpawnExplosions",
+          "default": "DESTROY",
+          "enum": [
+            "NONE",
+            "DAMAGE_ONLY",
+            "DESTROY"
+          ]
+        }
+      }
+    },
+    "generate_json_schema": {
+      "type": "boolean",
+      "title": "Generate JSON Schema",
+      "description": "If enabled, this mod will generate a JSON schema in order to aid with configuration. You may disable this if you don\u0027t plan to change the settings and want to save space, and once disabled, you can safely remove both the schema and the \"$schema\" property."
+    }
+  },
+  "required": [
+    "default_game_rules",
+    "generate_json_schema"
+  ]
+}

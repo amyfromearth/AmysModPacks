@@ -1,0 +1,13 @@
+name = "Liberty's Villagers"
+filename = "libertyvillagers-2.0.0+fabric+1.20.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/264clomZ/versions/yifeXVby/libertyvillagers-2.0.0%2Bfabric%2B1.20.1.jar"
+hash-format = "sha1"
+hash = "a6421501e1744a2b37e8df3600ee2bc7f21903e9"
+
+[update]
+[update.modrinth]
+mod-id = "264clomZ"
+version = "yifeXVby"

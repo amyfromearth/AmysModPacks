@@ -1,0 +1,23 @@
+{
+  "enable_armor_swap": true,
+  "equip_and_swap_non_armor_wearables": true,
+  "armor_swap_deny_list": [],
+  "fetch_translation_updates": true,
+  "enable_pick_fills_stack": true,
+  "enable_pick_never_changes_slot": true,
+  "drag_matching_stacks_across_inventories": false,
+  "choose_bottom_row_stacks_first": false,
+  "move_hotbar_stacks": false,
+  "deposit_cursor_stack": "ON_RELEASE_AT_EMPTY",
+  "drag_single_stack_out_of_inventory": false,
+  "drag_matching_stacks_out_of_inventory": "WITH_KEY",
+  "ignore_stack_nbt": false,
+  "enable_shift_click_to_offhand_stack": true,
+  "all_food_is_offhand_preferred": true,
+  "exclude_food_with_negative_effects": true,
+  "offhand_preferred_items": [
+    "minecraft:shield",
+    "minecraft:firework_rocket",
+    "minecraft:totem_of_undying"
+  ]
+}

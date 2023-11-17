@@ -1,0 +1,8 @@
+name = "Incendium Optional Resourcepack"
+filename = "Incendium_Optional_Resourcepack_1.20.1_v5.3.9.zip"
+side = "both"
+
+[download]
+url = "https://github.com/Stardust-Labs-MC/Incendium-Optional-Resourcepack/releases/download/v5.3.9/Incendium_Optional_Resourcepack_1.20.1_v5.3.9.zip"
+hash-format = "sha256"
+hash = "6af9eed61ccb06697b82126b4cebe7ff09f3a5544e9368a3ca06f6085a91d19e"

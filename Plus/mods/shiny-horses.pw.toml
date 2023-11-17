@@ -1,0 +1,13 @@
+name = "Shiny Horses"
+filename = "shinyhorses-1.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/s6LHnDpR/versions/8lpiSNlo/shinyhorses-1.0.0.jar"
+hash-format = "sha1"
+hash = "913c0398d713c1ca88cfbf582d10ca2e4ade779b"
+
+[update]
+[update.modrinth]
+mod-id = "s6LHnDpR"
+version = "8lpiSNlo"

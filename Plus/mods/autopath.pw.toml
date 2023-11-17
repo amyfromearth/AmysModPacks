@@ -1,0 +1,13 @@
+name = "Automatic Path"
+filename = "autopath-mc1.20.1-1.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/rYdrYotO/versions/QTzMRd0O/autopath-mc1.20.1-1.5.jar"
+hash-format = "sha1"
+hash = "80858d91eb6505ecaa6634dfdc987bfd7f71c577"
+
+[update]
+[update.modrinth]
+mod-id = "rYdrYotO"
+version = "QTzMRd0O"

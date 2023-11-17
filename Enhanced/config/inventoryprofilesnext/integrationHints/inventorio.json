@@ -1,0 +1,26 @@
+{
+    "me.lizardofoz.inventorio.client.ui.InventorioScreen": {
+        "playerSideOnly": true,
+        "buttonHints": {
+            "SORT": {
+                "horizontalOffset": 34
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 10
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 12,
+                "bottom": 14
+            },
+            "MOVE_TO_CONTAINER": {
+                "horizontalOffset": 22,
+                "bottom": -12
+            }
+        },
+        "force": true
+    },
+    "me.lizardofoz.inventorio.player.InventorioScreenHandler": {
+        "playerSideOnly": true,
+        "force": true
+    }
+}

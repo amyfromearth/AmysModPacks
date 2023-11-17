@@ -1,0 +1,16 @@
+{
+  "main_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": ["Amy's Awesome Vanilla Plus ModPack 0.9.0 BETA"],
+    "bottom_right": [],
+    "mod_blacklist": []
+  },
+  "pause_menu": {
+    "top_left": [],
+    "top_right": [],
+    "bottom_left": ["Amy's Awesome Vanilla Plus ModPack 0.9.0 BETA"],
+    "bottom_right": [],
+    "mod_blacklist": []
+  }
+}

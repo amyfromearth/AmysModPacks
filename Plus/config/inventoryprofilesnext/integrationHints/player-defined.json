@@ -1,0 +1,9 @@
+{
+    "io.github.jamalam360.utility.belt.screen.UtilityBeltScreen": {
+        "buttonHints": {
+            "MOVE_TO_CONTAINER": {
+                "bottom": 36
+            }
+        }
+    }
+}

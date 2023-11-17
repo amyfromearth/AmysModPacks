@@ -1,0 +1,30 @@
+# Amy's Enhanced Vanilla
+Amy's take on an enhanced vanilla Minecraft experience. Building on her series of modpacks this is the third iteration that adds changes to gameplay and base game mechanics. Once again no new blocks or items have been added to the game. This modpack is exclusively player experience improvements.
+
+### Notable features include:
+
+* Uses [Amy's Immersive Vanilla Modpack](https://modrinth.com/modpack/amys-immersive-modpack) as it's base and builds from there
+* Interacting with the world is less tedious
+* Changes to villagers AI even allowing nitwits to become guards
+* Tweaks to hostile mob AI and generation
+* New way to heal without food and make your area safer
+* Easier travel around the world especially through wooded areas as well as up and down cliffs
+* Loot chests are now instanced per player making exploring with friends more rewarding for everyone
+* The world isn't quite as static anymore and you'll notice changes as time goes on
+* Sleeping no longer skips time, but instead speeds up time
+* Placing blocks and building has been made significantly more convenient
+* More possibilities to personalize your character and area
+
+Many, many, many mods, resource packs, and datapacks have been included so please take a look at the Credits.txt file for all the credit to the amazing people who made all the things. My role was simply to put them together, test they worked well with each other, and provided a few configuration files.
+
+---
+
+This modpack includes resources not available on Modrinth. All diligence was done to assure at the time of publication I had permission to redistribute these files:
+* GoProne (Fabric) {["You may use this mod in modpacks and/or videos without asking permission." --Author statement on CF description as of 10/20/2023](https://www.curseforge.com/minecraft/mc-mods/goprone-fabric)} - https://www.curseforge.com/minecraft/mc-mods/goprone-fabric
+* Litematica {[LGPL-3.0-or-later](https://spdx.org/licenses/LGPL-3.0-or-later.html)} - https://www.curseforge.com/minecraft/mc-mods/litematica
+* MaLiLib {[LGPL-3.0-or-later](https://spdx.org/licenses/LGPL-3.0-or-later.html)} - https://www.curseforge.com/minecraft/mc-mods/malilib
+* Structory {[Stardust Labs License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)} - https://github.com/Stardust-Labs-MC/Structory
+* Structory: Towers {[Stardust Labs License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)} - https://github.com/Stardust-Labs-MC/Structory-Towers
+* Tweakeroo {[LGPL-3.0-or-later](https://spdx.org/licenses/LGPL-3.0-or-later.html)} - https://www.curseforge.com/minecraft/mc-mods/tweakeroo
+* Vanilla Tweaks UI {[Vanilla Tweaks License](https://vanillatweaks.net/terms/)} - https://vanillatweaks.net/share#HblaXf
+* Vanilla Tweaks Visuals {[Vanilla Tweaks License](https://vanillatweaks.net/terms/)} - https://vanillatweaks.net/share#CF6E9U

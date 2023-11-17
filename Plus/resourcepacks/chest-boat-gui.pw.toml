@@ -1,0 +1,13 @@
+name = "Chest Boat GUI"
+filename = "Chest-Boat-GUI-v1-dark.zip"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/XI4llq79/versions/5dNfatGB/Chest-Boat-GUI-v1-dark.zip"
+hash-format = "sha1"
+hash = "f3a9de91b3bbd74928aa59393dd52980a6a773b4"
+
+[update]
+[update.modrinth]
+mod-id = "XI4llq79"
+version = "5dNfatGB"
