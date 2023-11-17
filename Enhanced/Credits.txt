@@ -1,6 +1,4 @@
-Amy's Enhanced Vanilla Modpack
-
-The following mods are included:
+Amy's Enhanced Vanilla ModPack is intended to ONLY be distributed via Modrinth.com but includes files from several sources.  All diligence was done to assure at the time of publication I had permission to redistribute these files:
 
 PERFORMANCE
  Blanket client-tweaks {MIT}

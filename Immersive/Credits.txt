@@ -1,6 +1,4 @@
-Amy's Immersive Vanilla Modpack: Amy's take on a modpack that improves vanilla Minecraft with immersive visuals, soundscape, and worldgen while also improving player experience through many quality of life changes and performance optimizations. There are no added blocks or changes to game mechanics. This is still vanilla just more immersive! Many settings have already been tweaked so this modpack should be playable right after install without any messing about.
-
-The following mods are included:
+Amy's Immersive Vanilla ModPack is intended to ONLY be distributed via Modrinth.com but includes files from several sources.  All diligence was done to assure at the time of publication I had permission to redistribute these files:
 
 PERFORMANCE
  Blanket client-tweaks {MIT}
