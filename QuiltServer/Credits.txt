@@ -3,6 +3,8 @@ Amy's Awesome Vanilla Plus Server ModPack is intended to ONLY be distributed via
 The following mods are included:
 
 PERFORMANCE
+  Alternate Current {MIT}
+    Efficient and non-locational redstone dust implementation (Server) https://modrinth.com/mod/alternate-current
   Carpet-Fixes {MIT}
     Bug Fixes (Client or Server) https://modrinth.com/mod/carpet-fixes
   Clumps {MIT}
@@ -25,6 +27,8 @@ PERFORMANCE
     Improved crash handling (Client or Server) https://modrinth.com/mod/notenoughcrashes
   Starlight (Fabric) {LGPL-3.0-only}
     Light engine optimizations (Client or Server) https://modrinth.com/mod/starlight
+  Raknetify {MIT}
+    RakNet to improve multiplayer experience significantly under unreliable and rate-limited connections (Client and Server) https://modrinth.com/plugin/raknetify
   ServerCore {MIT}
     Server optimization [Client or Server] https://modrinth.com/mod/servercore
   spark {GPL-3.0-only}
@@ -251,8 +255,6 @@ CONTENT ADDITIIONS
     Improves how the portals look (Client and Server) https://modrinth.com/datapack/hopo-better-ruined-portals
   Hopo Better Underwater Ruins {All rights reserved unless explicitly stated.}
     New ocean ruins (Client and Server) https://modrinth.com/datapack/better-underwater-ruins
-  Hybrid Aquatic {All rights reserved unless explicitly stated.}
-    enhanced underwater Minecraft experience (Client and Server)
   Immersive Armors {GPL-3.0-only}
     Additional vanilla style armors (Client and Server) https://modrinth.com/mod/immersive-armors
   Just Mob Heads {All rights reserved unless explicitly stated.}
@@ -354,10 +356,6 @@ UTILITY
     Documentation system (Client and Server) https://modrinth.com/mod/patchouli
   Pet Names {All rights reserved unless explicitly stated.}
     Gives baby tameable animals names (Server) https://modrinth.com/mod/pet-names
-  Plasmo Voice {LGPL-3.0-only}
-    Proximity voice chat mod with audio positioning and lots of features (Client or Server) https://modrinth.com/plugin/plasmo-voice
-  PlasmoVoice Addons
-    pv-addon-groups {MIT} (Server) https://modrinth.com/plugin/pv-addon-groups
   Projectile Damage Attribute {GPL-3.0-only}
     🏹 Range weapon damage becomes configurable (Client and Server) https://modrinth.com/mod/projectile-damage-attribute
   Prometheus {MIT}

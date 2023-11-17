@@ -29,9 +29,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
     * Jewelry
     * ModernFix
     * More Chest Variants
+    * Paladins & Priests
     * Spell Engine
     * Spell Power
     * Villager Names
+    * Wizards
 
 ### Removed
 

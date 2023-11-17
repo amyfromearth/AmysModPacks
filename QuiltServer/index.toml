@@ -1,12 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "ChangeLog.txt"
-hash = "a7842466a6f301b0e4fc69e5a5ef25faa0936902d73efed100b7c4a1e5a972e7"
+file = "ChangeLog.md"
+hash = "8411679504cb6789ee6c0074afb992e500c845c9e4256f20f44b7a9dcba00f92"
 
 [[files]]
 file = "Credits.txt"
-hash = "a086458af8d7743bf35c587a2f20f51cf8e171ee6c9d5914995c1b61c7ebe24e"
+hash = "526660bdf8b1872955af689070f8d68b28084e8dbc8eeedd069d4843d1ee86cc"
+
+[[files]]
+file = "LICENSE.md"
+hash = "b17a51eac18b5b63a943ee387557b1013c9e51178467e2245c789b29a4bab089"
+
+[[files]]
+file = "ReadMe.md"
+hash = "56164447df8996dcdd1ad0330f61c62846d4c817e37333a9ce9aa58e267e9d67"
 
 [[files]]
 file = "config/EssentialCommands.properties"
@@ -113,14 +121,6 @@ file = "config/paperdoll-client.toml"
 hash = "89e80055a6d126bc646e71141e76baa9b7289b489a5507385073f9ad988d0041"
 
 [[files]]
-file = "config/passiveshield.json5"
-hash = "deb5cb8c74e08c37f844a516148b24849e4eb7d44cc500ece8c20b47accc9750"
-
-[[files]]
-file = "config/plasmovoice/server/config.toml"
-hash = "30f0f7aafab846ed23ee5fef70aabb65b96e16c6c33b9e2b0f86e0a08358a5f2"
-
-[[files]]
 file = "config/realisticbees.json5"
 hash = "014adfcd01a2fc1421a0b85a5c10d1d274d93d9124451a8c6363603baa70da33"
 
@@ -172,10 +172,6 @@ hash = "b70ebb349dffc58c7c7d88cb763a7824fa1bba23bf4010370d388310ebeebe49"
 metafile = true
 
 [[files]]
-file = "latest.log"
-hash = "b4fb180a8686291f6107428aaeb6bddb1b1dbfd247a7cbbb65c9314901e1deba"
-
-[[files]]
 file = "mods/additional-blocks-vertical-edition.pw.toml"
 hash = "d356779a60e23229701e7de3d21ce60e59a3c7587abfcab6392008af2889a2c2"
 metafile = true
@@ -202,7 +198,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "37cbd349cf4801d363792870193b68ab58b7daeedaf60e337d3ce2214d675bf8"
+hash = "fd5fed18ee77d9a0b46808030b57a216f084e018fc5db8d38cc44f93ab5f8206"
 metafile = true
 
 [[files]]
@@ -852,7 +848,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "15a7202aea7935d302476d4524f63cb733e83113899c16f51bf5a998de011f1c"
+hash = "849810504409f7848fd71091d7e9efb057505b6f5ec5b661d8972fec4416d39f"
 metafile = true
 
 [[files]]
@@ -997,7 +993,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "671cfd28306be2feb8fbc2da3ebcdbe6aeb613a254c83896621bee4961566955"
+hash = "680b86bbc39ea7ea60518fb9ab70da41070827e8f9debe428b8f06615ab0a8f5"
 metafile = true
 
 [[files]]
@@ -1117,7 +1113,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "e4db24f84fdfc05a2edc20a220dcf775f6bd2f8543d62c6694ea0a242603f963"
+hash = "eb564fa72e6bd9df45a040554926e73c88c43f72b7293def016449199333a860"
 metafile = true
 
 [[files]]
