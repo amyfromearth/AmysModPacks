@@ -1,12 +1,24 @@
 hash-format = "sha256"
 
 [[files]]
-file = "Changelog.txt"
-hash = "74f6fb15a6abde1ff4b06593aae8ccc676abdd1059d834f6288d816c4f22b368"
+file = "Changelog.md"
+hash = "d7bf8bb83be1e2888f1809d9f588f117c1d6fc7adf73e08c68b8658c13cc5aa0"
 
 [[files]]
 file = "Credits.txt"
-hash = "fb5364d4fd922ffd47da626ee1ef9b5183ef6f7ed3d220a23ef5ea02dfedc816"
+hash = "d474260bdf1900e0a5486738e9136005414b57132ea497fbbffdaa34b1810088"
+
+[[files]]
+file = "LICENSE.md"
+hash = "7865ba76cfbea615bad6a6c02aef73246f106dda53dacd6cb47be42f854d560c"
+
+[[files]]
+file = "ReadMe.md"
+hash = "dcc42ef8afdaea6f6dabe435bb52c3a0c570424cc596e9566878684d2ae201ff"
+
+[[files]]
+file = "ToDo.txt"
+hash = "63bdd7554639ef084977bda18e1e344b6957a720d5cc59daf5610c81f83ea634"
 
 [[files]]
 file = "config/EssentialCommands.properties"
@@ -90,7 +102,7 @@ hash = "2c69f89e7d0f482485237b8ffd59b6676bddf8930d230107ba9090c31d1b6d41"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "034db578e1330907699c4dc394dbd7fe26919c7af6a7e0a8e45639fc75ba4b3b"
+hash = "52d2c5ce7301f72d2c1e888ff877617b411795bba1544f7dd31475dd55ac0695"
 
 [[files]]
 file = "config/effectdescriptions-client.toml"
@@ -158,7 +170,7 @@ hash = "4bf17041ccc8d2b6c7bb27d8b0a2a8cc512ea1c1a811a6f4fd88d0e552e4f2f1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "e011bee33c4c1dcfe5c31d81040be21a901f031d6cd9d8d401741b1dbb755bff"
+hash = "23235cb33b4e7e7a22f076ddc88087cabd6000149659bb00ee6bd9b9e4710daf"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -363,7 +375,7 @@ metafile = true
 
 [[files]]
 file = "mods/archers.pw.toml"
-hash = "37cbd349cf4801d363792870193b68ab58b7daeedaf60e337d3ce2214d675bf8"
+hash = "fd5fed18ee77d9a0b46808030b57a216f084e018fc5db8d38cc44f93ab5f8206"
 metafile = true
 
 [[files]]
@@ -473,7 +485,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-clouds.pw.toml"
-hash = "86550f2ea052d6a90a665747f1983674d1c0207d243e4eac4702573589c4a0a3"
+hash = "625f4fdcd85ee2cdf2614be4e465cc2e6ca363a07e2776fd9b8e413a1432cdb8"
 metafile = true
 
 [[files]]
@@ -539,6 +551,11 @@ metafile = true
 [[files]]
 file = "mods/boat-item-view.pw.toml"
 hash = "45ef79853a6e968323dadc477f2b68c046948a9e5b2445fed3ab5586598347cf"
+metafile = true
+
+[[files]]
+file = "mods/bookshelf-lib.pw.toml"
+hash = "84f316671a16609ace1010b10f630ff04f12d3dac46fe48a0ce5d27f313260a6"
 metafile = true
 
 [[files]]
@@ -703,7 +720,7 @@ metafile = true
 
 [[files]]
 file = "mods/creativecore.pw.toml"
-hash = "d3fef41a6ee2c03cbd9a8116c78db0c38869cc6b37e2114737cc89ce5de598d1"
+hash = "03ef689c3c008fdc1215f1cfa4f78783d390adfde90176a2b580a2363f2ec4e1"
 metafile = true
 
 [[files]]
@@ -1333,7 +1350,7 @@ metafile = true
 
 [[files]]
 file = "mods/paladins-and-priests.pw.toml"
-hash = "15a7202aea7935d302476d4524f63cb733e83113899c16f51bf5a998de011f1c"
+hash = "849810504409f7848fd71091d7e9efb057505b6f5ec5b661d8972fec4416d39f"
 metafile = true
 
 [[files]]
@@ -1543,7 +1560,7 @@ metafile = true
 
 [[files]]
 file = "mods/spell-engine.pw.toml"
-hash = "671cfd28306be2feb8fbc2da3ebcdbe6aeb613a254c83896621bee4961566955"
+hash = "680b86bbc39ea7ea60518fb9ab70da41070827e8f9debe428b8f06615ab0a8f5"
 metafile = true
 
 [[files]]
@@ -1604,6 +1621,11 @@ metafile = true
 [[files]]
 file = "mods/tiny-skeletons.pw.toml"
 hash = "e0fabb628fb3e52e95f4c9403febde9ac2b2df9a7424e9759c4c2337357bfccb"
+metafile = true
+
+[[files]]
+file = "mods/tips.pw.toml"
+hash = "3f34eae85f3cf8775e965d58ef584cbe864e78592fa00b59eea50264e1aa68dd"
 metafile = true
 
 [[files]]
@@ -1693,7 +1715,7 @@ metafile = true
 
 [[files]]
 file = "mods/wizards.pw.toml"
-hash = "e4db24f84fdfc05a2edc20a220dcf775f6bd2f8543d62c6694ea0a242603f963"
+hash = "eb564fa72e6bd9df45a040554926e73c88c43f72b7293def016449199333a860"
 metafile = true
 
 [[files]]
@@ -1853,7 +1875,7 @@ file = "shaderpacks/ComplementaryReimagined_r5.0.1.zip.txt"
 hash = "26d79d393a661e751a376116186f450eafb921855e0f292aff7ca0ab9ed28557"
 
 [[files]]
-file = "shaderpacks/MakeUp-UltraFast-8.9a.zip.txt"
+file = "shaderpacks/MakeUp-UltraFast-8.9b.zip.txt"
 hash = "58109127a988d69088bd4aa24bd7ef352abc790372a5423368a8802e7b316d87"
 
 [[files]]

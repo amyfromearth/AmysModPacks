@@ -19,6 +19,7 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
   - Updated configs
     * Better Clouds
     * Complimentary shaders
+    * Default Options
     * Main Menu Credits
     * MakeUp UltraFast Shaders
     * MobFilter
@@ -27,21 +28,25 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
     * Archers
     * AzureLib
     * AzureLib Armor
+    * Better Clouds
     * BetterF3
     * Better Statistics Screen 
     * Collective
     * CraftTweaker
+    * CreativeCore
     * Elytra Trims
     * Extended Drawers
     * Jewelry
     * LibIPN
     * ModernFix
     * More Chest Variants
+    * Paladins & Priests
     * Seamless
     * Spell Engine
     * Spell Power
     * Villager Names
     * Wall Jump
+    * Wizards
 
 ### Removed
 
@@ -64,6 +69,8 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
     * Alternate Current
     * Iris & Oculus Flywheel Compat
     * Raknetify
+    * Tips
+    * Bookshelf Lib
 
 
 ## [0.8.0] - 2023-11-10

@@ -1,6 +1,8 @@
 Amy's Awesome Vanilla Plus ModPack is intended to ONLY be distributed via Modrinth.com but includes files from several sources.  All diligence was done to assure at the time of publication I had permission to redistribute these files:
 
 PERFORMANCE
+  Alternate Current {MIT}
+    Efficient and non-locational redstone dust implementation (Server) https://modrinth.com/mod/alternate-current
   Blanket client-tweaks {MIT}
     Bug fixes (Client) https://modrinth.com/mod/blanket
   Carpet-Fixes {MIT}
@@ -41,6 +43,8 @@ PERFORMANCE
     Additional rendering culling (Client) https://modrinth.com/mod/morecullingextra
   Not Enough Crashes {MIT}
     Improved crash handling (Client or Server) https://modrinth.com/mod/notenoughcrashes
+  Raknetify {MIT}
+    RakNet to improve multiplayer experience significantly under unreliable and rate-limited connections (Client and Server) https://modrinth.com/plugin/raknetify
   ServerCore {MIT}
     Optimization for servers (Client or Server) https://modrinth.com/mod/servercore
   Sodium {LGPL-3.0-only}
@@ -421,8 +425,6 @@ CONTENT ADDITIIONS
     Improves how the portals look (Client and Server) https://modrinth.com/datapack/hopo-better-ruined-portals
   Hopo Better Underwater Ruins {All rights reserved unless explicitly stated.}
     New ocean ruins (Client and Server) https://modrinth.com/datapack/better-underwater-ruins
-  Hybrid Aquatic {All rights reserved unless explicitly stated.}
-    enhanced underwater Minecraft experience (Client and Server)
   Immersive Armors {GPL-3.0-only}
     Additional vanilla style armors (Client and Server) https://modrinth.com/mod/immersive-armors
   Jewelry (RPG Series) {All rights reserved unless explicitly stated.}
@@ -528,6 +530,8 @@ UTILITY
     Removes delay between music tracks (Client) https://modrinth.com/mod/infinite-music
   Iris Shaders {LGPL-3.0-only}
     Allows using shaders (Client) https://modrinth.com/mod/iris
+  Iris & Oculus Flywheel Compat {MIT}
+    Improves shader performance with Create (Client) https://www.curseforge.com/minecraft/mc-mods/iris-flywheel-compat
   Jade Addons (Fabric) {All rights reserved unless explicitly stated.}
     Adds compat for Create (Client and Server) https://modrinth.com/mod/jade-addons-fabric
   Litematica {LGPL-3.0-or-later}
@@ -550,11 +554,6 @@ UTILITY
     🏹 Range weapon damage becomes configurable (Client and Server) https://modrinth.com/mod/projectile-damage-attribute
   Prometheus {MIT}
     Player permission handling (Server) https://modrinth.com/mod/prometheus
-  Plasmo Voice {LGPL-3.0-only}
-    Proximity voice chat mod with audio positioning and lots of features (Client or Server) https://modrinth.com/plugin/plasmo-voice
-  PlasmoVoice Addons
-    pv-addon-groups {MIT} (Server) https://modrinth.com/plugin/pv-addon-groups
-    pv-addon-soundphysics {MIT} (Client) https://modrinth.com/mod/pv-addon-soundphysics
   Resource Pack Overrides {MPL-2.0}
     Management of resource packs (Client) https://modrinth.com/mod/resource-pack-overrides
   Random Village Names {All rights reserved unless explicitly stated.}
@@ -565,6 +564,8 @@ UTILITY
     Adds spell attributes (Client and Server) https://modrinth.com/mod/spell-power
   Structure Pool API {MIT}
     📚 API to inject structures into structure pools (Server) https://modrinth.com/mod/structure-pool-api
+  Tips {LGPL-2.1-only}
+    Adds tips to loading menus (Client) https://modrinth.com/mod/tips
   Villager Names {All rights reserved unless explicitly stated.}
     Gives villagers random names (Server) https://modrinth.com/mod/villager-names-serilum
 
@@ -577,6 +578,8 @@ LIBRARY
     Striped down Azurelib just for Armor (Client and Server) https://modrinth.com/mod/azurelib-armor
   Balm {twelveiterations}
     Library for BlayTheNinth's mods (Client and Server) https://modrinth.com/mod/balm
+  Bookshelf {LGPL-2.1-only}
+    Library for Darkhax's mods (Client and Server) https://modrinth.com/mod/bookshelf-lib
   Cardinal Components API {MIT}
     Components API for Quilt and Fabric (Server) https://modrinth.com/mod/cardinal-components-api
   Cloth Config API {LGPL-3.0-only}
@@ -625,7 +628,6 @@ LIBRARY
 LICENSE
   AGPL-3.0-or-later https://spdx.org/licenses/AGPL-3.0-or-later.html
   Apache-2.0 https://www.apache.org/licenses/LICENSE-2.0
-  twelveiterations https://mods.twelveiterations.com/permissions/
   CC0-1.0 https://creativecommons.org/publicdomain/zero/1.0/
   BSD-3-Clause https://spdx.org/licenses/BSD-3-Clause.html
   CC-BY-NC-ND-4.0 https://creativecommons.org/licenses/by-nc-nd/4.0/
@@ -647,5 +649,6 @@ LICENSE
   Starfish Studios License https://github.com/starfish-studios/Naturalist/blob/1.19.2-archive/LICENSE
   Terrarium License https://github.com/terrarium-earth/Athena/blob/1.19.4/LICENSE
   tr7zw Protective License https://github.com/tr7zw/EntityCulling/blob/1.18/LICENSE-EntityCulling
+  twelveiterations https://mods.twelveiterations.com/permissions/
   Unlicense https://spdx.org/licenses/Unlicense.html
   Vanilla Tweaks https://vanillatweaks.net/terms/

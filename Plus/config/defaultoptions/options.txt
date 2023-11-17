@@ -47,7 +47,7 @@ ao:true
 prioritizeChunkUpdates:0
 biomeBlendRadius:4
 renderClouds:"true"
-resourcePacks:["vanilla","file/Fast Better Grass.zip","file/Incendium_Optional_Resourcepack_1.20.1_v5.3.7.zip","file/cubic-sun-moon-v1-6-1.zip","seasons/seasonal_lush_caves","itemswapper/default","file/Nautilus3D_V1.9_[MC-1.13+].zip","file/VanillaTweaks_r284743.zip","file/[EBE] Sign+ V1.1.zip","armorchroma/alternative-icons","file/VanillaLootChests.zip","file/EclecticTrove-noconfig-1.19-1.2.0.zip","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Chest-Boat-GUI-v1-dark.zip","file/VanillaTweaks_r445777.zip","file/UniqueEnchantedBooks_v2.0.3.zip","file/enchant icons 1.20 v1.3.zip","tinyskeletons"]
+resourcePacks:["vanilla","file/Fast Better Grass.zip","seasons/seasonal_lush_caves","file/cubic-sun-moon-v1-7a.zip","presencefootsteps/default_sound_pack","itemswapper/default","tinyskeletons:main","file/Nautilus3D_V1.9_[MC-1.13+].zip","file/VanillaTweaks_r445777.zip","file/[EBE] Sign+ V1.1.zip","file/VanillaLootChests.zip","$polymer-resources","consistency_plus/vanilla_changes","distinguishedpotions:potion_overrides","file/Incendium_Optional_Resourcepack_1.20.1_v5.3.9.zip","seamless/default_seamless","armorchroma/alternative-icons","file/Default-Dark-Mode-1.20-2023.7.0.zip","file/Chest-Boat-GUI-v1-dark.zip","file/VanillaTweaks_r284743.zip","file/UniqueEnchantedBooks_v2.0.3.zip","file/enchant icons 1.20 v1.3.zip","file/EclecticTrove-noconfig-1.20.1-1.2.0.zip"]
 incompatibleResourcePacks:[]
 lastServer:
 lang:en_us

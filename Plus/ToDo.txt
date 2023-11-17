@@ -1,6 +1,6 @@
 This ToDo document follows [todo.txt](https://github.com/todotxt/todo.txt) format
 
-add subtitles for entity.guard.ambient +Client +Server @GuardVillagers
+subtitles for entity.guard.ambient missing +Client +Server @GuardVillagers
 change extended drawers recipes to accept any chest +Client +Server @ExtendedDrawers
 check enchanted loot for tool compatibility (no more fishing rods with double jump enchant) +Client +Server @WallJump @??
 Map Atlas not showing up in "craftable" window +Client +Server @MapAtlases
@@ -13,7 +13,7 @@ Farmer's Delight mod and Nautilus3D resourcepack compat +Client @FarmersDelight 
 More Chest Variants mod and Nautilus3D resourcepack compat +Client @MoreChestVariants @Nautilus3d
 Just More Cakes mod and Nautilus3D resourcepack compat +Client @JustMoreCakes @Nautilus3d
 Change This Rocks! mod so items drop themselves not pieces +Client +Server @ThisRocks
-Check for duplicate items from multiple mods (buttercup, ropes) +Client +Server
+Check for duplicate items from multiple mods (buttercup, ropes, fried egg) +Client +Server
 Find a way to inject modded trees into terralith and/or replace biomes with ones from other mods +Client +Server @Terralith
 Add loading screen tips +Client 
 x Disable hostile mobs spawining in Sky Lands biomes +Client +Server @Terralith @MobFilter
@@ -22,7 +22,7 @@ Get permission and music from LudoCrypt +Client +Server @DynamicMusic
 Create a logo
 x Add Main Menu Credits to modpack +Client @MainMenuCredits
 x Add name of mod to main menu +Client @MainMenuCredits
-Find mod to add tips to game +Client +Server
+x Find mod to add tips to game +Client +Server
 Add tips +Server +Client
 x Find a slabs mod and add it to modpack +Client +Server
 Find and add mod/s for enchantments (aquisition, etc) +Client +Server
@@ -58,4 +58,7 @@ Disable Fabric Seasons on skylands +Client +Server @Terralith @FabricSeasons
 Check enchantments in Qu Enchantments +Client +Server @QuEnchantments
 Add NBT to arrrows so they burn +Client +Server
 Fix Carrot's potato gun +Client +Server @Create
-Switch to GitHub for development @GitHub
+x Switch to GitHub for development @GitHub
+Add descriptions for new enchants +Client +Server @QuEnchantments
+x Write Modrinth description 
+Upload to Modrinth
