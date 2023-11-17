@@ -1,8 +1,6 @@
 # Changelog
 
-All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in this file.
-
-The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
+All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ## [UNRELEASED]
 
@@ -16,6 +14,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ### Changed
 
+  - Updated ChangeLog
   - Monsters should no longer spawn in Skylands biomes
   - Updated configs
     * Better Clouds
@@ -56,6 +55,8 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ### Added
 
+  - Added LICENSE.md
+  - Added ReadMe.md
   - Added configs
     * Naturalist
     * IPN Integration Hints
