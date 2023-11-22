@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "ChangeLog.md"
-hash = "8411679504cb6789ee6c0074afb992e500c845c9e4256f20f44b7a9dcba00f92"
+hash = "ce32eaf84659b9da4b3abb9363942e2c2d6e8a39f1942abb7a1d9cc510fea9ed"
 
 [[files]]
 file = "Credits.txt"
@@ -65,6 +65,10 @@ file = "config/compacthelpcommand.json5"
 hash = "af0abe564a1b813a2e77696d6abffe243dc9a84172f08a4bccd106a9473e35d9"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "4118b6610d555d5366f641916b5126c74c4b82a4cc88fb4163178bbe6b3fa674"
+
+[[files]]
 file = "config/essentialcommands/rules.txt"
 hash = "29c8da01df810ef8640fce45b18f1ccd4430dcb6339e5a54a0a19a567e0e3363"
 
@@ -82,7 +86,7 @@ hash = "00f996c6f36c5177455ca941a955ff06d23afbe72bba9881b6e9902d62b74411"
 
 [[files]]
 file = "config/lootr.json"
-hash = "92585444723b085106dac1dbd77b10d0c259f252d276f73e518c37b90dfb4df0"
+hash = "e966122d6c416e33221db4b11e80dc67042bf71e93cb147132f4ea188892ba42"
 
 [[files]]
 file = "config/map_atlases.json5"
@@ -135,6 +139,14 @@ hash = "d22ddd6a61405cce6dddd3141c03cbef184d0a2c359abb039438ad124b976db8"
 [[files]]
 file = "config/rocks.json"
 hash = "aa165eb12c0bd8176f712bcd10576e40bc0747f88f5b961a2dee5fd1eef4f4da"
+
+[[files]]
+file = "config/seasons.json"
+hash = "f48ce6c87cf49ad743c234951f2cf83d9f6d5da3c9e8b93116cb032d55ab1231"
+
+[[files]]
+file = "config/spell_engine/server.json5"
+hash = "07d2f04d5170096cf37aa7220790e91727a78ede25371d0154e6990a2c91bb36"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
