@@ -8,6 +8,30 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
 ### Fixed
 
+  - Seasons should no longer affect Skylands
+  - Seasons lenghts adjusted
+  - Swords no longer casts spells
+  - Create storage vaults now have capacity of double chest per unit
+
+### Changed
+
+  - Updated configs
+    * Lootr
+
+### Removed
+
+
+### Added 
+
+  - Added Configs
+    * Create
+    * Fabric Seasons
+    * Spell Engine
+
+## [0.3.0] - 2023-11-17
+
+### Fixed
+
   - Players should now be able to place and rename waystones
   - Birds should now spawn less
 
