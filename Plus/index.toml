@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Changelog.md"
-hash = "d7bf8bb83be1e2888f1809d9f588f117c1d6fc7adf73e08c68b8658c13cc5aa0"
+hash = "7829303ec1820cde38b840460352f0cf3f317d11dd36fb05d1deda2f9c89eb9f"
 
 [[files]]
 file = "Credits.txt"
@@ -170,7 +170,7 @@ hash = "4bf17041ccc8d2b6c7bb27d8b0a2a8cc512ea1c1a811a6f4fd88d0e552e4f2f1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "23235cb33b4e7e7a22f076ddc88087cabd6000149659bb00ee6bd9b9e4710daf"
+hash = "f852b7844fa7fd0e376b381cbd27b844d59cae1ed11907d14af6bd53922c0345"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -1164,6 +1164,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "6444249aa1ed76a7af265c0ca3f0883be0c2c1837cd5c1080455dad5b5a30cda"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -1486,6 +1491,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "637453f471b9b9a07c0d455eacbaa63509bd8066ca14f15e2225328bb18ca201"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "c7bf46dfca5cae2d262d2bde16a07c2671f4ae736d17f39338778ff42a712b6f"
 metafile = true
 
 [[files]]

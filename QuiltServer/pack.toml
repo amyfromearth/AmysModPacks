@@ -1,12 +1,12 @@
 name = "Amy's Awesome Vanilla Plus Server Modpack"
 author = "AmyFromEarth"
-version = "0.3.1"
+version = "0.4.0 KubeJS_Branch"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "14db6ca9711c8f405d5b5fa81efb5f9906ce9edc322378ff796a919c37487f51"
+hash = "451b1fa1266f035e7b6a0f36849f4fb23c7a49362c116839db6925e0e701310e"
 
 [versions]
 minecraft = "1.20.1"

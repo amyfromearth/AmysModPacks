@@ -744,6 +744,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "6444249aa1ed76a7af265c0ca3f0883be0c2c1837cd5c1080455dad5b5a30cda"
+metafile = true
+
+[[files]]
 file = "mods/libertyvillagers.pw.toml"
 hash = "4607ed54f2651a2dd0413150ead6959ef2b0084f6303a6249e34cecf0bd8d133"
 metafile = true
@@ -956,6 +961,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "637453f471b9b9a07c0d455eacbaa63509bd8066ca14f15e2225328bb18ca201"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "c7bf46dfca5cae2d262d2bde16a07c2671f4ae736d17f39338778ff42a712b6f"
 metafile = true
 
 [[files]]
