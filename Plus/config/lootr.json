@@ -6,7 +6,7 @@
     "randomize_seed": true
   },
   "conversion": {
-    "maximum_entry_age": 12000
+    "maximum_entry_age": 24000
   },
   "breaking": {
     "enable_break": false,
