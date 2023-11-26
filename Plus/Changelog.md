@@ -2,6 +2,25 @@
 
 All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
+## [UNRELEASED]
+
+### Fixed
+
+  - Potions now stack up to 16
+
+### Changed
+
+  - Updated version number
+
+### Removed
+
+### Added
+
+  - Added mods
+    * KubeJS
+  - Added scripts
+    * startup.js
+
 ## [0.9.0] - 2023-11-17
 
 ### Fixed

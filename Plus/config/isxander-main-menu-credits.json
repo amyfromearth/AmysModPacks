@@ -7,9 +7,9 @@
     "mod_blacklist": []
   },
   "pause_menu": {
-    "top_left": [],
+    "top_left": ["Amy's Awesome Vanilla Plus ModPack 0.10.0 BETA - KubeJS_Branch"],
     "top_right": [],
-    "bottom_left": ["Amy's Awesome Vanilla Plus ModPack 0.10.0 BETA - KubeJS_Branch"],
+    "bottom_left": [],
     "bottom_right": [],
     "mod_blacklist": []
   }

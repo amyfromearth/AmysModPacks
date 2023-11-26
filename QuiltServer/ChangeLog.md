@@ -12,9 +12,11 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
   - Seasons lenghts adjusted
   - Swords no longer casts spells
   - Create storage vaults now have capacity of double chest per unit
+  - Potions now stack up to 16
 
 ### Changed
 
+  - Updated version number
   - Updated configs
     * Lootr
 
@@ -27,6 +29,10 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
     * Create
     * Fabric Seasons
     * Spell Engine
+  - Added mods
+    * KubeJS
+  - Added scripts
+    * startup.js
 
 ## [0.3.0] - 2023-11-17
 

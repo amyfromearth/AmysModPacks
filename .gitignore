@@ -4,8 +4,9 @@ CRASHES/
 TestServer/
 *.log
 *.mrpack
-*.gitignore
 java_args.txt
 MasterCredits.txt
 packwiz
 quilt-installer-0.9.1.jar
+options.amy
+knownkeys.amy
