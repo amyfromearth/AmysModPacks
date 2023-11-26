@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "ChangeLog.md"
-hash = "e670734d921ea5b5586b1a9f04009ce1b488d27cb7b99768af6646f21ed996d1"
+hash = "7357531c1f53704eb39a77d005e54eeafd8f5a0001bd5985e47762b40b44bf63"
 
 [[files]]
 file = "Credits.txt"
@@ -186,6 +186,10 @@ metafile = true
 file = "datapacks/towers-of-the-wild-reworked.pw.toml"
 hash = "b70ebb349dffc58c7c7d88cb763a7824fa1bba23bf4010370d388310ebeebe49"
 metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/server.js"
+hash = "b8d3c59b2087d92b34c496064c3b622f7bbc3bd9ca36af86566846676633a509"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"

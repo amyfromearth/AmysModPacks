@@ -14,6 +14,7 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
   - Potions now stack up to 16
   - Suspicious Stew now stacks up to 16
   - Arrows can now be used as fuel with same fuel value as sticks
+  - Crafting recipes with chest input now accept any chest
 
 ### Changed
 
@@ -38,6 +39,7 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
     * KubeJS
   - Added scripts
     * startup.js
+    * server.js
 
 ## [0.9.0] - 2023-11-17
 

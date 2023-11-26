@@ -16,6 +16,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
   - Potions now stack up to 16
   - Suspicious Stew now stacks up to 16
   - Arrows can now be used as fuel with same fuel value as sticks
+  - Crafting recipes with chest input now accept any chest
 
 ### Changed
 
@@ -39,6 +40,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
     * KubeJS
   - Added scripts
     * startup.js
+    * server.js
 
 ## [0.3.0] - 2023-11-17
 
