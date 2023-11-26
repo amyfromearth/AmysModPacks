@@ -9,11 +9,13 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 ### Fixed
 
   - Seasons should no longer affect Skylands
-  - Seasons lenghts adjusted
+  - Season lengths adjusted
   - Swords no longer casts spells
   - Create storage vaults now have capacity of double chest per unit
   - Modded enchantments no longer show up as book trades or in the enchantment table
   - Potions now stack up to 16
+  - Suspicious Stew now stacks up to 16
+  - Arrows can now be used as fuel with same fuel value as sticks
 
 ### Changed
 

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "ChangeLog.md"
-hash = "1b8b235c34d00ae8f2d03e15a995d0fceb2dfdee50ea5ee6a475cc1aebd75f86"
+hash = "e85079b530119421f1c3bfa7f9df54cc6a9e5edacb1656b1ac7502ed71da8404"
 
 [[files]]
 file = "Credits.txt"
@@ -186,6 +186,10 @@ metafile = true
 file = "datapacks/towers-of-the-wild-reworked.pw.toml"
 hash = "b70ebb349dffc58c7c7d88cb763a7824fa1bba23bf4010370d388310ebeebe49"
 metafile = true
+
+[[files]]
+file = "kubejs/startup_scripts/startup.js"
+hash = "a609b2f37793a05853875c6167ea616c6f884717e47aa48bad7b44e6d5c1f376"
 
 [[files]]
 file = "mods/additional-blocks-vertical-edition.pw.toml"
@@ -435,11 +439,6 @@ metafile = true
 [[files]]
 file = "mods/consistencyplus.pw.toml"
 hash = "1163602dac7aea2e98a45827d8527d7e596d9f9d72e1aa6c8aebfef39d6d73c9"
-metafile = true
-
-[[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "d74144bc477a670aa26a8f41db06ca02362e001a0c19ce440c2936417e36b608"
 metafile = true
 
 [[files]]
