@@ -17,6 +17,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
   - Suspicious Stew now stacks up to 16
   - Arrows can now be used as fuel with same fuel value as sticks
   - Crafting recipes with chest input now accept any chest
+  - Decorative items from This Rocks! mod now drop themselves and can be placed by players
 
 ### Changed
 

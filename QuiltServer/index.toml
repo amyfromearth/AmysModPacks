@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "ChangeLog.md"
-hash = "7357531c1f53704eb39a77d005e54eeafd8f5a0001bd5985e47762b40b44bf63"
+hash = "efc899008d6f3104cf84541ce3df60b5d17e5f0afe07c8da09d5da731170dc00"
 
 [[files]]
 file = "Credits.txt"
@@ -189,7 +189,7 @@ metafile = true
 
 [[files]]
 file = "kubejs/server_scripts/server.js"
-hash = "b8d3c59b2087d92b34c496064c3b622f7bbc3bd9ca36af86566846676633a509"
+hash = "dc6312a4bbba082b399611b30d76d1289764dea0642ad924fd2ed759da9ad2c4"
 
 [[files]]
 file = "kubejs/startup_scripts/startup.js"

@@ -15,6 +15,7 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
   - Suspicious Stew now stacks up to 16
   - Arrows can now be used as fuel with same fuel value as sticks
   - Crafting recipes with chest input now accept any chest
+  - Decorative items from This Rocks! mod now drop themselves and can be placed by players
 
 ### Changed
 

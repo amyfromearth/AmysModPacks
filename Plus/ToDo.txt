@@ -12,7 +12,7 @@ Universal Ores mod and Nautilus3D resourcepack compat +Client tag:resourcepack @
 Farmer's Delight mod and Nautilus3D resourcepack compat +Client tag:resourcepack @FarmersDelight @Nautilus3d
 More Chest Variants mod and Nautilus3D resourcepack compat +Client tag:resourcepack @MoreChestVariants @Nautilus3d
 Just More Cakes mod and Nautilus3D resourcepack compat +Client tag:resourcepack @JustMoreCakes @Nautilus3d
-Change This Rocks! mod so items drop themselves not pieces +Client +Server @ThisRocks
+x Change This Rocks! mod so items drop themselves not pieces +Client +Server @ThisRocks
 Check for duplicate items from multiple mods (buttercup, ropes, fried egg) +Client +Server
 Find a way to inject modded trees into terralith and/or replace biomes with ones from other mods +Client +Server @Terralith
 Write and add loading screen tips +Client 
@@ -25,7 +25,7 @@ x Add name of mod to main menu +Client @MainMenuCredits
 x Find mod to add tips to game +Client +Server
 x Find a slabs mod and add it to modpack +Client +Server
 Find and add mod/s for enchantments (EnchantedShulkers, Enchantments-Plus) +Client +Server
-Figure out how to get bamboo to have same shearing mechanic as glow berries +client +Server
+Figure out how to get bamboo to have same shearing mechanic as glow berries +Client +Server
 Figure out how to make dirt underwater convert to mud +Client +Server
 Find cat and dog variants +Client +Server
 Decide which biomes to replace (Gravel Desert) +Client +Server @Terralith
