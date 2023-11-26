@@ -10,15 +10,15 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
   - Seasons lenghts adjusted
   - Swords no longer casts spells
   - Create storage vaults now have capacity of double chest per unit
-
+  - Potions now stack up to 16
 
 ### Changed
 
+  - Updated version number
   - Updated configs
     * Lootr
 
 ### Removed
-
 
 ### Added 
 
@@ -26,21 +26,6 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
     * Create
     * Fabric Seasons
     * Spell Engine
-
- ## [UNRELEASED]
-
-### Fixed
-
-  - Potions now stack up to 16
-
-### Changed
-
-  - Updated version number
-
-### Removed
-
-### Added
-
   - Added mods
     * KubeJS
   - Added scripts
