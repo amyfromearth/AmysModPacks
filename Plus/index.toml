@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Changelog.md"
-hash = "7829303ec1820cde38b840460352f0cf3f317d11dd36fb05d1deda2f9c89eb9f"
+hash = "300e71e50de359c228ffbdd4fba8825642daa1a7e8540a3caf66ddb024a6097f"
 
 [[files]]
 file = "Credits.txt"
@@ -15,10 +15,6 @@ hash = "7865ba76cfbea615bad6a6c02aef73246f106dda53dacd6cb47be42f854d560c"
 [[files]]
 file = "ReadMe.md"
 hash = "dcc42ef8afdaea6f6dabe435bb52c3a0c570424cc596e9566878684d2ae201ff"
-
-[[files]]
-file = "ToDo.txt"
-hash = "3dc3bf5e43ea779a23027d387a1216ce10d1d7b9a570d23a2a1d806dc21d53d8"
 
 [[files]]
 file = "config/EssentialCommands.properties"
@@ -97,6 +93,10 @@ file = "config/compacthelpcommand.json5"
 hash = "af0abe564a1b813a2e77696d6abffe243dc9a84172f08a4bccd106a9473e35d9"
 
 [[files]]
+file = "config/create-server.toml"
+hash = "4118b6610d555d5366f641916b5126c74c4b82a4cc88fb4163178bbe6b3fa674"
+
+[[files]]
 file = "config/defaultoptions/extra/emi.json"
 hash = "2c69f89e7d0f482485237b8ffd59b6676bddf8930d230107ba9090c31d1b6d41"
 
@@ -162,7 +162,7 @@ hash = "63d05e5fa925babcad1c9dad3b1989e22284be32908fe310083f03c5b20f1856"
 
 [[files]]
 file = "config/inventoryprofilesnext/inventoryprofiles.json"
-hash = "b655729ec9e51b0223a187a048b131e4c9f11202684d2819a0434898582e24de"
+hash = "74b0f2120c5d86b98f97855d923a19e7e75164fa5f4458bcab27acd44a584a5d"
 
 [[files]]
 file = "config/iris.properties"
@@ -170,7 +170,7 @@ hash = "4bf17041ccc8d2b6c7bb27d8b0a2a8cc512ea1c1a811a6f4fd88d0e552e4f2f1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "f852b7844fa7fd0e376b381cbd27b844d59cae1ed11907d14af6bd53922c0345"
+hash = "c2efbd39eafbcc9657309dea8b09cb555f52a74bfc7cafa64e1f7d55e8950c79"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -182,7 +182,7 @@ hash = "4fb871397dae7e5b8012a680e5820f7fb5fc53930c71e0661d40bf60880ea6f6"
 
 [[files]]
 file = "config/lootr.json"
-hash = "92585444723b085106dac1dbd77b10d0c259f252d276f73e518c37b90dfb4df0"
+hash = "e966122d6c416e33221db4b11e80dc67042bf71e93cb147132f4ea188892ba42"
 
 [[files]]
 file = "config/map_atlases.json5"
@@ -229,6 +229,10 @@ file = "config/presencefootsteps/userconfig.json"
 hash = "51b320fa260469e32132501de95a2fed2a4a26af412045b4eba1481a2d5e4b4f"
 
 [[files]]
+file = "config/qu-enchantments.toml"
+hash = "4a4bead2158834fc19087fe2159cbb29923eb0f1317c79a51e88ef28cc562c34"
+
+[[files]]
 file = "config/quilt_loading_screen.json"
 hash = "883fa4a74c3e57fa61409462991e00911745d3049c60d466fa9b0aff0dfe29bb"
 
@@ -253,6 +257,10 @@ file = "config/seamless_loading_screen.json"
 hash = "cd5a8691b2f5d62f880832d3ed433b3e2869247fa949dd7de2bf917f8c03856a"
 
 [[files]]
+file = "config/seasons.json"
+hash = "f48ce6c87cf49ad743c234951f2cf83d9f6d5da3c9e8b93116cb032d55ab1231"
+
+[[files]]
 file = "config/skinlayers.json"
 hash = "4e72bb7f4ccbdaed17668b3927a052ff867f6ae4b852481bf82dcc04072d56a5"
 
@@ -267,6 +275,10 @@ hash = "32ca82e590f20da9f0e65f70e49041dd9899a654a60385d1f8a2b82aa57a5cbf"
 [[files]]
 file = "config/sound_physics_remastered/soundphysics.properties"
 hash = "9a93284bfdb89f597ef920586faee306bedac31ad4a4d2981d608dd064d54ebb"
+
+[[files]]
+file = "config/spell_engine/server.json5"
+hash = "07d2f04d5170096cf37aa7220790e91727a78ede25371d0154e6990a2c91bb36"
 
 [[files]]
 file = "config/spiceoffabric.hjson"
@@ -322,6 +334,10 @@ metafile = true
 file = "datapacks/towers-of-the-wild-reworked.pw.toml"
 hash = "b70ebb349dffc58c7c7d88cb763a7824fa1bba23bf4010370d388310ebeebe49"
 metafile = true
+
+[[files]]
+file = "kubejs/startup_scripts/startup.js"
+hash = "a609b2f37793a05853875c6167ea616c6f884717e47aa48bad7b44e6d5c1f376"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -696,11 +712,6 @@ metafile = true
 [[files]]
 file = "mods/consistencyplus.pw.toml"
 hash = "1163602dac7aea2e98a45827d8527d7e596d9f9d72e1aa6c8aebfef39d6d73c9"
-metafile = true
-
-[[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "d74144bc477a670aa26a8f41db06ca02362e001a0c19ce440c2936417e36b608"
 metafile = true
 
 [[files]]
