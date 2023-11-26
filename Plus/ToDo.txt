@@ -55,7 +55,7 @@ Have any fish related food recipe accept all fish variants +Client +Server @Hybr
 x Disable Fabric Seasons on skylands +Client +Server @Terralith @FabricSeasons
 (A) Moving items on Create contraptions disappear when using shaders with shadows enabled +Client @Create @ComplementaryReimagined @MakeUp-UltraFast @Iris&OculusFlywheelCompat
 Check enchantments in Qu Enchantments +Client +Server @QuEnchantments
-change arrrows so they are same fuel as stick +Client +Server
+x change arrrows so they are same fuel as stick +Client +Server
 Fix Carrot's potato gun +Client +Server @Create
 x Switch to GitHub for development @GitHub
 Add descriptions for new enchants +Client +Server @QuEnchantments
@@ -68,5 +68,5 @@ x Modded Recipes show up too often in Enchanting Table +Client +Server @QuEnchan
 Add ways for more items to be recycled (armor especially) +Client +Server
 x Allow potions to stack +Client +Server
 IPN replaces backtanks when low air +Client +Server @InventoryProfilesNext @Create
-Allow soups to stack +Client +Server
+x Allow soups to stack +Client +Server
 Visual glitches with barrels and chests stuck "open" +Client
