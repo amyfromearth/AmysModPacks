@@ -4,7 +4,7 @@ All notable changes to Amy's Awesome Vanilla Plus Server will be documented in t
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
-## [UNRELEASED]
+## [0.3.1] - UNRELEASED
 
 ### Fixed
 
@@ -13,6 +13,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
   - Swords no longer casts spells
   - Create storage vaults now have capacity of double chest per unit
   - Potions now stack up to 16
+  - Modded enchantments no longer show up as book trades or in the enchantment table
 
 ### Changed
 
@@ -28,6 +29,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
   - Added Configs
     * Create
     * Fabric Seasons
+    * Qu Enchantments
     * Spell Engine
   - Added mods
     * KubeJS

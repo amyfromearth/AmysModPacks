@@ -6,6 +6,31 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
 
 ### Fixed
 
+  - Seasons should no longer affect Skylands
+  - Seasons lenghts adjusted
+  - Swords no longer casts spells
+  - Create storage vaults now have capacity of double chest per unit
+
+
+### Changed
+
+  - Updated configs
+    * Lootr
+
+### Removed
+
+
+### Added 
+
+  - Added Configs
+    * Create
+    * Fabric Seasons
+    * Spell Engine
+
+ ## [UNRELEASED]
+
+### Fixed
+
   - Potions now stack up to 16
 
 ### Changed

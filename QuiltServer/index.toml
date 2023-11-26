@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "ChangeLog.md"
-hash = "ce32eaf84659b9da4b3abb9363942e2c2d6e8a39f1942abb7a1d9cc510fea9ed"
+hash = "1b8b235c34d00ae8f2d03e15a995d0fceb2dfdee50ea5ee6a475cc1aebd75f86"
 
 [[files]]
 file = "Credits.txt"
@@ -123,6 +123,10 @@ hash = "959c259509268aace68c0e9bd77b53cf7a0bed17f6c4727e549dfc4e6218b077"
 [[files]]
 file = "config/paperdoll-client.toml"
 hash = "89e80055a6d126bc646e71141e76baa9b7289b489a5507385073f9ad988d0041"
+
+[[files]]
+file = "config/qu-enchantments.toml"
+hash = "4a4bead2158834fc19087fe2159cbb29923eb0f1317c79a51e88ef28cc562c34"
 
 [[files]]
 file = "config/realisticbees.json5"

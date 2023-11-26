@@ -54,7 +54,7 @@
     "AutoRefillSettings": {
         "auto_refill_prefer_smaller_stacks": true,
         "tool_damage_threshold": 5,
-        "auto_refill_match_any_food": true,
+        "auto_refill_match_any_food": false,
         "allow_break_for_non_enchanted": {
             "value": true
         },
