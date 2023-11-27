@@ -18,6 +18,7 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
   - Decorative items from This Rocks! mod now drop themselves and can be placed by players
   - Modded fish can now be used in any recipe with input of raw fish
   - Modded cooked fish can now be used in any recipe with input of cooked fish
+  - Backpack can now be obtained without leaving the overworld
 
 ### Changed
 

@@ -20,6 +20,7 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
   - Decorative items from This Rocks! mod now drop themselves and can be placed by players
   - Modded fish can now be used in any recipe with input of raw fish
   - Modded cooked fish can now be used in any recipe with input of cooked fish
+  - Backpack can now be obtained without leaving the overworld
 
 ### Changed
 
