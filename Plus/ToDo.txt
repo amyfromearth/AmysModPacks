@@ -13,7 +13,7 @@ Farmer's Delight mod and Nautilus3D resourcepack compat +Client tag:resourcepack
 More Chest Variants mod and Nautilus3D resourcepack compat +Client tag:resourcepack @MoreChestVariants @Nautilus3d
 Just More Cakes mod and Nautilus3D resourcepack compat +Client tag:resourcepack @JustMoreCakes @Nautilus3d
 x Change This Rocks! mod so items drop themselves not pieces +Client +Server @ThisRocks
-Check for duplicate items from multiple mods (buttercup, ropes, fried egg) +Client +Server
+Check for duplicate items from multiple mods (buttercup, ropes, fried egg, catfish) +Client +Server
 Find a way to inject modded trees into terralith and/or replace biomes with ones from other mods +Client +Server @Terralith
 Write and add loading screen tips +Client 
 x Disable hostile mobs spawining in Sky Lands biomes +Client +Server @Terralith @MobFilter
@@ -51,14 +51,14 @@ x Lootr converts fisherman barrels preventing villagers from becoming fishermen 
 Butterflies and fireflies are too big +Client +Server @Naturalist @Wildlife
 Make backpack easier to obtain +Client +Server tag:KubeJS @UMUBackpacks
 x Adjust IPN buttons on Utility belt UI +Client @IPN @UtilityBelt
-Have any fish related food recipe accept all fish variants +Client +Server tag:KubeJS @Naturalist @FarmersDelight @ExpandedDelight @DelightfulCreators
+x Have any fish related food recipe accept all fish variants +Client +Server tag:KubeJS @Naturalist @FarmersDelight @ExpandedDelight @DelightfulCreators
 x Disable Fabric Seasons on skylands +Client +Server @Terralith @FabricSeasons
 (A) Moving items on Create contraptions disappear when using shaders with shadows enabled +Client @Create @ComplementaryReimagined @MakeUp-UltraFast @Iris&OculusFlywheelCompat
 x Check enchantments in Qu Enchantments +Client +Server @QuEnchantments
 x change arrrows so they are same fuel as stick +Client +Server
 Fix Carrot's potato gun +Client +Server @Create
 x Switch to GitHub for development @GitHub
-Add descriptions for new enchants +Client +Server @QuEnchantments
+Add descriptions for new enchants +Client +Server @QuEnchantments @SpellEngine @SpellPower @Archers @Wizards @Priests&Paladins
 x Write Modrinth description 
 x Upload to Modrinth
 Copper recipe in stone cutter provides too many slabs +Client +Server tag:KubeJS
@@ -67,8 +67,9 @@ Stone cutter interface is glitched +Client +Server @Consistenciy+
 x Modded Recipes show up too often in Enchanting Table +Client +Server @QuEnchantments @RPGSeries
 Add ways for more items to be recycled (armor especially) +Client +Server tag:KubeJS
 x Allow potions to stack +Client +Server
-IPN replaces backtanks when low air +Client +Server @InventoryProfilesNext @Create
+@InventoryProfilesNext replaces backtanks when low air +Client +Server @Create
 x Allow soups to stack +Client +Server
 Visual glitches with barrels and chests stuck "open" +Client
-Move default options.txt over to KubeJS +Client tag:KubeJS @DefaultOptions @KubeJS
+Move default options.txt over to @KubeJS +Client tag:KubeJS @DefaultOptions
 Utility Belt GUI isn't dark mode +Client @UtilityBelt @DefaultDarkMode
+Add #c:foods to @FarmersDelight foods +Client +Server

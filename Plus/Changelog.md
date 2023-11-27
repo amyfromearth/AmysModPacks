@@ -16,6 +16,8 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
   - Arrows can now be used as fuel with same fuel value as sticks
   - Crafting recipes with chest input now accept any chest
   - Decorative items from This Rocks! mod now drop themselves and can be placed by players
+  - Modded fish can now be used in any recipe with input of raw fish
+  - Modded cooked fish can now be used in any recipe with input of cooked fish
 
 ### Changed
 

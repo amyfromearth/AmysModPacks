@@ -4,15 +4,16 @@
 
 console.info('Server Ready (Loaded server scripts)')
 
+//Recipes
 //Recipes with item input 'chest' accept any item with tag 'chest'
 ServerEvents.recipes(event => {
     event.replaceInput(
       { input: 'minecraft:chest' },
       'minecraft:chest',
-      '#c:chest'
+      '#c:wooden_chest'
     )
   })
-  
+//Loot tables
 //Acacia sticks from This Rocks! mod drops itself
 ServerEvents.blockLootTables(event => {
   event.addBlock('rocks:acacia_stick', table => {
@@ -140,4 +141,77 @@ ServerEvents.blockLootTables(event => {
       pool.addItem('rocks:spruce_stick')
     })
   })
+})
+//Tags
+//Add #c:raw_fishes tag to modded bass
+ServerEvents.tags('item', event => {
+  event.add('c:raw_fishes', 'naturalist:bass')
+})
+//Add #c:raw_fishes tag to modded catfish
+ServerEvents.tags('item', event => {
+  event.add('c:raw_fishes', 'naturalist:catfish')
+})
+//Add #c:raw_fishes tag to modded anglerfish
+ServerEvents.tags('item', event => {
+  event.add('c:raw_fishes', 'wildlife:raw_anglerfish')
+})
+//Add #c:raw_fishes tag to modded bettafish
+ServerEvents.tags('item', event => {
+  event.add('c:raw_fishes', 'wildlife:raw_bettafish')
+})
+//Add #c:raw_fishes tag to modded bluegill
+ServerEvents.tags('item', event => {
+  event.add('c:raw_fishes', 'wildlife:raw_bluegill')
+})
+//Add #c:raw_fishes tag to modded catfish
+ServerEvents.tags('item', event => {
+  event.add('c:raw_fishes', 'wildlife:raw_catfish')
+})
+//Add #c:raw_fishes tag to modded goldfish
+ServerEvents.tags('item', event => {
+  event.add('c:raw_fishes', 'wildlife:raw_goldfish')
+})
+//Add #c:raw_fishes tag to modded koi
+ServerEvents.tags('item', event => {
+  event.add('c:raw_fishes', 'wildlife:raw_koi')
+})
+//Add #c:raw_fishes tag to modded rainbow trout
+ServerEvents.tags('item', event => {
+  event.add('c:raw_fishes', 'wildlife:raw_rainbow_trout')
+})
+//Add #c:cooked_fishes tag to modded bass
+ServerEvents.tags('item', event => {
+  event.add('c:cooked_fishes', 'naturalist:cooked_bass')
+})
+//Add #c:cooked_fishes tag to modded catfish
+ServerEvents.tags('item', event => {
+  event.add('c:cooked_fishes', 'naturalist:cooked_catfish')
+})
+//Add #c:cooked_fishes tag to modded anglerfish
+ServerEvents.tags('item', event => {
+  event.add('c:cooked_fishes', 'wildlife:cooked_anglerfish')
+})
+//Add #c:cooked_fishes tag to modded bettafish
+ServerEvents.tags('item', event => {
+  event.add('c:cooked_fishes', 'wildlife:cooked_bettafish')
+})
+//Add #c:cooked_fishes tag to modded bluegill
+ServerEvents.tags('item', event => {
+  event.add('c:cooked_fishes', 'wildlife:cooked_bluegill')
+})
+//Add #c:cooked_fishes tag to modded catfish
+ServerEvents.tags('item', event => {
+  event.add('c:cooked_fishes', 'wildlife:cooked_catfish')
+})
+//Add #c:cooked_fishes tag to modded goldfish
+ServerEvents.tags('item', event => {
+  event.add('c:cooked_fishes', 'wildlife:cooked_goldfish')
+})
+//Add #c:cooked_fishes tag to modded koi
+ServerEvents.tags('item', event => {
+  event.add('c:cooked_fishes', 'wildlife:cooked_koi')
+})
+//Add #c:cooked_fishes tag to modded rainbow trout
+ServerEvents.tags('item', event => {
+  event.add('c:cooked_fishes', 'wildlife:cooked_rainbow_trout')
 })
