@@ -323,8 +323,6 @@ UTILITY
    Additional commands and settings (Server) https://modrinth.com/mod/carpet
   Carpet Extra {LGPL-3.0-only}
     Addon to Carpet (Server) https://modrinth.com/mod/carpet-extra
-  CraftTweaker {MIT}
-    Change recipes, script events, add new commands and change item properties (Client and Server) https://modrinth.com/mod/crafttweaker
   Create Slice & Dice {SliceAndDice License}
     Farmers Delight and Create Compat (Client and Server) https://modrinth.com/mod/slice-and-dice
   CTOV Compats: Adds compatibility between CTOV and additional mods
@@ -360,6 +358,8 @@ UTILITY
     🏹 Range weapon damage becomes configurable (Client and Server) https://modrinth.com/mod/projectile-damage-attribute
   Prometheus {MIT}
     Player permission handling (Server) https://modrinth.com/mod/prometheus
+  Quad {MIT}
+    replaces some vanilla recipes to add more mod compact (Server) https://modrinth.com/mod/quad
   Random Village Names {All rights reserved unless explicitly stated.}
     Gives villages names (Client and Server) https://modrinth.com/mod/random-village-names
   Spell Engine {GPL-3.0-only}

@@ -49,6 +49,8 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
     * Create
     * Fabric Seasons
     * Spell Engine
+  - Added mods
+    * Quad
 
  ## [0.9.0] - 2023-11-17
 
