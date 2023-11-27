@@ -16,9 +16,32 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
 
   - Updated configs
     * Lootr
+  - Updated mods
+    * Ambient Sounds
+    * AzureLib
+    * Beautify
+    * Better Archeology
+    * Better Stats
+    * Better Trims
+    * Carry On
+    * Collective
+    * Elytra Trims
+    * EMI Effect
+    * EMI Trades
+    * Forgotten Graves
+    * More Chest Variants
+    * Patchouli
+    * Puzzles Lib
+    * Resourceful Lib
+    * Seamless
+    * YUNGS Better Ocean Monument
+  - Updated resourcepacks
+    * Cubic Sun & Moon
 
 ### Removed
 
+  - Removed mods
+    * CraftTweaker
 
 ### Added 
 

@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "ChangeLog.md"
-hash = "d17146fbb9e78da49f03bcf5781e9bd5a732c27dfb08b5c0eb1a2b557b9d89a9"
+hash = "342dbd39f2a2b6fa1c9277841bc7ca688f2ee44aae154bd2e14b73c5b0ea9268"
 
 [[files]]
 file = "Credits.txt"
