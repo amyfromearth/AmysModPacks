@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "ChangeLog.md"
-hash = "437d8c45c16a05d7a0cfa98cf17a90d8e4dee81bad257feca90866e9863fea09"
+hash = "e57eff85029fb1b7c15341db6d4c80ad3d3d98bdfdc8fb200cfb3f68aa3ff8ae"
 
 [[files]]
 file = "Credits.txt"
-hash = "526660bdf8b1872955af689070f8d68b28084e8dbc8eeedd069d4843d1ee86cc"
+hash = "60cd08f55ad1de95c7d8bdbd8d99ef8862261fdf5745dcbde084e1924d50442d"
 
 [[files]]
 file = "LICENSE.md"
@@ -933,6 +933,11 @@ metafile = true
 [[files]]
 file = "mods/qu-enchantments.pw.toml"
 hash = "aa6092e273a36455bd585b1c08c4b978dd4d93e203e3e0c77e947462ebf36fc5"
+metafile = true
+
+[[files]]
+file = "mods/quad.pw.toml"
+hash = "29316e1f7dce7ca4c89e254197c7f46c0b4954cf11413677e6ef195133abb456"
 metafile = true
 
 [[files]]

@@ -505,8 +505,6 @@ UTILITY
     Addon to Carpet (Server) https://modrinth.com/mod/carpet-extra
   CIT Resewn {MIT}
     Custom Item Textures implementation (Client) https://modrinth.com/mod/cit-resewn
-  CraftTweaker {MIT}
-    Change recipes, script events, add new commands and change item properties (Client and Server) https://modrinth.com/mod/crafttweaker
   CTOV Compats: Adds compatibility between CTOV and additional mods
     CTOV - Beautify Compat {CC-BY-NC-SA-4.0} (Server) https://modrinth.com/datapack/ctov-beautify-compat
     CTOV - Chef's delight Compat {CC-BY-NC-SA-4.0} (Server) https://modrinth.com/datapack/ctov-chefs-delight-compat
@@ -554,6 +552,8 @@ UTILITY
     🏹 Range weapon damage becomes configurable (Client and Server) https://modrinth.com/mod/projectile-damage-attribute
   Prometheus {MIT}
     Player permission handling (Server) https://modrinth.com/mod/prometheus
+  Quad {MIT}
+    replaces some vanilla recipes to add more mod compact (Server) https://modrinth.com/mod/quad
   Resource Pack Overrides {MPL-2.0}
     Management of resource packs (Client) https://modrinth.com/mod/resource-pack-overrides
   Random Village Names {All rights reserved unless explicitly stated.}
