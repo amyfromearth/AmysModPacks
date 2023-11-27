@@ -4,7 +4,7 @@ All notable changes to Amy's Awesome Vanilla Plus Server will be documented in t
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
-## [0.3.1] - UNRELEASED
+## [UNRELEASED]
 
 ### Fixed
 
@@ -18,6 +18,19 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
   - Updated configs
     * Lootr
+  - Updated mods
+    * Beautify
+    * Better Archeology
+    * Better Trims
+    * Carry On
+    * Collective
+    * Elytra Trims
+    * Forgotten Graves
+    * More Chest Variants
+    * Patchouli
+    * Puzzles
+    * Resourceful
+    * YUNGS Better Ocean Monument
 
 ### Removed
 

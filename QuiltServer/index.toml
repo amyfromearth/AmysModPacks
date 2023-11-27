@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "ChangeLog.md"
-hash = "1b8b235c34d00ae8f2d03e15a995d0fceb2dfdee50ea5ee6a475cc1aebd75f86"
+hash = "d17146fbb9e78da49f03bcf5781e9bd5a732c27dfb08b5c0eb1a2b557b9d89a9"
 
 [[files]]
 file = "Credits.txt"
@@ -269,7 +269,7 @@ metafile = true
 
 [[files]]
 file = "mods/beautify-refabricated.pw.toml"
-hash = "e7e792cc5aec854250db3cb9ee6fe16b6edcd88f3f949d1e47c976fcfd1b9c4e"
+hash = "49323e1540fe35dd58946d577dfa9163df4b037eb6231916b1dd86c8204a7e84"
 metafile = true
 
 [[files]]
@@ -279,7 +279,7 @@ metafile = true
 
 [[files]]
 file = "mods/better-archeology.pw.toml"
-hash = "4ce8cd02fd6db139f101a9643068702bcc77dab491454e73a3bcf0638710a62a"
+hash = "74a03a26c55f43efdfd2fe872fbe3af5cb17ab1161d4b1c6ce8da136abc55917"
 metafile = true
 
 [[files]]
@@ -309,7 +309,7 @@ metafile = true
 
 [[files]]
 file = "mods/bettertrims.pw.toml"
-hash = "60c55fa096e92b362f8f8d0dcc26375f140644bb14c833804fe1d1619febe708"
+hash = "beac8ebdc03ee8cedf475a2bd88f6623c341c492d4a5c452afb475feefab7a22"
 metafile = true
 
 [[files]]
@@ -369,7 +369,7 @@ metafile = true
 
 [[files]]
 file = "mods/carry-on.pw.toml"
-hash = "2180bcdb7065c1324e4b53f6ced5be904033cae8308daa88e1075085c7a2f77d"
+hash = "94fbe9655850d99ed2a950e6b59c9cbfabfc21d859c7920c4a8b21101f5981b7"
 metafile = true
 
 [[files]]
@@ -414,7 +414,7 @@ metafile = true
 
 [[files]]
 file = "mods/collective.pw.toml"
-hash = "e2d40bf32278f3d2b65fae32af10f6a7ea38f49e74868fb30fbeb939a7983af1"
+hash = "1048445e03be60757c51017608ec6de1758125cb7d8f593451236d450306154f"
 metafile = true
 
 [[files]]
@@ -435,11 +435,6 @@ metafile = true
 [[files]]
 file = "mods/consistencyplus.pw.toml"
 hash = "1163602dac7aea2e98a45827d8527d7e596d9f9d72e1aa6c8aebfef39d6d73c9"
-metafile = true
-
-[[files]]
-file = "mods/crafttweaker.pw.toml"
-hash = "d74144bc477a670aa26a8f41db06ca02362e001a0c19ce440c2936417e36b608"
 metafile = true
 
 [[files]]
@@ -554,7 +549,7 @@ metafile = true
 
 [[files]]
 file = "mods/elytra-trims.pw.toml"
-hash = "e441ee075765c101b65218a0d8c4d2c6af8cd349f8a38ddbaa2044160bbb2d7c"
+hash = "676d4618afe1768b613e0aaea70adb95d27b55ee5f532e517da663528bdfb594"
 metafile = true
 
 [[files]]
@@ -624,7 +619,7 @@ metafile = true
 
 [[files]]
 file = "mods/forgotten-graves.pw.toml"
-hash = "959640c3e3cb6914afe9a460418708e0fe029763c1b306755476cbd338513d86"
+hash = "e4388a72b0660fb6803a56bb2c0e1f30aec77d85ea457b637e1e3f2b06cb195c"
 metafile = true
 
 [[files]]
@@ -809,7 +804,7 @@ metafile = true
 
 [[files]]
 file = "mods/more-chest-variants-lieonlion.pw.toml"
-hash = "748b889590945a5683a79ec7ba23833dc7fef4bdd90285631b7286abbcee4776"
+hash = "d4b7f6b8a14b99b3cb8533f347ded315805cf533716fc90f1fc903e4ad72ec3e"
 metafile = true
 
 [[files]]
@@ -879,7 +874,7 @@ metafile = true
 
 [[files]]
 file = "mods/patchouli.pw.toml"
-hash = "cd1f0cf0ae2b6e1c14e3caa4685ae721cb590835110e076400cd986be1db9903"
+hash = "7868b15d73e524b8009505fa2112becb5a31e5c4cbdd7c46df4dc5ed9286c467"
 metafile = true
 
 [[files]]
@@ -909,7 +904,7 @@ metafile = true
 
 [[files]]
 file = "mods/puzzles-lib.pw.toml"
-hash = "8ecb202cbaf851233c9b3ff1541f8c70af8334779d59e8046450d6bcd62edc67"
+hash = "babcc560d562a67f83098bd9f334ee942272c222f2e1746d2329826631ccf760"
 metafile = true
 
 [[files]]
@@ -959,7 +954,7 @@ metafile = true
 
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
-hash = "637453f471b9b9a07c0d455eacbaa63509bd8066ca14f15e2225328bb18ca201"
+hash = "08bb1c50aa16dda08694932949e5d8ac2ceed7269ac9306a5690a48101b2560f"
 metafile = true
 
 [[files]]
@@ -1179,7 +1174,7 @@ metafile = true
 
 [[files]]
 file = "mods/yungs-better-ocean-monuments.pw.toml"
-hash = "75f4440f2f2b64dd203612bcbf61951e11c7bb9985ea5bf582736c9adda63c90"
+hash = "541635aaa48a5bfd27ab14ee5f760d35550a7d7f3083316feabeafc44c42b0bd"
 metafile = true
 
 [[files]]
