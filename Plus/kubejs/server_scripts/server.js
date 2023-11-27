@@ -13,14 +13,6 @@ ServerEvents.recipes(event => {
     )
   })
   
-//Rocks from This Rocks! mod drops itself
-ServerEvents.blockLootTables(event => {
-  event.addBlock('rocks:rock', table => {
-    table.addPool(pool => {
-      pool.addItem('rocks:rock')
-    })
-  })
-})
 //Acacia sticks from This Rocks! mod drops itself
 ServerEvents.blockLootTables(event => {
   event.addBlock('rocks:acacia_stick', table => {
