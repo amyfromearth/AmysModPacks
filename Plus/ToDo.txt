@@ -28,7 +28,7 @@ Find and add mod/s for enchantments (EnchantedShulkers, Enchantments-Plus) +Clie
 Figure out how to get bamboo to have same shearing mechanic as glow berries +client +Server
 Figure out how to make dirt underwater convert to mud +Client +Server
 Find cat and dog variants +Client +Server
-Decide which biomes to replace (Gravel Desert) +Client +Server @Terralith
+Decide which biomes to replace (Gravel Desert, Lavender Forest, Moonlight Grove, Sakura Grove, Windswept Forest) +Client +Server @Terralith
 Figure out how to disable TerraBlender worldgen +Client +Server @TerraBlender
 Config Legendary Tooltips with modded items +Client @LegendaryToolTips
 Stop Aurora's Decorations from trying to create furniture with Chipped planks +Client +Server @AurorasDecorations @Chipped
