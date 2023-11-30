@@ -2,7 +2,7 @@
 
 > Amy's take on a wonderfully optimized, immersive, and enhanced vanilla plus minecraft experience full of all the things she thinks Minecraft should be. Use Create to make incredible machines, go on an RPG style adventure, or enjoy building with ease. No matter what you choose the world will be beautiful and immersive.
 
-#### Currently undergoing active development. Any feedback or help is greatly appreciated. [ToDo List](https://github.com/amyfromearth/AmysModPacks/blob/8ab76e9a9e52adf8e1427cea6bd9d035d39537b1/Plus/ToDo.txt)
+#### Currently undergoing active development. Any feedback or help is greatly appreciated. [ToDo List](https://github.com/amyfromearth/AmysModPacks/blob/Main/Plus/ToDo.txt)
 
 Building on [Amy's Enhanced Vanilla ModPack](https://modrinth.com/modpack/amys-enhanced-vanilla) This is the continuation and pinnacle of her efforts to create a fun vanilla plus modpack that includes all the things she wanted from a modpack but couldn't find anywhere else. 
 

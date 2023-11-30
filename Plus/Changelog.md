@@ -72,7 +72,6 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
     * startup.js
     * server.js
 
-
 ## [0.9.0] - 2023-11-17
 
 ### Fixed
