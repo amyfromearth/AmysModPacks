@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "Changelog.md"
-hash = "11f3240e22fa56812f8965354b5d4c4331c56079b51ce4a7082731d371003116"
+hash = "da523034f9038e5f381b01f4015fa4e0201234b9c318899b95ae0f20a7f96df8"
 
 [[files]]
 file = "Credits.txt"
@@ -102,7 +102,7 @@ hash = "2c69f89e7d0f482485237b8ffd59b6676bddf8930d230107ba9090c31d1b6d41"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "52d2c5ce7301f72d2c1e888ff877617b411795bba1544f7dd31475dd55ac0695"
+hash = "2bfb11df89a76a2c2ae647f37cf8aeacaab750f66b6f136388a40e1f3c3f1770"
 
 [[files]]
 file = "config/effectdescriptions-client.toml"
@@ -170,7 +170,7 @@ hash = "4bf17041ccc8d2b6c7bb27d8b0a2a8cc512ea1c1a811a6f4fd88d0e552e4f2f1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "1bcbc6a34caa1adfa03ec70e37e1c8a16207dc3bb901638e38ab04e6bb6000e3"
+hash = "c2efbd39eafbcc9657309dea8b09cb555f52a74bfc7cafa64e1f7d55e8950c79"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -227,6 +227,10 @@ hash = "89e80055a6d126bc646e71141e76baa9b7289b489a5507385073f9ad988d0041"
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
 hash = "51b320fa260469e32132501de95a2fed2a4a26af412045b4eba1481a2d5e4b4f"
+
+[[files]]
+file = "config/qu-enchantments.toml"
+hash = "4a4bead2158834fc19087fe2159cbb29923eb0f1317c79a51e88ef28cc562c34"
 
 [[files]]
 file = "config/quilt_loading_screen.json"
@@ -330,6 +334,14 @@ metafile = true
 file = "datapacks/towers-of-the-wild-reworked.pw.toml"
 hash = "b70ebb349dffc58c7c7d88cb763a7824fa1bba23bf4010370d388310ebeebe49"
 metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/server.js"
+hash = "4ca3782d9aa49a3e2e97843ad909a0ed0039ccac383157dc3f2cbfa016ca3a2c"
+
+[[files]]
+file = "kubejs/startup_scripts/startup.js"
+hash = "a609b2f37793a05853875c6167ea616c6f884717e47aa48bad7b44e6d5c1f376"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -1167,6 +1179,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "6444249aa1ed76a7af265c0ca3f0883be0c2c1837cd5c1080455dad5b5a30cda"
+metafile = true
+
+[[files]]
 file = "mods/lambdynamiclights.pw.toml"
 hash = "a626674fc1092afe5ccc6cbf4856c09119e42395494f1c3862eed2ab17da0221"
 metafile = true
@@ -1494,6 +1511,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "08bb1c50aa16dda08694932949e5d8ac2ceed7269ac9306a5690a48101b2560f"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "c7bf46dfca5cae2d262d2bde16a07c2671f4ae736d17f39338778ff42a712b6f"
 metafile = true
 
 [[files]]

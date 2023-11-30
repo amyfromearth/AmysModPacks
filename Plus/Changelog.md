@@ -7,13 +7,22 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
 ### Fixed
 
   - Seasons should no longer affect Skylands
-  - Seasons lenghts adjusted
+  - Season lengths adjusted
   - Swords no longer casts spells
   - Create storage vaults now have capacity of double chest per unit
-
+  - Modded enchantments no longer show up as book trades or in the enchantment table
+  - Potions now stack up to 16
+  - Suspicious Stew now stacks up to 16
+  - Arrows can now be used as fuel with same fuel value as sticks
+  - Crafting recipes with chest input now accept any chest
+  - Decorative items from This Rocks! mod now drop themselves and can be placed by players
+  - Modded fish can now be used in any recipe with input of raw fish
+  - Modded cooked fish can now be used in any recipe with input of cooked fish
+  - Backpack can now be obtained without leaving the overworld
 
 ### Changed
 
+  - Updated version number
   - Updated configs
     * Lootr
   - Updated mods
@@ -40,6 +49,7 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
 
 ### Removed
 
+  - Removed ToDo.txt
   - Removed mods
     * CraftTweaker
 
@@ -48,11 +58,17 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
   - Added Configs
     * Create
     * Fabric Seasons
+    * Qu Enchantments
     * Spell Engine
   - Added mods
-    * Quad
+    * KubeJS
+    * Quad    
+  - Added scripts
+    * startup.js
+    * server.js
 
- ## [0.9.0] - 2023-11-17
+
+## [0.9.0] - 2023-11-17
 
 ### Fixed
 

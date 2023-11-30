@@ -1,20 +1,20 @@
 This ToDo document follows [todo.txt](https://github.com/todotxt/todo.txt) format
 
 subtitles for entity.guard.ambient missing +Client +Server @GuardVillagers
-change extended drawers recipes to accept any chest +Client +Server @ExtendedDrawers
+x change extended drawers recipes to accept any chest +Client +Server @ExtendedDrawers
 x check enchanted loot for tool compatibility (no more fishing rods with double jump enchant) +Client +Server @WallJump @??
-Map Atlas not showing up in "craftable" window +Client +Server @MapAtlases
-Just More Cakes items not showing up in "craftable" window of EMI +Client +Server @JustMoreCakes
+@MapAtlas not showing up in "craftable" window +Client +Server
+@JustMoreCakes items not showing up in "craftable" window of @EMI +Client +Server
 Azalea and Jacaranda wood compat (especially chests) +Client +Server @AurorasDecorations
 Fix rendering issues with wood piles +Client @AurorasDecorations
-Find replacement for ColorfulContainers +Client @ColorfulContainers
-Universal Ores mod and Nautilus3D resourcepack compat +Client @UniversalOres @Nautilus3d
-Farmer's Delight mod and Nautilus3D resourcepack compat +Client @FarmersDelight @Nautilus3d
-More Chest Variants mod and Nautilus3D resourcepack compat +Client @MoreChestVariants @Nautilus3d
-Just More Cakes mod and Nautilus3D resourcepack compat +Client @JustMoreCakes @Nautilus3d
-Change This Rocks! mod so items drop themselves not pieces +Client +Server @ThisRocks
-Check for duplicate items from multiple mods (buttercup, ropes, fried egg) +Client +Server
-Find a way to inject modded trees into terralith and/or replace biomes with ones from other mods +Client +Server @Terralith
+Find replacement for @ColorfulContainers +Client tag:resourcepack
+@UniversalOres mod and @Nautilus3D resourcepack compat +Client tag:resourcepack 
+@Farmer'sDelight mod and @Nautilus3D resourcepack compat +Client tag:resourcepack 
+@MoreChestVariants mod and @Nautilus3D resourcepack compat +Client tag:resourcepack
+@JustMoreCakes mod and @Nautilus3D resourcepack compat +Client tag:resourcepack
+x Change This Rocks! mod so items drop themselves not pieces +Client +Server @ThisRocks
+Check for duplicate items from multiple mods (buttercup, ropes, fried egg, catfish) +Client +Server @Friends&Foes @FarmersDelight @Beautify @Naturalist @Wildlife
+Find a way to inject modded trees into @terralith and/or replace biomes with ones from other mods +Client +Server
 Write and add loading screen tips +Client 
 x Disable hostile mobs spawining in Sky Lands biomes +Client +Server @Terralith @MobFilter
 Add Quests +Client +Server
@@ -24,49 +24,52 @@ x Add Main Menu Credits to modpack +Client @MainMenuCredits
 x Add name of mod to main menu +Client @MainMenuCredits
 x Find mod to add tips to game +Client +Server
 x Find a slabs mod and add it to modpack +Client +Server
-Find and add mod/s for enchantments (EnchantedShulkers, Enchantments-Plus) +Client +Server
-Figure out how to get bamboo to have same shearing mechanic as glow berries +client +Server
+Find and add mod/s for enchantments (@EnchantedShulkers @Enchantments-Plus) +Client +Server
+Figure out how to get bamboo to have same shearing mechanic as glow berries +Client +Server
 Figure out how to make dirt underwater convert to mud +Client +Server
 Find cat and dog variants +Client +Server
 Decide which biomes to replace (Gravel Desert, Lavender Forest, Moonlight Grove, Sakura Grove, Windswept Forest) +Client +Server @Terralith
-Figure out how to disable TerraBlender worldgen +Client +Server @TerraBlender
-Config Legendary Tooltips with modded items +Client @LegendaryToolTips
-Stop Aurora's Decorations from trying to create furniture with Chipped planks +Client +Server @AurorasDecorations @Chipped
-Add tags to modded items to match vanilla schema and add to EMI search +Client @EMI
-Add more/realistic ambient sounds (rain, rivers, etc) +Client @AmbientSounds
+Figure out how to disable @TerraBlender worldgen +Client +Server
+Config @LegendaryTooltips with modded items +Client
+Stop @AurorasDecorations from trying to create furniture with @Chipped planks +Client +Server tag:KubeJS
+Add tags to modded items to match vanilla schema and add to @EMI search +Client
+Add more/realistic @AmbientSounds (rain, rivers, etc) +Client
 x Diagnose issue with Client/Server mismatch between Diagnonal Windows/Fences and other mods (Aurora's Deco, Create, Better Archeology) +Client +Server @DiagonalWindows @DiagonalFences @AurorasDecorations @Create @BetterArcheology
-(A) Swap Create: Sodium Fix for Create once updated for latest sodium +Client +Server @Create
+(A) Swap @Create:SodiumFix for @Create once updated for latest @Sodium +Client +Server
 x Set Hybrid Aquatic animals to only spawn below y62 +Client +Server @HybridAquatic
 x Naturalist mod spawns too many birds +Client +Server @Naturalist
-Allow Better Archeology generation in modded biomes +Client +Server @BetterArcheology
+Allow @BetterArcheology generation in modded biomes +Client +Server
 x Spice of Fabric too harsh +Client +Server @SpiceOfFabric
 x Wizards, Priests & Paladins crashes after using wand when shield is hidden +Client +Server @Wizards @Priests&Paladins
 x Lootr worldgen inconsistent +Client +Server @Lootr
 x People hate new keybinds +Client @DefaultOptions
 x Shader config files need updated to newest version +Client +Server @ComplementaryReimagine @MakeUp-UltraFast
-Peppers and Asparagus don't auto replant +Client +Server @ReplantingCrops @ExpandedDelight
+Peppers and asparagus don't auto replant +Client +Server @ReplantingCrops @ExpandedDelight
 x Massive lag when around Create contraptions when using shaders +Client @Create @ComplementaryReimagine @MakeUp-UltraFast
-Dark mode GUI for EMI is too dark to see some items +Client @EMI @DarkModeGui
+@DefaultDarkMode GUI for @EMI is too dark to see some items +Client tag:resourcepack
 x Lootr converts fisherman barrels preventing villagers from becoming fishermen +Client +Server @Lootr
 Butterflies and fireflies are too big +Client +Server @Naturalist @Wildlife
-Make backpack easier to obtain +Client +Server @UMUBackpacks
+x Make backpack easier to obtain +Client +Server tag:KubeJS @UMUBackpacks
 x Adjust IPN buttons on Utility belt UI +Client @IPN @UtilityBelt
-Have any fish related food recipe accept all fish variants +Client +Server @HybridAquatic @Naturalist @FarmersDelight @ExpandedDelight @DelightfulCreators
+x Have any fish related food recipe accept all fish variants +Client +Server tag:KubeJS @Naturalist @FarmersDelight @ExpandedDelight @DelightfulCreators
 x Disable Fabric Seasons on skylands +Client +Server @Terralith @FabricSeasons
-(A) Moving items on Create contraptions disappear when using shaders with shadows enabled +Client @Create @ComplementaryReimagined @MakeUp-UltraFast @Iris&OculusFlywheelCompat
-Check enchantments in Qu Enchantments +Client +Server @QuEnchantments
+(A) Moving items on @Create contraptions disappear when using shaders with shadows enabled +Client @ComplementaryReimagined @MakeUp-UltraFast @Iris&OculusFlywheelCompat
+x Check enchantments in Qu Enchantments +Client +Server @QuEnchantments
 x change arrrows so they are same fuel as stick +Client +Server
 Fix Carrot's potato gun +Client +Server @Create
 x Switch to GitHub for development @GitHub
-Add descriptions for new enchants +Client +Server @QuEnchantments
+Add descriptions for new enchants +Client +Server @QuEnchantments @SpellEngine @SpellPower @Archers @Wizards @Priests&Paladins
 x Write Modrinth description 
 x Upload to Modrinth
-Copper recipe in stone cutter provides too many slabs +Client +Server
+Copper recipe in stone cutter provides too many slabs +Client +Server tag:KubeJS @Consistency+
 x Adjust season lengths +Client +Server @FabricSeasons
-Stone cutter interface is glitched +Client +Server @Consistenciy+
+Stone cutter interface is glitched +Client +Server @Consistency+
 x Modded Recipes show up too often in Enchanting Table +Client +Server @QuEnchantments @RPGSeries
-Add ways for more items to be recycled (armor especially) +Client +Server
+Add ways for more items to be recycled (armor especially) +Client +Server tag:KubeJS
 x Allow potions to stack +Client +Server
-IPN replaces backtanks when low air +Client +Server @InventoryProfilesNext @Create
+@InventoryProfilesNext replaces backtanks when low air +Client +Server @Create
 x Allow soups to stack +Client +Server
 Visual glitches with barrels and chests stuck "open" +Client
+Move default options.txt over to @KubeJS +Client tag:KubeJS @DefaultOptions
+Utility Belt GUI isn't dark mode +Client @UtilityBelt @DefaultDarkMode
+Add #c:foods to @FarmersDelight foods +Client +Server tag:KubeJS

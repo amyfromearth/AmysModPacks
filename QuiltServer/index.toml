@@ -2,7 +2,7 @@ hash-format = "sha256"
 
 [[files]]
 file = "ChangeLog.md"
-hash = "059ab3fd22548db3db92bb46c263717141feaa7d0d85ed1030567c1f53088fff"
+hash = "4ce8b77966b771e6e574a657f0163cd6b9ffec2b3bcc282a57dc552284c1828c"
 
 [[files]]
 file = "Credits.txt"
@@ -186,6 +186,14 @@ metafile = true
 file = "datapacks/towers-of-the-wild-reworked.pw.toml"
 hash = "b70ebb349dffc58c7c7d88cb763a7824fa1bba23bf4010370d388310ebeebe49"
 metafile = true
+
+[[files]]
+file = "kubejs/server_scripts/server.js"
+hash = "4ca3782d9aa49a3e2e97843ad909a0ed0039ccac383157dc3f2cbfa016ca3a2c"
+
+[[files]]
+file = "kubejs/startup_scripts/startup.js"
+hash = "a609b2f37793a05853875c6167ea616c6f884717e47aa48bad7b44e6d5c1f376"
 
 [[files]]
 file = "mods/additional-blocks-vertical-edition.pw.toml"
@@ -743,6 +751,11 @@ hash = "71ef7cc16632c0039fe194183b5885968c6d740aaa67a58000653ae0cb40b882"
 metafile = true
 
 [[files]]
+file = "mods/kubejs.pw.toml"
+hash = "6444249aa1ed76a7af265c0ca3f0883be0c2c1837cd5c1080455dad5b5a30cda"
+metafile = true
+
+[[files]]
 file = "mods/libertyvillagers.pw.toml"
 hash = "4607ed54f2651a2dd0413150ead6959ef2b0084f6303a6249e34cecf0bd8d133"
 metafile = true
@@ -960,6 +973,11 @@ metafile = true
 [[files]]
 file = "mods/resourceful-lib.pw.toml"
 hash = "08bb1c50aa16dda08694932949e5d8ac2ceed7269ac9306a5690a48101b2560f"
+metafile = true
+
+[[files]]
+file = "mods/rhino.pw.toml"
+hash = "c7bf46dfca5cae2d262d2bde16a07c2671f4ae736d17f39338778ff42a712b6f"
 metafile = true
 
 [[files]]
