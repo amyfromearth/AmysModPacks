@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "Changelog.md"
-hash = "da523034f9038e5f381b01f4015fa4e0201234b9c318899b95ae0f20a7f96df8"
+hash = "129ee777835370f6383a28ece8746966aeaf6cf82e42b8e857344a70b3956069"
 
 [[files]]
 file = "Credits.txt"
-hash = "dfdd97b93e17297e361ce408b0c8855127d2b37bb31dcdd358885ef007bd56b1"
+hash = "48c2480d6749e74654893ddafc7e6a682255454a579cb6fa8da678b57db6aeb7"
 
 [[files]]
 file = "LICENSE.md"
@@ -102,7 +102,7 @@ hash = "2c69f89e7d0f482485237b8ffd59b6676bddf8930d230107ba9090c31d1b6d41"
 
 [[files]]
 file = "config/defaultoptions/options.txt"
-hash = "2bfb11df89a76a2c2ae647f37cf8aeacaab750f66b6f136388a40e1f3c3f1770"
+hash = "98a1ec711c65ad87d804574fe71b25d226e651062de870dd0cd8dcae718cbbb4"
 
 [[files]]
 file = "config/effectdescriptions-client.toml"
@@ -170,7 +170,7 @@ hash = "4bf17041ccc8d2b6c7bb27d8b0a2a8cc512ea1c1a811a6f4fd88d0e552e4f2f1"
 
 [[files]]
 file = "config/isxander-main-menu-credits.json"
-hash = "c2efbd39eafbcc9657309dea8b09cb555f52a74bfc7cafa64e1f7d55e8950c79"
+hash = "8d67c8de81e84a8a3c55caf60dff26067ea66a7fc7fd91fc7143bb677d4d1671"
 
 [[files]]
 file = "config/lambdynlights.toml"
@@ -227,10 +227,6 @@ hash = "89e80055a6d126bc646e71141e76baa9b7289b489a5507385073f9ad988d0041"
 [[files]]
 file = "config/presencefootsteps/userconfig.json"
 hash = "51b320fa260469e32132501de95a2fed2a4a26af412045b4eba1481a2d5e4b4f"
-
-[[files]]
-file = "config/qu-enchantments.toml"
-hash = "4a4bead2158834fc19087fe2159cbb29923eb0f1317c79a51e88ef28cc562c34"
 
 [[files]]
 file = "config/quilt_loading_screen.json"
@@ -481,6 +477,11 @@ metafile = true
 [[files]]
 file = "mods/bedspreads.pw.toml"
 hash = "f04afb24089cbef0b19b3abebfa248ae3241d821955c793fdb7c465b862134f7"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
 metafile = true
 
 [[files]]
@@ -904,6 +905,16 @@ hash = "a55d562fcd6be9796e8cc162b83b5745efd83254fae44bf5a4d85d0fe6c97fcb"
 metafile = true
 
 [[files]]
+file = "mods/enchantedshulkers.pw.toml"
+hash = "c7497ced0dc96cbbf4cce1344a02bf8b57bff4a9bc4280c25572bf96846f1774"
+metafile = true
+
+[[files]]
+file = "mods/enchantments-plus.pw.toml"
+hash = "8927381324b22d45196f89d8ce47a70116895ec6069342730d363158ed6c8afa"
+metafile = true
+
+[[files]]
 file = "mods/entity-model-features.pw.toml"
 hash = "0837f5b88d03fc4fb4a1da6ff18b2b265565089f5699fc98993fd5262e472e00"
 metafile = true
@@ -931,6 +942,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
+metafile = true
+
+[[files]]
+file = "mods/extended-cogwheels.pw.toml"
+hash = "e5a66f936624909d847060c6aee2cded1300934c5ad1396db173275293dfbf86"
 metafile = true
 
 [[files]]
@@ -1026,6 +1042,11 @@ metafile = true
 [[files]]
 file = "mods/goprone-fabric.pw.toml"
 hash = "9b8c5cd6aea98ec87470146dd109010d807b2b2060eea38be13bb2e20837f4d5"
+metafile = true
+
+[[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "37d61e139caff12dc4d16b41e7162cd370c1017ffc60858189b9aeec75c0eff6"
 metafile = true
 
 [[files]]
@@ -1444,13 +1465,8 @@ hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
 metafile = true
 
 [[files]]
-file = "mods/qu-enchantments.pw.toml"
-hash = "aa6092e273a36455bd585b1c08c4b978dd4d93e203e3e0c77e947462ebf36fc5"
-metafile = true
-
-[[files]]
 file = "mods/quad.pw.toml"
-hash = "29316e1f7dce7ca4c89e254197c7f46c0b4954cf11413677e6ef195133abb456"
+hash = "34237f65d49e396d73a48736d3cd25e4266a9c9a630d9c58adb8a488e82a5c46"
 metafile = true
 
 [[files]]

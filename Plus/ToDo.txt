@@ -24,11 +24,11 @@ x Add Main Menu Credits to modpack +Client @MainMenuCredits
 x Add name of mod to main menu +Client @MainMenuCredits
 x Find mod to add tips to game +Client +Server
 x Find a slabs mod and add it to modpack +Client +Server
-Find and add mod/s for enchantments (@EnchantedShulkers @Enchantments-Plus) +Client +Server
+x Find and add mod/s for enchantments (@EnchantedShulkers @Enchantments-Plus) +Client +Server
 Figure out how to get bamboo to have same shearing mechanic as glow berries +Client +Server
 Figure out how to make dirt underwater convert to mud +Client +Server
 Find cat and dog variants +Client +Server
-Decide which biomes to replace (Gravel Desert, Lavender Forest, Moonlight Grove, Sakura Grove, Windswept Forest) +Client +Server @Terralith
+Decide which biomes to replace (Gravel Desert, Lavender Forest, Moonlight Grove, Sakura Grove, Windswept Forest, Shrubland) +Client +Server @Terralith
 Figure out how to disable @TerraBlender worldgen +Client +Server
 Config @LegendaryTooltips with modded items +Client
 Stop @AurorasDecorations from trying to create furniture with @Chipped planks +Client +Server tag:KubeJS
@@ -73,3 +73,5 @@ Visual glitches with barrels and chests stuck "open" +Client
 Move default options.txt over to @KubeJS +Client tag:KubeJS @DefaultOptions
 Utility Belt GUI isn't dark mode +Client @UtilityBelt @DefaultDarkMode
 Add #c:foods to @FarmersDelight foods +Client +Server tag:KubeJS
+Check compatibility @CreateEnchantmentIndustry +Client +Server tag:FeatureRequest
+Check compatibility @CreateSandpaperOverhaul +Client +Server tag:FeatureRequest

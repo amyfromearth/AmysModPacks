@@ -1,6 +1,6 @@
 name = "Quad"
 filename = "Quad-1.0.1+1.20.2-Fabric.jar"
-side = "server"
+side = "both"
 
 [download]
 url = "https://cdn.modrinth.com/data/7jzrCiK0/versions/hIHjDf68/Quad-1.0.1%2B1.20.2-Fabric.jar"
