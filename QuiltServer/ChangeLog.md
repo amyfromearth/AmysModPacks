@@ -4,7 +4,7 @@ All notable changes to Amy's Awesome Vanilla Plus Server will be documented in t
 
 The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
-## [UNRELEASED]
+## [0.10.0] - 2023-11-30
 
 ### Fixed
 
@@ -12,7 +12,6 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
   - Season lengths adjusted
   - Swords no longer casts spells
   - Create storage vaults now have capacity of double chest per unit
-  - Modded enchantments no longer show up as book trades or in the enchantment table
   - Potions now stack up to 16
   - Suspicious Stew now stacks up to 16
   - Arrows can now be used as fuel with same fuel value as sticks
@@ -45,15 +44,20 @@ The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
   - Removed Mods
     * CraftTweaker
+    * Qu Enchantments
 
 ### Added 
 
   - Added Configs
     * Create
     * Fabric Seasons
-    * Qu Enchantments
     * Spell Engine
   - Added mods
+    * Create: Bells & Whistles
+    * Create: Extended Cogwheels
+    * Enchanted Shulkers
+    * Enchantments-Plus
+    * Grind Enchantments
     * KubeJS
     * Quad    
   - Added scripts

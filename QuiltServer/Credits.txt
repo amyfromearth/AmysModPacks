@@ -229,6 +229,10 @@ CONTENT ADDITIIONS
     Adds new blocks to make block types consistent (Client and Server) https://modrinth.com/mod/consistencyplus
   Create Fabric Sodium Fix {MIT} 
     Technology (Client and Server) https://modrinth.com/mod/create-fabric-sodium-fix
+  Create: Bells & Whistles {GPL-3.0-or-later}
+    Additions and adornments for trains (Client and Server) https://modrinth.com/mod/bellsandwhistles
+  Create: Extended Cogwheels {MIT}
+    More cog types (Client and Server) https://modrinth.com/mod/extended-cogwheels
   Create: Steam 'n' Rails {MIT}
     Adds depth to Create's railways (Client and Server) https://modrinth.com/mod/create-steam-n-rails
   Create: Structures {All rights reserved unless explicitly stated.}
@@ -237,6 +241,10 @@ CONTENT ADDITIIONS
     Automation between Farmer's Delight and Create (Client and Server) https://modrinth.com/mod/delightful-creators-fabric
   Earth2Java {MIT}
     Adds mobs from Minecraft Earth (Client and Server) https://modrinth.com/mod/earth2java
+  EnchantedShulkers {GPL-2.0-only}
+    Adds the "Siphon" and "Refill" enchantments to Shulker Boxes (Client and Server) https://modrinth.com/mod/enchantedshulkers
+  Enchantments-Plus {MIT}
+    Adds enchantments (Client and Server) https://modrinth.com/mod/enchantments-plus
   Expanded Delight {MIT}
     Addon for Farmer's Delight (Client and Server) https://modrinth.com/mod/expanded-delight
   Extended Drawers {Apache-2.0}
@@ -275,8 +283,6 @@ CONTENT ADDITIIONS
     Magic RGP elements (Client and Server) https://modrinth.com/mod/paladins-and-priests
   Plushie-Mod {MIT}
     Plushies! (Client) https://modrinth.com/mod/plushie
-  Qu Enchantments {Apache-2.0}
-    Adds Vanilla inspired enchantments (Client and Server) https://modrinth.com/mod/qu-enchantments
   Runes {All rights reserved unless explicitly stated.}
     Adds rune item used for spells (Client and Server) https://modrinth.com/mod/runes
   Simple Hats {Simple Hats License}
@@ -342,6 +348,8 @@ UTILITY
     API provides the framework and necessary patches for storing custom and persistent data onto entities (Client and Server) https://modrinth.com/mod/faux-custom-entity-data
   Global Packs {All rights reserved unless explicitly stated.}
     Datapack and Resourcepack loader (Client or Server) https://modrinth.com/mod/globalpacks
+  Grind Enchantments {MIT}
+    Disenchant and transfer enchantments using a grindstone (Server) https://modrinth.com/mod/grind-enchantments
   Jade Addons (Fabric) {All rights reserved unless explicitly stated.}
     Adds compat for Create (Client and Server) https://modrinth.com/mod/jade-addons-fabric
   Litemoretica {MIT}

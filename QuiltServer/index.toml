@@ -2,11 +2,11 @@ hash-format = "sha256"
 
 [[files]]
 file = "ChangeLog.md"
-hash = "4ce8b77966b771e6e574a657f0163cd6b9ffec2b3bcc282a57dc552284c1828c"
+hash = "0bd47ac137ad8ac2cf929232e13eef6648a9bee8e223b976e5a3bba1279d38e6"
 
 [[files]]
 file = "Credits.txt"
-hash = "60cd08f55ad1de95c7d8bdbd8d99ef8862261fdf5745dcbde084e1924d50442d"
+hash = "e0c01d5379e150767e9b14f71ca7325c70ff1d0cd9b5d2408cce71fbc0004f24"
 
 [[files]]
 file = "LICENSE.md"
@@ -123,10 +123,6 @@ hash = "959c259509268aace68c0e9bd77b53cf7a0bed17f6c4727e549dfc4e6218b077"
 [[files]]
 file = "config/paperdoll-client.toml"
 hash = "89e80055a6d126bc646e71141e76baa9b7289b489a5507385073f9ad988d0041"
-
-[[files]]
-file = "config/qu-enchantments.toml"
-hash = "4a4bead2158834fc19087fe2159cbb29923eb0f1317c79a51e88ef28cc562c34"
 
 [[files]]
 file = "config/realisticbees.json5"
@@ -283,6 +279,11 @@ metafile = true
 [[files]]
 file = "mods/bedspreads.pw.toml"
 hash = "f04afb24089cbef0b19b3abebfa248ae3241d821955c793fdb7c465b862134f7"
+metafile = true
+
+[[files]]
+file = "mods/bellsandwhistles.pw.toml"
+hash = "e0939ffb6b7b49dde8f936cd83f6f4881238f71bbdf14afe3b22b364b7e8cfbe"
 metafile = true
 
 [[files]]
@@ -566,6 +567,16 @@ hash = "755a85188faa0c454c1c52498274c3286a19a31c82bd1693b5bdc261cead213c"
 metafile = true
 
 [[files]]
+file = "mods/enchantedshulkers.pw.toml"
+hash = "c7497ced0dc96cbbf4cce1344a02bf8b57bff4a9bc4280c25572bf96846f1774"
+metafile = true
+
+[[files]]
+file = "mods/enchantments-plus.pw.toml"
+hash = "8927381324b22d45196f89d8ce47a70116895ec6069342730d363158ed6c8afa"
+metafile = true
+
+[[files]]
 file = "mods/essential-commands.pw.toml"
 hash = "9e227753a8c768f359cb281a82c884d41294784b41e263866b55fcd01b63ba9e"
 metafile = true
@@ -573,6 +584,11 @@ metafile = true
 [[files]]
 file = "mods/expanded-delight.pw.toml"
 hash = "a5d43496c882895a91ea20b73b660145262abf2ca97f8a9b3b2aab121212c295"
+metafile = true
+
+[[files]]
+file = "mods/extended-cogwheels.pw.toml"
+hash = "e5a66f936624909d847060c6aee2cded1300934c5ad1396db173275293dfbf86"
 metafile = true
 
 [[files]]
@@ -653,6 +669,11 @@ metafile = true
 [[files]]
 file = "mods/goprone-fabric.pw.toml"
 hash = "9b8c5cd6aea98ec87470146dd109010d807b2b2060eea38be13bb2e20837f4d5"
+metafile = true
+
+[[files]]
+file = "mods/grind-enchantments.pw.toml"
+hash = "37d61e139caff12dc4d16b41e7162cd370c1017ffc60858189b9aeec75c0eff6"
 metafile = true
 
 [[files]]
@@ -928,11 +949,6 @@ metafile = true
 [[files]]
 file = "mods/qsl.pw.toml"
 hash = "db2669fd5202942c0d0514c797c198506470e149542ac9d65e33e04f1a01db23"
-metafile = true
-
-[[files]]
-file = "mods/qu-enchantments.pw.toml"
-hash = "aa6092e273a36455bd585b1c08c4b978dd4d93e203e3e0c77e947462ebf36fc5"
 metafile = true
 
 [[files]]
