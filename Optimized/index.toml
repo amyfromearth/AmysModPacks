@@ -1,8 +1,20 @@
 hash-format = "sha256"
 
 [[files]]
-file = "README.txt"
-hash = "782e024a32d24b8fa4c57410066b551567747ffca39476d689e2d28055fe3ca2"
+file = "ChangeLog.md"
+hash = "6e4a941f02aff9579c000167e3a1ab0b1e4d97acb0ecf54255a7c1477bdf78d6"
+
+[[files]]
+file = "Credits.txt"
+hash = "eaedef77f265bc65f1e456f8e797ee06e2c3bfb60676262527e49a54c8f57878"
+
+[[files]]
+file = "LICENSE.md"
+hash = "7865ba76cfbea615bad6a6c02aef73246f106dda53dacd6cb47be42f854d560c"
+
+[[files]]
+file = "ReadMe.md"
+hash = "26344abd03772887b65bd58f49435f468a1a0a5884af1c85583f59d00ecfaa68"
 
 [[files]]
 file = "config/defaultoptions/keybindings.txt"
@@ -31,6 +43,11 @@ hash = "5aedaecbb3d9ab0df4013db8f907a3c36e39bccccfb3cef3bf5e1bb61bea3e0b"
 [[files]]
 file = "config/sodium-options.json"
 hash = "3058ac7b49245dd06ca2c3dbff14f7f15b1f0e7d061b7566589909add319857e"
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "bedc5fd207a9959c72565f0131b65a8eec71dcdef3e83f6c4556f81e7292326a"
+metafile = true
 
 [[files]]
 file = "mods/balm.pw.toml"
@@ -94,7 +111,7 @@ metafile = true
 
 [[files]]
 file = "mods/ferrite-core.pw.toml"
-hash = "03e174cf691b52da20bd973b955fae6f3720d3d2120f9d6cc1de5fdf3180013c"
+hash = "39a6a39433b1b104bfafafcd60a8171f866daa2ebefffd64df822d0e69288e3a"
 metafile = true
 
 [[files]]
@@ -104,7 +121,7 @@ metafile = true
 
 [[files]]
 file = "mods/immediatelyfast.pw.toml"
-hash = "7e9f6a5b564e4fbe92bff784eb13a2565eb5a631ed452cf9b8748e73935ae8b2"
+hash = "1ef40993b8abff2b77e3f5f59874e6de0348e4c39f6b8e5561fa672a8b1c5c0b"
 metafile = true
 
 [[files]]
@@ -129,7 +146,7 @@ metafile = true
 
 [[files]]
 file = "mods/modernfix.pw.toml"
-hash = "d354dda98d65a789e411d116321bb50a7cbe6852b1f36fa77451068922fa50e7"
+hash = "919cf3088c29f42ac95d83ebfafbd09730289b4fc3371106abc03731a6142bf7"
 metafile = true
 
 [[files]]
@@ -160,6 +177,11 @@ metafile = true
 [[files]]
 file = "mods/sodium.pw.toml"
 hash = "9a927c3e0830ba32e1b8a2e543597781724462595b8cce58f676962b442bb52b"
+metafile = true
+
+[[files]]
+file = "mods/spark.pw.toml"
+hash = "96e3771cd09bb4a808d1c1fcb5a050efdc2ffb4efe7b584407ed54c46c0388d9"
 metafile = true
 
 [[files]]

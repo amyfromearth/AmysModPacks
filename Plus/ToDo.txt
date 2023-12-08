@@ -75,3 +75,20 @@ Utility Belt GUI isn't dark mode +Client @UtilityBelt @DefaultDarkMode
 Add #c:foods to @FarmersDelight foods +Client +Server tag:KubeJS
 Check compatibility @CreateEnchantmentIndustry +Client +Server tag:FeatureRequest
 Check compatibility @CreateSandpaperOverhaul +Client +Server tag:FeatureRequest
+Can modded crafting blocks act like @EasyMagic and @EasyAnvil +Client +Server
+Check all mods config settings +Client +Server
+@ExtendedDrawers recipes don't have any chest input after update +Client +Server
+@AurorasDecorations sawmil lost recipes after update ( @KubeJS issue https://github.com/KubeJS-Mods/KubeJS/issues/534 ) +Client +Server
+Mod to replace trap doors, stairs, and slabs in building +Client +Server
+kitchen style crafting table tag:FeatureRequest +Client +Server
+@Tweakaroo config (hotkeys) +Client +Server
+@UMUBackpacks allow backpack to be taken off when loaded but not usable in inventory
+Crates/Bundles for vanilla items (berries, apples, sticks, etc) +Client +Server tag:FeatureRequest
+Guidebook? +Client +Server tag:FeatureRequest
+@Handcrafted teracotta plate and @Consistency+ teracotta slab have same recipe +Client +Server
+@Patchouli invalid books? +Client +Server
+Tag:FeatureRequest Polar bears wear armor +Client +Server 
+Tag:FeatureRequest bedrock style book & quill +Client +Server
+Swap @Handcrafted for @Furnish +Client +Server
+Update Stardust Labs mods @Terralith @Incendium @Nullscape @Structory +Client +Server
+Add @FreeCam and @ReplayMod +Client
