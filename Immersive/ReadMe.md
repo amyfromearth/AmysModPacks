@@ -22,9 +22,10 @@ Many, many, many mods, resource packs, and datapacks have been included so pleas
 
 This modpack includes some resources not available on Modrinth. All diligence was done to assure at the time of publication I had permission to redistribute these files:
 
-* Towers of the Wild: Additions {[CC-BY-SA-4.0](https://creativecommons.org/licenses/by-sa/4.0/)}  https://www.curseforge.com/minecraft/mc-mods/towers-of-the-wild-additions
+* Incendium {[Stardust Labs License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)} - https://github.com/Stardust-Labs-MC/Incendium
+* Nullscape {[Stardust Labs License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)} - https://github.com/Stardust-Labs-MC/Nullscape
 * Structory {[Stardust Labs License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)} - https://github.com/Stardust-Labs-MC/Structory
 * Structory: Towers {[Stardust Labs License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)} - https://github.com/Stardust-Labs-MC/Structory-Towers
-* Vanilla Tweaks UI {[Vanilla Tweaks License](https://vanillatweaks.net/terms/)} - https://vanillatweaks.net/share#HblaXf
-* Vanilla Tweaks Visuals {[Vanilla Tweaks License](https://vanillatweaks.net/terms/)} - https://vanillatweaks.net/share#CF6E9U
+* Terralith {[Stardust Labs License](https://github.com/Stardust-Labs-MC/license/blob/main/license.txt)} - https://github.com/Stardust-Labs-MC/Terralith
+* Vanilla Tweaks {[Vanilla Tweaks License](https://vanillatweaks.net/terms/)} - https://vanillatweaks.net/share#vMavEq
 

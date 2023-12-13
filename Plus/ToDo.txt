@@ -35,7 +35,7 @@ Stop @AurorasDecorations from trying to create furniture with @Chipped planks +C
 Add tags to modded items to match vanilla schema and add to @EMI search +Client
 Add more/realistic @AmbientSounds (rain, rivers, etc) +Client
 x Diagnose issue with Client/Server mismatch between Diagnonal Windows/Fences and other mods (Aurora's Deco, Create, Better Archeology) +Client +Server @DiagonalWindows @DiagonalFences @AurorasDecorations @Create @BetterArcheology
-(A) Swap @Create:SodiumFix for @Create once updated for latest @Sodium +Client +Server
+(C) Swap @Create:SodiumFix for @Create once updated for latest @Sodium +Client +Server
 x Set Hybrid Aquatic animals to only spawn below y62 +Client +Server @HybridAquatic
 x Naturalist mod spawns too many birds +Client +Server @Naturalist
 Allow @BetterArcheology generation in modded biomes +Client +Server
@@ -43,7 +43,7 @@ x Spice of Fabric too harsh +Client +Server @SpiceOfFabric
 x Wizards, Priests & Paladins crashes after using wand when shield is hidden +Client +Server @Wizards @Priests&Paladins
 x Lootr worldgen inconsistent +Client +Server @Lootr
 x People hate new keybinds +Client @DefaultOptions
-x Shader config files need updated to newest version +Client +Server @ComplementaryReimagine @MakeUp-UltraFast
+Shader config files need updated to newest version +Client +Server @ComplementaryReimagine @MakeUp-UltraFast
 Peppers and asparagus don't auto replant +Client +Server @ReplantingCrops @ExpandedDelight
 x Massive lag when around Create contraptions when using shaders +Client @Create @ComplementaryReimagine @MakeUp-UltraFast
 @DefaultDarkMode GUI for @EMI is too dark to see some items +Client tag:resourcepack
@@ -53,7 +53,7 @@ x Make backpack easier to obtain +Client +Server tag:KubeJS @UMUBackpacks
 x Adjust IPN buttons on Utility belt UI +Client @IPN @UtilityBelt
 x Have any fish related food recipe accept all fish variants +Client +Server tag:KubeJS @Naturalist @FarmersDelight @ExpandedDelight @DelightfulCreators
 x Disable Fabric Seasons on skylands +Client +Server @Terralith @FabricSeasons
-(A) Moving items on @Create contraptions disappear when using shaders with shadows enabled +Client @ComplementaryReimagined @MakeUp-UltraFast @Iris&OculusFlywheelCompat
+(B) Moving items on @Create contraptions disappear when using shaders with shadows enabled +Client @ComplementaryReimagined @MakeUp-UltraFast @Iris&OculusFlywheelCompat
 x Check enchantments in Qu Enchantments +Client +Server @QuEnchantments
 x change arrrows so they are same fuel as stick +Client +Server
 Fix Carrot's potato gun +Client +Server @Create
@@ -71,7 +71,7 @@ x Allow potions to stack +Client +Server
 x Allow soups to stack +Client +Server
 Visual glitches with barrels and chests stuck "open" +Client
 Move default options.txt over to @KubeJS +Client tag:KubeJS @DefaultOptions
-Utility Belt GUI isn't dark mode +Client @UtilityBelt @DefaultDarkMode
+Utility Belt GUI isn't dark mode +Client @UtilityBelt @DefaultDarkMode 
 Add #c:foods to @FarmersDelight foods +Client +Server tag:KubeJS
 Check compatibility @CreateEnchantmentIndustry +Client +Server tag:FeatureRequest
 Check compatibility @CreateSandpaperOverhaul +Client +Server tag:FeatureRequest
@@ -92,3 +92,8 @@ Tag:FeatureRequest bedrock style book & quill +Client +Server
 Swap @Handcrafted for @Furnish +Client +Server
 Update Stardust Labs mods @Terralith @Incendium @Nullscape @Structory +Client +Server
 Add @FreeCam and @ReplayMod +Client
+x Submit GitHub:FeatureRequest for @DefaultDarkMode to support @UtilityBelt
+@Iris asks for update +Client
+De-clutter UI +Client
+set datapack order +Client +Server
+(A) Restructure git

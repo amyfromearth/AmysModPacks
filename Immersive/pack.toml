@@ -1,13 +1,16 @@
 name = "Amy's Immersive Vanilla Modpack"
 author = "AmyFromEarth"
-version = "0.1.1"
+version = "1.0.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "1bdf2775f3205d5578a7984a0354f9b129334fe746818fefa9c41e69ab4385b6"
+hash = "1091c5d0e46b32e4d9585fc13647e91ac77854697523172c53732d3efe98332c"
 
 [versions]
 minecraft = "1.20.1"
-quilt = "0.21.0"
+quilt = "0.22.0"
+
+[options]
+datapack-folder = "datapacks"

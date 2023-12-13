@@ -1,0 +1,8 @@
+name = "Terralith"
+filename = "Terralith_1.20.4_v2.4.11.zip"
+side = "server"
+
+[download]
+url = "https://github.com/Stardust-Labs-MC/Terralith/releases/download/v2.4.11/Terralith_1.20.4_v2.4.11.zip"
+hash-format = "sha256"
+hash = "82f5fc6bea99c22ced7cdb7bf588e8c47c8c27ebc3826ddead1dd752111ae63c"

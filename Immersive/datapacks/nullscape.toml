@@ -1,0 +1,8 @@
+name = "Nullscape"
+filename = "Nullscape_1.20.4_v1.2.4.zip"
+side = "server"
+
+[download]
+url = "https://github.com/Stardust-Labs-MC/Nullscape/releases/download/v1.2.4/Nullscape_1.20.4_v1.2.4.zip"
+hash-format = "sha256"
+hash = "86405526f35aa8ebe6110af945da657ed31723e87a8af8e876baa777fe0f2ff5"

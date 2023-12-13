@@ -1,7 +1,7 @@
 {
   "schema_version": 1,
   "failed_reloads_per_session": 5,
-  "default_packs": [
+  "default_packs": ["vanilla","file/Fast Better Grass.zip","cullleaves/smartleaves","file/cubic-sun-moon-vb-1-7-2-b.zip","presencefootsteps/default_sound_pack","file/Nautilus3D-V1.9.1.zip","file/VanillaTweaks_r831601.zip","file/[EBE] Sign+ V1.1.zip","file/Default-Dark-Mode-1.20.2+-2023.11.0.zip","armorchroma/alternative-icons","file/enchant icons 1.20 v1.3.zip","file/UniqueEnchantedBooks_v2.0.3.zip","distinguishedpotions:potion_overrides","file/EclecticTrove-noconfig-1.20.1-1.2.0.zip"
   ],
   "default_overrides": {
     "force_compatible": true

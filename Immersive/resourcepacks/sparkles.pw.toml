@@ -1,0 +1,13 @@
+name = "Sparkles: Stardust Labs Resourcepack"
+filename = "Sparkles_1.20.4_v1.0.2.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HfNmMQ9E/versions/xh024eua/Sparkles_1.20.4_v1.0.2.zip"
+hash-format = "sha1"
+hash = "68e3af8d98636ad795f36cf51d7f69d6bf78024b"
+
+[update]
+[update.modrinth]
+mod-id = "HfNmMQ9E"
+version = "xh024eua"

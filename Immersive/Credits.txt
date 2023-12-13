@@ -1,55 +1,59 @@
 Amy's Immersive Vanilla ModPack is intended to ONLY be distributed via Modrinth.com but includes files from several sources.  All diligence was done to assure at the time of publication I had permission to redistribute these files:
 
 PERFORMANCE
- Blanket client-tweaks {MIT}
-   Bug fixes (Client) https://modrinth.com/mod/blanket
- Carpet {MIT}
-   Additional commands and settings (Server) https://modrinth.com/mod/carpet
- Carpet-Fixes {MIT}
-   Bug Fixes (Client or Server) https://modrinth.com/mod/carpet-fixes
- Clumps {MIT}
-   XP orb optimization (Client and Server) https://modrinth.com/mod/clumps
- Concurrent Chunk Management Engine (Fabric) {MIT}
-   Chunk optimization (Client or Server) https://modrinth.com/mod/c2me-fabric
- Cull Leaves {MIT}
-   Leaf rendering culling (Client) https://modrinth.com/mod/cull-leaves
- Default Options {twelveiterations}
-   Allows modpack to install with pre-defined settings (Client) https://modrinth.com/mod/default-options
- Dynamic FPS {MIT}
-   Allows dynamically changing FPS (Client) https://modrinth.com/mod/dynamic-fps
- Enhanced Block Entities {LGPL-3.0-only}
-   Block entity rendering optimization (Client) https://modrinth.com/mod/ebe
- Entity Culling {tr7zw Protective License}
-   Entity rendering culling (Client) https://modrinth.com/mod/entityculling
- FerriteCore {MIT}
-   Memory usage optimization (Client or Server) https://modrinth.com/mod/ferrite-core
- Hold That Chunk {MIT}
-   Chunk loading optimization (Client) https://modrinth.com/mod/hold-that-chunk
- ImmediatelyFast {LGPL-3.0-only}
-   Rendering optimization (Client) https://modrinth.com/mod/immediatelyfast
- Krypton {LGPL-3.0-only}
-   Network optimization (Client or Server) https://modrinth.com/mod/krypton
- Lithium {LGPL-3.0-only}
-   Multiple optimizations (Client or Server) https://modrinth.com/mod/lithium
- Memory Leak Fix {LGPL-2.1-only}
-  Memory fixes (Client or Server) https://modrinth.com/mod/memoryleakfix
- MixinTrace {MIT}
-   Improves crash reports (Client or Server) https://modrinth.com/mod/mixintrace
- ModernFix {LGPL-3.0-only}
-   Multiple fixes and optimizations (Client or Server) https://modrinth.com/mod/modernfix
- More Culling {LGPL-2.1-only}
-   Rendering culling (Client) https://modrinth.com/mod/moreculling
- More Culling Extra {MIT}
-   Additional rendering culling (Client) https://modrinth.com/mod/morecullingextra
- Not Enough Crashes {MIT}
-   Improved crash handling (Client or Server) https://modrinth.com/mod/notenoughcrashes
- Sodium {LGPL-3.0-only}
-   Rendering engine optimization (Client) https://modrinth.com/mod/sodium
- Sodium Extra {LGPL-3.0-only}
-   Additional rendering optimizations (Client) https://modrinth.com/mod/sodium-extra
- Starlight (Fabric) {LGPL-3.0-only}
-   Light engine optimizations (Client or Server) https://modrinth.com/mod/starlight
-
+  Alternate Current {MIT}
+    Efficient and non-locational redstone dust implementation (Server) https://modrinth.com/mod/alternate-current
+  Blanket client-tweaks {MIT}
+    Bug fixes (Client) https://modrinth.com/mod/blanket
+  Carpet {MIT}
+    Additional commands and settings (Server) https://modrinth.com/mod/carpet
+  Carpet-Fixes {MIT}
+    Bug Fixes (Client or Server) https://modrinth.com/mod/carpet-fixes
+  Clumps {MIT}
+    XP orb optimization (Client and Server) https://modrinth.com/mod/clumps
+  Concurrent Chunk Management Engine (Fabric) {MIT}
+    Chunk optimization (Client or Server) https://modrinth.com/mod/c2me-fabric
+  Cull Leaves {MIT}
+    Leaf rendering culling (Client) https://modrinth.com/mod/cull-leaves
+  Default Options {twelveiterations}
+    Allows modpack to install with pre-defined settings (Client) https://modrinth.com/mod/default-options
+  Dynamic FPS {MIT}
+    Allows dynamically changing FPS (Client) https://modrinth.com/mod/dynamic-fps
+  Enhanced Block Entities {LGPL-3.0-only}
+    Block entity rendering optimization (Client) https://modrinth.com/mod/ebe
+  Entity Culling {tr7zw Protective License}
+    Entity rendering culling (Client) https://modrinth.com/mod/entityculling
+  FerriteCore {MIT}
+    Memory usage optimization (Client or Server) https://modrinth.com/mod/ferrite-core
+  Hold That Chunk {MIT}
+    Chunk loading optimization (Client) https://modrinth.com/mod/hold-that-chunk
+  ImmediatelyFast {LGPL-3.0-only}
+    Rendering optimization (Client) https://modrinth.com/mod/immediatelyfast
+  Krypton {LGPL-3.0-only}
+    Network optimization (Client or Server) https://modrinth.com/mod/krypton
+  Lithium {LGPL-3.0-only}
+    Multiple optimizations (Client or Server) https://modrinth.com/mod/lithium
+  Memory Leak Fix {LGPL-2.1-only}
+   Memory fixes (Client or Server) https://modrinth.com/mod/memoryleakfix
+  MixinTrace {MIT}
+    Improves crash reports (Client or Server) https://modrinth.com/mod/mixintrace
+  ModernFix {LGPL-3.0-only}
+    Multiple fixes and optimizations (Client or Server) https://modrinth.com/mod/modernfix
+  More Culling {LGPL-2.1-only}
+    Rendering culling (Client) https://modrinth.com/mod/moreculling
+  More Culling Extra {MIT}
+    Additional rendering culling (Client) https://modrinth.com/mod/morecullingextra
+  Not Enough Crashes {MIT}
+    Improved crash handling (Client or Server) https://modrinth.com/mod/notenoughcrashes
+  Sodium {LGPL-3.0-only}
+    Rendering engine optimization (Client) https://modrinth.com/mod/sodium
+  Sodium Extra {LGPL-3.0-only}
+    Additional rendering optimizations (Client) https://modrinth.com/mod/sodium-extra
+  Spark {GPL-3.0-only}
+    Profile minecraft performance (Client or Server) https://modrinth.com/mod/spark
+  Starlight (Fabric) {LGPL-3.0-only}
+    Light engine optimizations (Client or Server) https://modrinth.com/mod/starlight
+ 
 UI/UX
   Advancement Plaques {CC-BY-NC-ND-4.0}
     Better looking advancement popups (Client) https://modrinth.com/mod/advancement-plaques

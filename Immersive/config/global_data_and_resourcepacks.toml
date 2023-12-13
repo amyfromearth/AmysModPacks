@@ -5,7 +5,7 @@
 # <user_home>/.minecraft_global_packs/optional_datapacks
 # <user_home>/.minecraft_global_packs/required_resourcepacks
 # <user_home>/.minecraft_global_packs/optional_resourcepacks
-enable_system_global_packs = true
+enable_system_global_packs = false
 
 #This config allows you to add or remove folders or single files as Data-/Resourcepacks
 #For that simply specify the file path to the folder/file relative to your .minecraft or instance folder
@@ -13,14 +13,10 @@ enable_system_global_packs = true
 [resourcepacks]
 required = [
     #"other_folder/random_pack.zip" # You can also point at specific files!
-    "global_packs/required_resources/"
+    "resourcepacks/"
 ]
 
 [datapacks]
 required = [
     "datapacks/"
-]
-
-optional = [
-    "global_packs/optional_data/"
 ]

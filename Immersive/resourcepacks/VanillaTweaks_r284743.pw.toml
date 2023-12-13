@@ -1,8 +1,0 @@
-name = "Vanilla Tweaks Visuals Resource Pack"
-filename = "VanillaTweaks_r284743.zip"
-side = "client"
-
-[download]
-url = "https://vanillatweaks.net/download/VanillaTweaks_r284743.zip"
-hash-format = "sha256"
-hash = "16106b6ac52594c5afaffcef926436f7affe03da9abb06b7f218cfa241f4a4da"
