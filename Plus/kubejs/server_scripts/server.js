@@ -4,29 +4,29 @@
 
 console.info('Server Ready (Loaded server scripts)')
 
-//Recipes
+//Recipes (COMMENTED OUT BECAUSE RECIPE MANAGER IS BORKED)
 //Recipes with item input 'chest' accept any item with tag 'chest'
-ServerEvents.recipes(event => {
-    event.replaceInput(
-      { input: 'minecraft:chest' },
-      'minecraft:chest',
-      '#c:wooden_chest'
-    )
+//ServerEvents.recipes(event => {
+//    event.replaceInput(
+//      { input: 'minecraft:chest' },
+//      'minecraft:chest',
+//      '#c:wooden_chest'
+//    )
 //Remove mod provided recipe for backpack
-    event.remove({id:'umu_backpack:backpack'})
+//    event.remove({id:'umu_backpack:backpack'})
 //Backpack uses items found in overworld from multiple mods
-  event.shaped('umu_backpack:backpack', [
-    'WNW',
-    'RLR',
-    'WBW'
-  ], {
-    B: 'minecraft:bundle',
-    L: 'minecraft:leather_chestplate',
-    N: 'create:brass_nugget',
-    R: 'farmersdelight:rope',
-    W: '#minecraft:wool'
-  })
-})
+//  event.shaped('umu_backpack:backpack', [
+//    'WNW',
+//    'RLR',
+//    'WBW'
+//  ], {
+//    B: 'minecraft:bundle',
+//    L: 'minecraft:leather_chestplate',
+//    N: 'create:brass_nugget',
+//    R: 'farmersdelight:rope',
+//    W: '#minecraft:wool'
+//  })
+//})
 //Loot tables
 //Acacia sticks from This Rocks! mod drops itself
 ServerEvents.blockLootTables(event => {

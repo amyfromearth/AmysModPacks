@@ -1,13 +1,13 @@
 name = "Fire Spread Tweaks"
-filename = "firespreadtweaks-1.20.1-2.4.jar"
+filename = "firespreadtweaks-1.20.1-2.5.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/vgI7KTun/versions/JDXDpYyz/firespreadtweaks-1.20.1-2.4.jar"
+url = "https://cdn.modrinth.com/data/vgI7KTun/versions/sD4AQ7VH/firespreadtweaks-1.20.1-2.5.jar"
 hash-format = "sha1"
-hash = "bba9dbba0e407c8d5809399706ca002a162b1b01"
+hash = "ae7ddec613a21be676cfa32573597a72eb0fcb9a"
 
 [update]
 [update.modrinth]
 mod-id = "vgI7KTun"
-version = "JDXDpYyz"
+version = "sD4AQ7VH"

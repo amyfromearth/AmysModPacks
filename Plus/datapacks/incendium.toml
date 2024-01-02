@@ -1,0 +1,8 @@
+name = "Incendium"
+filename = "Incendium_1.20.4_v5.3.4.zip"
+side = "server"
+
+[download]
+url = "https://github.com/Stardust-Labs-MC/Incendium/releases/download/v5.3.4/Incendium_1.20.4_v5.3.4.zip"
+hash-format = "sha256"
+hash = "d9bbc92c553a85b5a4eb7bddd2b00f24f8de8ddf623d1b75176fea44bbafee29"

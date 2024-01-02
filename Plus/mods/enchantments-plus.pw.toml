@@ -1,13 +1,13 @@
 name = "Enchantments-Plus"
-filename = "enchantments-plus-fabric-1.2.0+1.20.1.jar"
+filename = "enchantments-plus-fabric-1.2.1+1.20.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/Kfr0BQO9/versions/iQSZBVOh/enchantments-plus-fabric-1.2.0%2B1.20.1.jar"
+url = "https://cdn.modrinth.com/data/Kfr0BQO9/versions/LGfYMkPu/enchantments-plus-fabric-1.2.1%2B1.20.1.jar"
 hash-format = "sha1"
-hash = "573f1544090dd61f265ae8292654c416d0181f15"
+hash = "1b5ed27a8bc3a98645f8afee04f5140e682f9926"
 
 [update]
 [update.modrinth]
 mod-id = "Kfr0BQO9"
-version = "iQSZBVOh"
+version = "LGfYMkPu"

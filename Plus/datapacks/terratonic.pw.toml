@@ -1,0 +1,13 @@
+name = "Terratonic"
+filename = "terratonic-datapack-mc1.19+-v3.0.1.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/3L2L6sWL/versions/c3jDjKaN/terratonic-datapack-mc1.19%2B-v3.0.1.zip"
+hash-format = "sha1"
+hash = "c976249cc1196c0595166758b8bfe05d2bf98300"
+
+[update]
+[update.modrinth]
+mod-id = "3L2L6sWL"
+version = "c3jDjKaN"

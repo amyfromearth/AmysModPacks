@@ -1,13 +1,13 @@
 name = "Pet Names"
-filename = "petnames-1.20.1-3.2.jar"
+filename = "petnames-1.20.1-3.3.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/tOoh2eQm/versions/IFFh4Na7/petnames-1.20.1-3.2.jar"
+url = "https://cdn.modrinth.com/data/tOoh2eQm/versions/xeK86JZw/petnames-1.20.1-3.3.jar"
 hash-format = "sha1"
-hash = "221c7c0b7338e903839743eaa3be49256a5aec68"
+hash = "70510ee98053dca965941de0780332258353365a"
 
 [update]
 [update.modrinth]
 mod-id = "tOoh2eQm"
-version = "IFFh4Na7"
+version = "xeK86JZw"

@@ -2,6 +2,116 @@
 
 All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in this file. The format is based on [Keep a Changelog](https://keepachangelog.com/en/1.1.0/)
 
+## [UNRELEASED]
+
+### Fixed
+
+  - Paper doll no longer overlaps with potion effects indicator
+  - Inventory screen with EMI is less cluttered now
+  - Map Atlas now only shows on screen when held or in trinkets slot
+  - Sawmill recipes now show correctly
+  - Blocks from Aurora's Decorations no longer render x-ray vision around edges
+  - UI is less "busy" and should be less overwhelming (feedback very much wanted)
+
+### Changed
+
+  - Updated version number
+  - Updated configs
+    * Updated Complimentary Shaders config with new settings options for v5.1
+  - Updated mods
+    * Areas
+    * Argonauts
+    * Azurelib Armor
+    * Azurelib
+    * Balm
+    * Beautified Chat Client
+    * Better Advancements
+    * Better Clouds
+    * Better Conduit Placement
+    * Better Stats
+    * Bookshelf Lib
+    * Cadmus
+    * Camera Utils 
+    * Cloth Config
+    * Collective
+    * Compact Help Command
+    * Conduits Prevent Drowned
+    * Cycle Paintings
+    * Double Doors
+    * Dynamic FPS
+    * Easy Shulker Boxes
+    * EMI
+    * Enchantments Plus
+    * Entity Model Features
+    * Entity Texture Features
+    * Equipment Compare
+    * Essential Commands
+    * Extended Drawers
+    * Farmer's Delight
+    * Fire Spread Tweaks
+    * Friends & Foes
+    * Gecko Lib
+    * Healing Campfire
+    * Iceberg
+    * Jade
+    * Just Mob Heads
+    * Just Player Heads
+    * KubeJS
+    * ModernFix
+    * Nether Portal Spread
+    * No Hostiles Around Campfire
+    * Patchouli
+    * Pet Names
+    * Plushie
+    * Polymer
+    * Prometheus
+    * Puzzles Lib
+    * Raknetify
+    * Random Village Names
+    * Realistic Bees
+    * Realistic Sleep
+    * Replanting Crops
+    * Resourceful Lib
+    * Rhino
+    * Scaffolding Drops Nearby
+    * Snowballs Freeze Mobs
+    * Sound Physics Remastered
+    * Starter Kit
+    * Talk Bubbles
+    * Villager Names
+    * Waystones
+    * Wool Tweaks
+    * World Preview
+  - Updated datapacks
+    * Structory
+    * Structory: Towers
+  - Updated resourcepacks
+    * Fast Better Grass
+  - Updated shaderpacks
+    * Complementary Reimagined
+  - Switched mods to datapack version
+    * Incendium
+    * Nullscape
+    * Terralith
+
+### Removed
+
+  - Tectonic mod (Replaced with Terratonic)
+
+### Added
+
+  - Added configs
+    * MoreCulling
+    * ReplayMod
+  - Added mods
+    * CraftTweaker
+    * Enchantment Descriptions
+    * Faux Custom Entity Data
+    * Freecam
+    * ReplayMod
+  - Added datapacks
+    * Terratonic
+
 ## [0.10.0] - 2023-11-30
 
 ### Fixed

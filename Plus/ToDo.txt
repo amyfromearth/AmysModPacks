@@ -6,7 +6,7 @@ x check enchanted loot for tool compatibility (no more fishing rods with double 
 @MapAtlas not showing up in "craftable" window +Client +Server
 @JustMoreCakes items not showing up in "craftable" window of @EMI +Client +Server
 Azalea and Jacaranda wood compat (especially chests) +Client +Server @AurorasDecorations
-Fix rendering issues with wood piles +Client @AurorasDecorations
+x Fix rendering issues with wood piles +Client @AurorasDecorations
 Find replacement for @ColorfulContainers +Client tag:resourcepack
 @UniversalOres mod and @Nautilus3D resourcepack compat +Client tag:resourcepack 
 @Farmer'sDelight mod and @Nautilus3D resourcepack compat +Client tag:resourcepack 
@@ -43,7 +43,7 @@ x Spice of Fabric too harsh +Client +Server @SpiceOfFabric
 x Wizards, Priests & Paladins crashes after using wand when shield is hidden +Client +Server @Wizards @Priests&Paladins
 x Lootr worldgen inconsistent +Client +Server @Lootr
 x People hate new keybinds +Client @DefaultOptions
-Shader config files need updated to newest version +Client +Server @ComplementaryReimagine @MakeUp-UltraFast
+x (A) Shader config files need updated to newest version +Client +Server @ComplementaryReimagine @MakeUp-UltraFast
 Peppers and asparagus don't auto replant +Client +Server @ReplantingCrops @ExpandedDelight
 x Massive lag when around Create contraptions when using shaders +Client @Create @ComplementaryReimagine @MakeUp-UltraFast
 @DefaultDarkMode GUI for @EMI is too dark to see some items +Client tag:resourcepack
@@ -53,12 +53,12 @@ x Make backpack easier to obtain +Client +Server tag:KubeJS @UMUBackpacks
 x Adjust IPN buttons on Utility belt UI +Client @IPN @UtilityBelt
 x Have any fish related food recipe accept all fish variants +Client +Server tag:KubeJS @Naturalist @FarmersDelight @ExpandedDelight @DelightfulCreators
 x Disable Fabric Seasons on skylands +Client +Server @Terralith @FabricSeasons
-(B) Moving items on @Create contraptions disappear when using shaders with shadows enabled +Client @ComplementaryReimagined @MakeUp-UltraFast @Iris&OculusFlywheelCompat
+(B) Moving items on @Create contraptions disappear when using shaders with shadows enabled +Client (https://github.com/leon-o/iris-flw-compat/issues/71) @ComplementaryReimagined @MakeUp-UltraFast @Iris&OculusFlywheelCompat
 x Check enchantments in Qu Enchantments +Client +Server @QuEnchantments
 x change arrrows so they are same fuel as stick +Client +Server
 Fix Carrot's potato gun +Client +Server @Create
 x Switch to GitHub for development @GitHub
-Add descriptions for new enchants +Client +Server @QuEnchantments @SpellEngine @SpellPower @Archers @Wizards @Priests&Paladins
+x Add descriptions for new enchants +Client +Server @SpellEngine @SpellPower @Archers @Wizards @Priests&Paladins
 x Write Modrinth description 
 x Upload to Modrinth
 Copper recipe in stone cutter provides too many slabs +Client +Server tag:KubeJS @Consistency+
@@ -78,7 +78,7 @@ Check compatibility @CreateSandpaperOverhaul +Client +Server tag:FeatureRequest
 Can modded crafting blocks act like @EasyMagic and @EasyAnvil +Client +Server
 Check all mods config settings +Client +Server
 @ExtendedDrawers recipes don't have any chest input after update +Client +Server
-@AurorasDecorations sawmil lost recipes after update ( @KubeJS issue https://github.com/KubeJS-Mods/KubeJS/issues/534 ) +Client +Server
+x @AurorasDecorations sawmil lost recipes after update ( @KubeJS issue https://github.com/KubeJS-Mods/KubeJS/issues/534 ) +Client +Server
 Mod to replace trap doors, stairs, and slabs in building +Client +Server
 kitchen style crafting table tag:FeatureRequest +Client +Server
 @Tweakaroo config (hotkeys) +Client +Server
@@ -90,10 +90,17 @@ Guidebook? +Client +Server tag:FeatureRequest
 Tag:FeatureRequest Polar bears wear armor +Client +Server 
 Tag:FeatureRequest bedrock style book & quill +Client +Server
 Swap @Handcrafted for @Furnish +Client +Server
-Update Stardust Labs mods @Terralith @Incendium @Nullscape @Structory +Client +Server
-Add @FreeCam and @ReplayMod +Client
+x Update Stardust Labs mods @Terralith @Incendium @Nullscape @Structory +Client +Server
+x Add @FreeCam and @ReplayMod +Client
 x Submit GitHub:FeatureRequest for @DefaultDarkMode to support @UtilityBelt
-@Iris asks for update +Client
-De-clutter UI +Client
+x @Iris asks for update +Client
+x De-clutter UI +Client
 set datapack order +Client +Server
-(A) Restructure git
+(D) Restructure git
+tag:FeatureRequest 2 drawer compacting +Client +Server
+Change Nylium footstep sound +Client
+@Chipped lanterns disappear when placed on side of logs +Client +Server
+x @PaperDoll icon needs to be lowered +Client
+@Furnish not loading workbench gui +Client
+x remove recipe calls from @KubeJS scripts +Client +Server
+@MoreChestVariants missing textures +Client

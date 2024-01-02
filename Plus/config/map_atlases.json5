@@ -10,7 +10,7 @@
 	// If 'true', Atlases will be able to store Empty Maps and auto-fill them as you explore.
 	"enableEmptyMapEntryAndFill": true,
 	// Controls location where mini-map displays. Any of: 'HANDS', 'HOTBAR', or 'INVENTORY'.
-	"activationLocation": "INVENTORY",
+	"activationLocation": "HANDS",
 	// Scale the world-map to a given % of the height of your screen.
 	"forceWorldMapScaling": 80,
 	// Set to any of 'Upper'/'Lower' & 'Left'/'Right' to control anchor position of mini-map
@@ -42,5 +42,4 @@
 	// If enabled, you can increase the Empty Map count by inserting Paper
 	"acceptPaperForEmptyMaps": true,
 	// Multiplier for all the Atlases sound float
-	"soundScalar": 1.0
-}
+	"soundScalar": 0.35	

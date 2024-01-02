@@ -1,7 +1,14 @@
 {
   "favorites": [],
-  "lookup_history": [],
-  "craft_history": [],
+  "lookup_history": [
+    "item:minecraft:potion{Potion:\"minecraft:long_regeneration\"}",
+    "item:aurorasdeco:sawmill"
+  ],
+  "craft_history": [
+    "aurorasdeco:jacaranda_pressure_plate",
+    "aurorasdeco:azalea_planks",
+    "minecraft:crafting_table"
+  ],
   "recipe_defaults": {
     "added": [],
     "tags": {},
@@ -529,23 +536,6 @@
     "item:earthtojavamobs:horn",
     "item:extended_drawers:creative_upgrade",
     "item:extended_drawers:dupe_wand",
-    "item:aurorasdeco:small_log_pile/spruce",
-    "item:aurorasdeco:small_log_pile/birch",
-    "item:aurorasdeco:small_log_pile/jungle",
-    "item:aurorasdeco:small_log_pile/acacia",
-    "item:aurorasdeco:small_log_pile/dark_oak",
-    "item:aurorasdeco:small_log_pile/mangrove",
-    "item:aurorasdeco:small_log_pile/cherry",
-    "item:aurorasdeco:small_log_pile/flowering_azalea",
-    "item:aurorasdeco:small_log_pile/azalea",
-    "item:aurorasdeco:small_log_pile/jacaranda",
-    "item:aurorasdeco:small_log_pile/bamboo",
-    "item:aurorasdeco:small_log_pile/mushroom",
-    "item:aurorasdeco:small_log_pile/crimson",
-    "item:aurorasdeco:small_log_pile/warped",
-    "item:aurorasdeco:small_log_pile/treechop/chopped",
-    "item:aurorasdeco:small_log_pile/expandeddelight/cinnamon",
-    "item:aurorasdeco:small_log_pile/betterarcheology/rotten",
     "item:aurorasdeco:stump/treechop/chopped",
     "item:aurorasdeco:stump/betterarcheology/rotten",
     "item:aurorasdeco:bench/betterarcheology/rotten",
