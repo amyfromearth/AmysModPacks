@@ -12,6 +12,8 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
   - Sawmill recipes now show correctly
   - Blocks from Aurora's Decorations no longer render x-ray vision around edges
   - UI is less "busy" and should be less overwhelming (feedback very much wanted)
+  - Any recipe requiring vanilla chests now accepts wooden chest variants (CraftTweaker method)
+  - Backpack can now be obtained without leaving the overworld (CraftTweaker method)
 
 ### Changed
 
@@ -100,6 +102,7 @@ All notable changes to Amy's Awesome Vanilla Plus ModPack will be documented in 
 
 ### Added
 
+  - Add recipes.zs script
   - Added configs
     * MoreCulling
     * ReplayMod

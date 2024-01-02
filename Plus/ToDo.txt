@@ -89,7 +89,7 @@ Guidebook? +Client +Server tag:FeatureRequest
 @Patchouli invalid books? +Client +Server
 Tag:FeatureRequest Polar bears wear armor +Client +Server 
 Tag:FeatureRequest bedrock style book & quill +Client +Server
-Swap @Handcrafted for @Furnish +Client +Server
+x Swap @Handcrafted for @Furnish +Client +Server
 x Update Stardust Labs mods @Terralith @Incendium @Nullscape @Structory +Client +Server
 x Add @FreeCam and @ReplayMod +Client
 x Submit GitHub:FeatureRequest for @DefaultDarkMode to support @UtilityBelt
@@ -104,3 +104,6 @@ x @PaperDoll icon needs to be lowered +Client
 @Furnish not loading workbench gui +Client
 x remove recipe calls from @KubeJS scripts +Client +Server
 @MoreChestVariants missing textures +Client
+@CraftTweaker errors    ([WARN][CraftTweaker]: Tag '<tag:items:lolmcv:trapped_more_chest>' does not exist, replacing with empty IIngredient)
+                        ([WARN][CraftTweaker]: Tag '<tag:items:fabric:glass>' does not exist, replacing with empty IIngredient)
+@Furnish can't use furniture workbench +Client +Server
